@@ -5,6 +5,8 @@
 
 This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. This is expected to continue until at least May 21st 2021 (at least 143 organizations will be made for this month at this point) (as of Friday, March 7th 2021 at 5:45 pm)
 
+**This list was last updated on:** `Saturday, May 8th 2021 at 3:39 pm`
+
 ##### May 1st 2021
 
 https://github.com/Seanpm2001-gaming
@@ -116,5 +118,21 @@ https://github.com/Seanpm2001-Mozilla
 https://github.com/Seanpm2001-Godzilab
 
 https://github.com/Seanpm2001-Glu
+
+##### May 8th 2021
+
+https://github.com/Underune-maker
+
+https://github.com/Snail-bob-maker
+
+https://github.com/Egg-org
+
+https://github.com/Economica-dev
+
+https://github.com/OpenTowers
+
+https://github.com/MadLibby
+
+https://github.com/Virtual-VHS
 
 ***
