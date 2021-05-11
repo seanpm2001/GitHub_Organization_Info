@@ -5,7 +5,7 @@
 
 This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least May 28th 2021 2021, and possibly up to June 20th 2021 (at least 225 organizations will be made for this month at this point) (as of Monday, May 10th 2021 at 5:32 pm)
 
-**This list was last updated on:** `Monday, May 10th 2021 at 5:32 pm`
+**This list was last updated on:** `Tuesday, May 11th 2021 at 12:54 pm`
 
 ##### May 1st 2021
 
@@ -172,5 +172,45 @@ https://github.com/Seanpm2001-Python
 https://github.com/Seanpm2001-CPP-Lang
 
 https://github.com/Seanpm2001-HTML5-Lang
+
+#### May 11th 2021
+
+https://github.com/Seanpm2001-C-lang
+
+https://github.com/Seanpm2001-Java-lang
+
+https://github.com/Seanpm2001-Shell-lang
+
+https://github.com/Seanpm2001-PHP-lang
+
+https://github.com/Seanpm2001-JavaScript-lang
+
+https://github.com/Seanpm2001-GoogleGo-lang
+
+https://github.com/Seanpm2001-Vala-lang
+
+https://github.com/Seanpm2001-Nim-lang
+
+https://github.com/Seanpm2001-Pascal-lang
+
+https://github.com/Seanpm2001-Assembly-lang
+
+***
+
+## File info
+
+File type: `Markdown (*.md)`
+
+File version: `5 (Tuesday, May 11th 2021 at 12:54 pm)`
+
+Line count (including blank lines and compiler line): `217`
+
+***
+
+## Footer
+
+You have reached the end of this file.
+
+### EOF
 
 ***
