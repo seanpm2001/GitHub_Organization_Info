@@ -3,9 +3,9 @@
 
 # New organizations May 2021
 
-This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least May 28th 2021 2021, and possibly up to June 20th 2021 (at least 225 organizations will be made for this month at this point) (as of Monday, May 10th 2021 at 5:32 pm)
+This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least May 28th 2021, and possibly up to June 20th 2021 (at least 225 organizations will be made for this month at this point) (as of Monday, May 10th 2021 at 5:32 pm)
 
-**This list was last updated on:** `Wdnesday, May 12th 2021 at 12:18 pm`
+**This list was last updated on:** `Thursday, May 13th 2021 at 11:39 am`
 
 ##### May 1st 2021
 
@@ -217,15 +217,37 @@ https://github.com/Seanpm2001-Lua-lang
 
 https://github.com/Seanpm2001-Inno-setup-lang
 
+#### May 13th 2021
+
+https://github.com/Seanpm2001-Kotlin-lang
+
+https://github.com/Seanpm2001-Lisp-lang
+
+https://github.com/Seanpm2001-Scheme-lang
+
+https://github.com/Seanpm2001-COBOL-Lang
+
+https://github.com/Seanpm2001-FORTRAN-Lang
+
+https://github.com/Seanpm2001-VisualBasicScript-lang
+
+https://github.com/Seanpm2001-PostScript-lang
+
+https://github.com/Seanpm2001-TypeScript-lang
+
+https://github.com/Seanpm2001-Ruby-lang
+
+https://github.com/Seanpm2001-QSharp-lang
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `6 (Wednesday, May 12th 2021 at 12:18 pm)`
+File version: `7 (Thursday, May 13th 2021 at 11:39 am)`
 
-Line count (including blank lines and compiler line): `239`
+Line count (including blank lines and compiler line): `261`
 
 ***
 
