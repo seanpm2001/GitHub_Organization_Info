@@ -3,9 +3,9 @@
 
 # New organizations May 2021
 
-This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least May 28th 2021, and possibly up to June 20th 2021 (at least 225 organizations will be made for this month at this point) (as of Monday, May 10th 2021 at 5:32 pm)
+This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 4th 2021, and possibly up to June 20th 2021 (at least 256 organizations will be made for this month at this point) (as of Friday, May 14th 2021 at 3:18 pm)
 
-**This list was last updated on:** `Thursday, May 13th 2021 at 11:39 am`
+**This list was last updated on:** `Friday, May 14th 2021 at 3:18 pm`
 
 ##### May 1st 2021
 
@@ -239,15 +239,37 @@ https://github.com/Seanpm2001-Ruby-lang
 
 https://github.com/Seanpm2001-QSharp-lang
 
+#### May 14th 2021
+
+https://github.com/Seanpm2001-FSharp-lang
+
+https://github.com/Seanpm2001-Objective-C-Lang
+
+https://github.com/Seanpm2001-Swift-lang
+
+https://github.com/Seanpm2001-Scala-lang
+
+https://github.com/Seanpm2001-CSS-Lang
+
+https://github.com/Seanpm2001-D-lang
+
+https://github.com/Seanpm2001-LispFlavoredErlang-Lang
+
+https://github.com/seanpm2001-R-lang
+
+https://github.com/Seanpm2001-REBOL-Lang
+
+https://github.com/Seanpm2001-Objective-J-Lang
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `7 (Thursday, May 13th 2021 at 11:39 am)`
+File version: `8 (Friday, May 14th 2021 at 3:18 pm)`
 
-Line count (including blank lines and compiler line): `261`
+Line count (including blank lines and compiler line): `283`
 
 ***
 
