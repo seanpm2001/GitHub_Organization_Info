@@ -5,7 +5,7 @@
 
 This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 4th 2021, and possibly up to June 20th 2021 (at least 256 organizations will be made for this month at this point) (as of Friday, May 14th 2021 at 3:18 pm)
 
-**This list was last updated on:** `Friday, May 14th 2021 at 3:18 pm`
+**This list was last updated on:** `Saturday, May 15th 2021 at 4:00 pm`
 
 ##### May 1st 2021
 
@@ -135,7 +135,7 @@ https://github.com/MadLibby
 
 https://github.com/Virtual-VHS
 
-#### May 9th 2021
+##### May 9th 2021
 
 https://github.com/Ultra-image-studio
 
@@ -151,7 +151,7 @@ https://github.com/Seanpm2001-SEGA
 
 https://github.com/seanpm2001-Popcapgames
 
-#### May 10th 2021
+##### May 10th 2021
 
 https://github.com/Seanpm2001-education
 
@@ -173,7 +173,7 @@ https://github.com/Seanpm2001-CPP-Lang
 
 https://github.com/Seanpm2001-HTML5-Lang
 
-#### May 11th 2021
+##### May 11th 2021
 
 https://github.com/Seanpm2001-C-lang
 
@@ -195,7 +195,7 @@ https://github.com/Seanpm2001-Pascal-lang
 
 https://github.com/Seanpm2001-Assembly-lang
 
-#### May 12th 2021
+##### May 12th 2021
 
 https://github.com/Seanpm2001-Perl-lang
 
@@ -217,7 +217,7 @@ https://github.com/Seanpm2001-Lua-lang
 
 https://github.com/Seanpm2001-Inno-setup-lang
 
-#### May 13th 2021
+##### May 13th 2021
 
 https://github.com/Seanpm2001-Kotlin-lang
 
@@ -239,7 +239,7 @@ https://github.com/Seanpm2001-Ruby-lang
 
 https://github.com/Seanpm2001-QSharp-lang
 
-#### May 14th 2021
+##### May 14th 2021
 
 https://github.com/Seanpm2001-FSharp-lang
 
@@ -261,15 +261,37 @@ https://github.com/Seanpm2001-REBOL-Lang
 
 https://github.com/Seanpm2001-Objective-J-Lang
 
+##### May 15th 2021
+
+https://github.com/Seanpm2001-SQL-Lang
+
+https://github.com/Seanpm2001-Piglatin-lang
+
+https://github.com/Seanpm2001-CSharp-lang
+
+https://github.com/Seanpm2001-ALGOL-Lang
+
+https://github.com/Seanpm2001-Hack-lang
+
+https://github.com/Seanpm2001-Julia-lang
+
+https://github.com/Seanpm2001-AWK-Lang
+
+https://github.com/Seanpm2001-M4-Lang
+
+https://github.com/Seanpm2001-GLSL-Lang
+
+https://github.com/Seanpm2001-ActionScript-lang
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `8 (Friday, May 14th 2021 at 3:18 pm)`
+File version: `9 (Saturday, May 15th 2021 at 4:00 pm)`
 
-Line count (including blank lines and compiler line): `283`
+Line count (including blank lines and compiler line): `305`
 
 ***
 
