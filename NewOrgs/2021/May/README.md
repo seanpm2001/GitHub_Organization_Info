@@ -5,7 +5,7 @@
 
 This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 4th 2021, and possibly up to June 20th 2021 (at least 256 organizations will be made for this month at this point) (as of Friday, May 14th 2021 at 3:18 pm)
 
-**This list was last updated on:** `Sunday, May 16th 2021 at 5:31 pm`
+**This list was last updated on:** `Monday, May 17th 2021 at 3:03 pm`
 
 ##### May 1st 2021
 
@@ -305,15 +305,37 @@ https://github.com/Seanpm2001-iOS
 
 https://github.com/Seanpm2001-HyperHippo
 
+##### May 17th 2021
+
+https://github.com/Seanpm2001-KolibriGames
+
+https://github.com/Seanpm2001-HalfBrick-games
+
+https://github.com/Seanpm2001-EAGames
+
+https://github.com/Seanpm2001-Disney
+
+https://github.com/Seanpm2001-Apps
+
+https://github.com/Seanpm2001-Emulators
+
+https://github.com/Seanpm2001-VoiceGod
+
+https://github.com/TalkScript
+
+https://github.com/Matrix-lang
+
+https://github.com/Timeout-toolkit
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `10 (Sunday, May 16th 2021 at 5:31 pm)`
+File version: `11 (Monday, May 17th 2021 at 3:03 pm)`
 
-Line count (including blank lines and compiler line): `327`
+Line count (including blank lines and compiler line): `349`
 
 ***
 
