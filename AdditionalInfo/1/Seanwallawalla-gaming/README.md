@@ -1,7 +1,7 @@
 
 ***
 
-![LowQuality_SWWGaming.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanwallawalla-Gaming/LowQuality_SWWGaming.jpeg)
+![LowQuality_SWWGaming.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanwallawalla-gaming/LowQuality_SWWGaming.jpeg)
 
 # GitHub organization: Seanwallawalla-Gaming
 
