@@ -5,7 +5,7 @@
 
 This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 4th 2021, and possibly up to June 20th 2021 (at least 256 organizations will be made for this month at this point) (as of Friday, May 14th 2021 at 3:18 pm)
 
-**This list was last updated on:** `Monday, May 17th 2021 at 3:03 pm`
+**This list was last updated on:** `Tuesday, May 18th 2021 at 3:19 pm`
 
 ##### May 1st 2021
 
@@ -327,15 +327,37 @@ https://github.com/Matrix-lang
 
 https://github.com/Timeout-toolkit
 
+##### May 18th 2021
+
+https://github.com/Doorcrete
+
+https://github.com/Seanpm2001-Food-Index
+
+https://github.com/Slaveworks
+
+https://github.com/Ucuntu
+
+https://github.com/Pri-Fiy
+
+https://github.com/Branch-Ranch
+
+https://github.com/AdBool
+
+https://github.com/YKDefender
+
+https://github.com/Keyoff-dev
+
+https://github.com/Nost-Gia-OS
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `11 (Monday, May 17th 2021 at 3:03 pm)`
+File version: `12 (Tuesday, May 18th 2021 at 3:19 pm)`
 
-Line count (including blank lines and compiler line): `349`
+Line count (including blank lines and compiler line): `371`
 
 ***
 
