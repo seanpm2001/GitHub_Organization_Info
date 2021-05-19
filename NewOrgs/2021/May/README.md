@@ -3,9 +3,13 @@
 
 # New organizations May 2021
 
-This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 4th 2021, and possibly up to June 20th 2021 (at least 256 organizations will be made for this month at this point) (as of Friday, May 14th 2021 at 3:18 pm)
+This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 7th 2021, and possibly up to June 20th 2021 (at least 260 organizations will be made for this month at this point) (as of Wednesday, May 19th 2021 at 3:57 pm)
 
-**This list was last updated on:** `Tuesday, May 18th 2021 at 3:19 pm`
+> > > > > **Navigation**
+
+( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
+
+**This list was last updated on:** `Wednesday, May 19th 2021 at 3:57 pm`
 
 ##### May 1st 2021
 
@@ -349,15 +353,37 @@ https://github.com/Keyoff-dev
 
 https://github.com/Nost-Gia-OS
 
+##### May 19th 2021
+
+https://github.com/PhD-In-PHP
+
+https://github.com/AudiBass-Manager
+
+https://github.com/Blue-Dentures
+
+https://github.com/ProTraApp
+
+https://github.com/Seanpm2001-food
+
+https://github.com/Seanpm2001-forkbombs
+
+https://github.com/SociaShame
+
+https://github.com/CrossCompatXU
+
+https://github.com/Hospital-defender
+
+https://github.com/The-offline-experience
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `12 (Tuesday, May 18th 2021 at 3:19 pm)`
+File version: `13 (Wednesday, May 19th 2021 at 3:57 pm)`
 
-Line count (including blank lines and compiler line): `371`
+Line count (including blank lines and compiler line): `397`
 
 ***
 
