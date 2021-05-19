@@ -1,7 +1,7 @@
 
 ***
 
-![Linux-for-workgroups-boot.jpg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/CrossCompaxXU/Linux-for-workgroups-boot.jpg)
+![Linux-for-workgroups-boot.jpg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/CrossCompatXU/Linux-for-workgroups-boot.jpg)
 
 # GitHub organization: CrossCompatXU
 
