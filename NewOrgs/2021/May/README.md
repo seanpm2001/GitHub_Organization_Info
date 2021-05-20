@@ -3,13 +3,13 @@
 
 # New organizations May 2021
 
-This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 7th 2021, and possibly up to June 20th 2021 (at least 260 organizations will be made for this month at this point) (as of Wednesday, May 19th 2021 at 3:57 pm)
+This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 20th 2021, and possibly up to June 25th 2021 (at least 300 organizations will be made for this month at this point) (as of Thursday, May 20th 2021 at 3:27 pm)
 
 > > > > > **Navigation**
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Wednesday, May 19th 2021 at 3:57 pm`
+**This list was last updated on:** `Thursday, May 20th 2021 at 3:27 pm`
 
 ##### May 1st 2021
 
@@ -375,15 +375,81 @@ https://github.com/Hospital-defender
 
 https://github.com/The-offline-experience
 
+##### May 20th 2021
+
+https://github.com/HealthMeterMaximum
+
+https://github.com/UI-Tour-Guide
+
+https://github.com/ChromaTagsForGit
+
+https://github.com/DentalBar-Whitetooth-pro
+
+https://github.com/Seanpm2001-Ubuntu
+
+https://github.com/Perl-harbor
+
+https://github.com/Candroid-dev
+
+https://github.com/Seanpm2001-AirBnB
+
+https://github.com/Seanpm2001-Dronemap
+
+https://github.com/Team8Collection
+
+##### May 21st 2021
+
+Coming soon
+
+##### May 22nd 2021
+
+Coming soon
+
+##### May 23rd 2021
+
+Coming soon
+
+##### May 24th 2021
+
+Coming soon
+
+##### May 25th 2021
+
+Coming soon
+
+##### May 26th 2021
+
+Coming soon
+
+##### May 27th 2021
+
+Coming soon
+
+##### May 28th 2021
+
+Coming soon
+
+##### May 29th 2021
+
+Coming soon
+
+##### May 30th 2021
+
+Coming soon
+
+##### May 31st 2021
+
+Coming soon
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `13 (Wednesday, May 19th 2021 at 3:57 pm)`
+File version: `14 (Thursday, May 20th 2021 at 3:27 pm)`
 
-Line count (including blank lines and compiler line): `397`
+Line count (including blank lines and compiler line): `463`
 
 ***
 
