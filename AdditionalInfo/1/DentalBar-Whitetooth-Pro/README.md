@@ -1,7 +1,7 @@
 
 ***
 
-![Tooth1024.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/DentalBar-WhiteTooth-Pro/Tooth1024.jpeg)
+![Tooth1024.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/DentalBar-Whitetooth-Pro/Tooth1024.jpeg)
 
 # GitHub organization: DentalBar-Whitetooth-Pro
 
