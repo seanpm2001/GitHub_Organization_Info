@@ -13,6 +13,6 @@ For the development of Reactop brand computers/laptops running ReactOS.
 
 [https://github.com/Reactop-computers](https://github.com/Reactop-computers)
 
-This organization is for the development of the standards and drivers for my Reactop laptop brand, a lower-end laptop brand for laptops running ReactOS, and being faster than their Windows alternatives. For my SP (SuperPower) laptop brand, [click/tap here](/AdditionalInfo/1/Reactop-computers/).
+This organization is for the development of the standards and drivers for my Reactop laptop brand, a lower-end laptop brand for laptops running ReactOS, and being faster than their Windows alternatives. For my SP (SuperPower) laptop brand, [click/tap here](/AdditionalInfo/1/SuperPower-laptops/).
 
 ***
