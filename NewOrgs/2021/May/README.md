@@ -9,7 +9,7 @@ This month, I have been building a platform for my various projects through GitH
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Friday, May 21st 2021 at 3:57 pm`
+**This list was last updated on:** `Saturday, May 22nd 2021 at 7:24 pm`
 
 ##### May 1st 2021
 
@@ -421,7 +421,25 @@ https://github.com/CH3-c-K
 
 ##### May 22nd 2021
 
-Coming soon
+https://github.com/SNU-CloudDrive
+
+https://github.com/PhoneHome-dev
+
+https://github.com/Seanpm2001-support
+
+https://github.com/RailRam-TrainCollection
+
+https://github.com/MicroMiniwave
+
+https://github.com/VirtualHome-dev
+
+https://github.com/9x-Internet
+
+https://github.com/The-WallaWalla-Anime
+
+https://github.com/PVZ-Custom
+
+https://github.com/SNU-TableTopGameHouse
 
 ##### May 23rd 2021
 
@@ -465,9 +483,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `15 (Friday, May 21st 2021 at 3:57 pm)`
+File version: `16 (Saturday, May 22nd 2021 at 7:24 pm)`
 
-Line count (including blank lines and compiler line): `481`
+Line count (including blank lines and compiler line): `499`
 
 ***
 
