@@ -3,13 +3,13 @@
 
 # New organizations May 2021
 
-This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 20th 2021, and possibly up to June 25th 2021 (at least 300 organizations will be made for this month at this point) (as of Thursday, May 20th 2021 at 3:27 pm)
+This month, I have been building a platform for my various projects through GitHub organizations, starting May 1st 2021, I have been creating 7 organizations per day. On May 10th 2021, I increased the production rate and went from 7 to 10 organizations a day, taking off 7-8 days of time. This is expected to continue until at least June 21st 2021, and possibly up to June 25th 2021 (at least 300 organizations will be made for this month at this point) (as of Monday, May 24th 2021 at 4:00 pm)
 
 > > > > > **Navigation**
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Sunday, May 23rd 2021 at 6:20 pm`
+**This list was last updated on:** `Monday, May 24th 2021 at 4:00 pm`
 
 ##### May 1st 2021
 
@@ -465,7 +465,25 @@ https://github.com/SNU-Ancestry
 
 ##### May 24th 2021
 
-Coming soon
+https://github.com/Seanpm2001-PersonalKiosk
+
+https://github.com/SourceBase-dev
+
+https://github.com/TrueTorrent
+
+https://github.com/Go-ogle-engine
+
+https://github.com/HX-Template
+
+https://github.com/SNU-WeatherVane
+
+https://github.com/Seanpm2001-Edhesive
+
+https://github.com/Seanpm2001-CS-Class
+
+https://github.com/UShortcut-pro
+
+https://github.com/Talla-browser
 
 ##### May 25th 2021
 
@@ -501,9 +519,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `17 (Sunday, May 23rd 2021 at 6:20 pm)`
+File version: `18 (Monday, May 24th 2021 at 4:00 pm)`
 
-Line count (including blank lines and compiler line): `517`
+Line count (including blank lines and compiler line): `535`
 
 ***
 
