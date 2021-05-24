@@ -9,7 +9,7 @@ This month, I have been building a platform for my various projects through GitH
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Saturday, May 22nd 2021 at 7:24 pm`
+**This list was last updated on:** `Sunday, May 23rd 2021 at 6:20 pm`
 
 ##### May 1st 2021
 
@@ -443,7 +443,25 @@ https://github.com/SNU-TableTopGameHouse
 
 ##### May 23rd 2021
 
-Coming soon
+https://github.com/Bitchecker-dev
+
+https://github.com/Hatium
+
+https://github.com/OVPVMO-Site
+
+https://github.com/DOS-Buddy
+
+https://github.com/PYVM-dev
+
+https://github.com/SWave-Starter
+
+https://github.com/SNU-BrowserNose
+
+https://github.com/SNU-CardStack
+
+https://github.com/SNU-PodcastTriPod
+
+https://github.com/SNU-Ancestry
 
 ##### May 24th 2021
 
@@ -483,9 +501,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `16 (Saturday, May 22nd 2021 at 7:24 pm)`
+File version: `17 (Sunday, May 23rd 2021 at 6:20 pm)`
 
-Line count (including blank lines and compiler line): `499`
+Line count (including blank lines and compiler line): `517`
 
 ***
 
