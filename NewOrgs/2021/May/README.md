@@ -9,7 +9,7 @@ This month, I have been building a platform for my various projects through GitH
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Monday, May 24th 2021 at 4:00 pm`
+**This list was last updated on:** `Tuesday, May 25th 2021 at 3:21 pm`
 
 ##### May 1st 2021
 
@@ -487,7 +487,25 @@ https://github.com/Talla-browser
 
 ##### May 25th 2021
 
-Coming soon
+https://github.com/SNU-PunParlor
+
+https://github.com/NUNIX-dev
+
+https://github.com/Goodbye-world-program
+
+https://github.com/SNU-OS-Killers
+
+https://github.com/PasswordGeneratorUltimate
+
+https://github.com/uDonate
+
+https://github.com/AGRAN-lang
+
+https://github.com/Meme-machine-2019
+
+https://github.com/ScriptKidd-toolkit
+
+https://github.com/Seanpm2001-YouTube
 
 ##### May 26th 2021
 
@@ -519,9 +537,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `18 (Monday, May 24th 2021 at 4:00 pm)`
+File version: `19 (Tuesday, May 25th 2021 at 3:21 pm)`
 
-Line count (including blank lines and compiler line): `535`
+Line count (including blank lines and compiler line): `553`
 
 ***
 
