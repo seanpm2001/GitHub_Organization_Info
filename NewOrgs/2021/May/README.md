@@ -9,7 +9,7 @@ This month, I have been building a platform for my various projects through GitH
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Wednesday, May 26th 2021 at 4:40 pm`
+**This list was last updated on:** `Thursday, May 27th 2021 at 5:38 pm`
 
 ##### May 1st 2021
 
@@ -531,7 +531,25 @@ https://github.com/Seanpm2001-BSD
 
 ##### May 27th 2021
 
-Coming soon
+https://github.com/Seanpm2001-Twitter
+
+https://github.com/Seanpm2001-MarineBiology
+
+https://github.com/Seanpm2001-PocketGems
+
+https://github.com/Seanpm2001-Valve
+
+https://github.com/Seanpm2001-Portals
+
+https://github.com/Seanpm2001-GDScript-lang
+
+https://github.com/Seanpm2001-MinecraftPE
+
+https://github.com/Seanpm2001-Samsung
+
+https://github.com/Seanpm2001-MacOS
+
+https://github.com/Seanpm2001-DuckDuckGo
 
 ##### May 28th 2021
 
@@ -555,9 +573,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `20 (Wednesday, May 26th 2021 at 4:40 pm)`
+File version: `21 (Thursday, May 27th 2021 at 5:38 pm)`
 
-Line count (including blank lines and compiler line): `571`
+Line count (including blank lines and compiler line): `589`
 
 ***
 
