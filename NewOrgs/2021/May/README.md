@@ -9,7 +9,7 @@ This month, I have been building a platform for my various projects through GitH
 
 ( [<-- Go back to April 2021](/NewOrgs/2021/April/README.md) | [ --> Continue to June 2021](/NewOrgs/2021/June/README.md) )
 
-**This list was last updated on:** `Friday, May 28th 2021 at 3:41 pm`
+**This list was last updated on:** `Saturday, May 29th 2021 at 3:58 pm`
 
 ##### May 1st 2021
 
@@ -575,7 +575,25 @@ https://github.com/Seanpm2001-Modula-3-lang
 
 ##### May 29th 2021
 
-Coming soon
+https://github.com/SNU-TerrorBay
+
+https://github.com/Seanpm2001-Vue-js-lang
+
+https://github.com/Seanpm2001-Verilog-lang
+
+https://github.com/Seanpm2001-SystemVerilog-lang
+
+https://github.com/Seanpm2001-CommonLisp-lang
+
+https://github.com/Seanpm2001-EmacsLisp-lang
+
+https://github.com/Seanpm2001-PureScript-lang
+
+https://github.com/Seanpm2001-Isabelle-lang
+
+https://github.com/Seanpm2001-Limbo-lang
+
+https://github.com/Seanpm2001-Modula-2-lang
 
 ##### May 30th 2021
 
@@ -591,9 +609,9 @@ Coming soon
 
 File type: `Markdown (*.md)`
 
-File version: `22 (Friday, May 28th 2021 at 3:41 pm)`
+File version: `23 (Saturday, May 29th 2021 at 3:58 pm)`
 
-Line count (including blank lines and compiler line): `607`
+Line count (including blank lines and compiler line): `625`
 
 ***
 
