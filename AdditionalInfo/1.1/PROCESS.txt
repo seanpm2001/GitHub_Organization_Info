@@ -1,0 +1,12 @@
+How it is written
+
+Start with a template
+
+Image file path
+Organization title
+Copy and pasted organization description
+Copy and paste of organization link
+Additional information
+Extra information
+
+Everything is case sensitive.
