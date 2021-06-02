@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Tuesday, June 1st 2021 at 6:24 pm`
+**This list was last updated on:** `Wednesday, June 2nd 2021 at 4:05 pm`
 
 <!-- ##### LIST !-->
 
@@ -37,7 +37,25 @@ https://github.com/Seanpm2001-JScript-Dot-Net-lang
 
 ##### June 2nd 2021
 
-Coming soon.
+https://github.com/Seanpm2001-IronPython-lang
+
+https://github.com/Seanpm2001-IntelHexBinary-lang
+
+https://github.com/Seanpm2001-Markdown-lang
+
+https://github.com/Seanpm2001-MediaWiki-lang
+
+https://github.com/Seanpm2001-MS-DOS-Style-lang
+
+https://github.com/Seanpm2001-JSSS-lang
+
+https://github.com/Seanpm2001-Blockly-lang
+
+https://github.com/Seanpm2001-ReStructuredText-lang
+
+https://github.com/Seanpm2001-Scratch-lang
+
+https://github.com/Seanpm2001-VHDL-lang
 
 ##### June 3rd 2021
 
@@ -111,15 +129,55 @@ Coming soon.
 
 Coming soon.
 
+##### June 21st 2021
+
+No data available for this day.
+
+##### June 22nd 2021
+
+No data available for this day.
+
+##### June 23rd 2021
+
+No data available for this day.
+
+##### June 24th 2021
+
+No data available for this day.
+
+##### June 25th 2021
+
+No data available for this day.
+
+##### June 26th 2021
+
+No data available for this day.
+
+##### June 27th 2021
+
+No data available for this day.
+
+##### June 28th 2021
+
+No data available for this day.
+
+##### June 29th 2021
+
+No data available for this day.
+
+##### June 30th 2021
+
+No data available for this day.
+
 ***
 
 ## File info
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Tuesday, June 1st 2021 at 6:24 pm)`
+File version: `3 (Wednesday, June 2nd 2021 at 4:05 pm)`
 
-Line count (including blank lines and compiler line): `133`
+Line count (including blank lines and compiler line): `191`
 
 ***
 
