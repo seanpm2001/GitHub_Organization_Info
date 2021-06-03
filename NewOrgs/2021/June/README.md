@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Wednesday, June 2nd 2021 at 4:05 pm`
+**This list was last updated on:** `Thursday, June 3rd 2021 at 4:44 pm`
 
 <!-- ##### LIST !-->
 
@@ -59,7 +59,25 @@ https://github.com/Seanpm2001-VHDL-lang
 
 ##### June 3rd 2021
 
-Coming soon.
+https://github.com/Seanpm2001-SXML-lang
+
+https://github.com/Seanpm2001-TCL-lang
+
+https://github.com/Seanpm2001-Verilog-AMS-lang
+
+https://github.com/Seanpm2001-WebAssembly-lang
+
+https://github.com/Seanpm2001-JupyterNotebook-lang
+
+https://github.com/Seanpm2001-CoffeeScript-lang
+
+https://github.com/Seanpm2001-Seed7-lang
+
+https://github.com/Seanpm2001-Oberon-lang
+
+https://github.com/Seanpm2001-NVidia-CUDA-lang
+
+https://github.com/Seanpm2001-TOML-lang
 
 ##### June 4th 2021
 
@@ -175,9 +193,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `3 (Wednesday, June 2nd 2021 at 4:05 pm)`
+File version: `4 (Thursday, June 3rd 2021 at 4:44 pm)`
 
-Line count (including blank lines and compiler line): `191`
+Line count (including blank lines and compiler line): `209`
 
 ***
 
