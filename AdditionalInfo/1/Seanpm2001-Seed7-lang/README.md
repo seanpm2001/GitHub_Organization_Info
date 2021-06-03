@@ -1,7 +1,7 @@
 
 ***
 
-![Seed7_programming_language_logo.svg.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-Seed7-lang/Seed7_programming_language_logo.svg.png)
+![7.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-Seed7-lang/7.png)
 
 # GitHub organization: Seanpm2001-Seed7-lang
 
