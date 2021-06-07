@@ -21,4 +21,6 @@ Learn more about the language organization setup [by clicking/tapping here](/Add
 
 An image of GLaDOS is used as the organization profile picture. I know that this isn't the best example, as GLaDOS is very cynical and dangerous (although she is a fictional character) but my robotics project will not turn out to be evil, I just like the character, and I didn't want to use a different generic robot icon.
 
+Robotics is not to be confused with Bot scripts, see [Seanwallawalla Bots](/AdditionalInfo/1/seanwallawalla-bots/) or [Seanpm2001 bots](/AdditionalInfo/1/Seanpm2001-Bots/) for my bot script projects.
+
 ***
