@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Saturday, June 5th 2021 at 5:00 pm`
+**This list was last updated on:** `Sunday, June 6th 2021 at 7:07 pm`
 
 <!-- ##### LIST !-->
 
@@ -125,7 +125,25 @@ https://github.com/SNU-Keyboard
 
 ##### June 6th 2021
 
-Coming soon.
+https://github.com/Seanpm2001-ZenScript-lang
+
+https://github.com/Seanpm2001-RichTextFormat-lang
+
+https://github.com/Seanpm2001-CSV-lang
+
+https://github.com/Seanpm2001-Go-lang
+
+https://github.com/Seanpm2001-Robotics
+
+https://github.com/TuxBot-operating-system
+
+https://github.com/SNU-FamilyTree
+
+https://github.com/SNU-Memes
+
+https://github.com/SNU-RSS
+
+https://github.com/SNU-StartAScript
 
 ##### June 7th 2021
 
@@ -229,9 +247,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `6 (Saturday, June 5th 2021 at 5:00 pm)`
+File version: `7 (Sunday, June 6th 2021 at 7:07 pm)`
 
-Line count (including blank lines and compiler line): `245`
+Line count (including blank lines and compiler line): `263`
 
 ***
 
