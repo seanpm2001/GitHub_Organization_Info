@@ -1,7 +1,7 @@
 
 ***
 
-![ZenScript_Sample.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-ZenScript-lang/Zen.png)
+![ZenScript_Logo1.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-ZenScript-lang/ZenScript_Logo1.png)
 
 # GitHub organization: Seanpm2001-ZenScript-lang
 
