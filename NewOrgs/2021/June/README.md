@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Sunday, June 6th 2021 at 7:07 pm`
+**This list was last updated on:** `Monday, June 7th 2021 at 3:30 pm`
 
 <!-- ##### LIST !-->
 
@@ -147,7 +147,25 @@ https://github.com/SNU-StartAScript
 
 ##### June 7th 2021
 
-Coming soon.
+https://github.com/SNU-WLinkWBotW
+
+https://github.com/SNU-SoundSettings
+
+https://github.com/SNU-UserFilters
+
+https://github.com/SNU-Textures
+
+https://github.com/SNU-TextEngine
+
+https://github.com/SNU-Terminal
+
+https://github.com/SNU-Editions
+
+https://github.com/SNU-DataManagement
+
+https://github.com/SNU-SignIn
+
+https://github.com/SNU-Lingual
 
 ##### June 8th 2021
 
@@ -247,9 +265,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `7 (Sunday, June 6th 2021 at 7:07 pm)`
+File version: `8 (Monday, June 7th 2021 at 3:30 pm)`
 
-Line count (including blank lines and compiler line): `263`
+Line count (including blank lines and compiler line): `281`
 
 ***
 
