@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Monday, June 7th 2021 at 3:30 pm`
+**This list was last updated on:** `Tuesday, June 8th 2021 at 1:36 pm`
 
 <!-- ##### LIST !-->
 
@@ -169,7 +169,25 @@ https://github.com/SNU-Lingual
 
 ##### June 8th 2021
 
-Coming soon.
+https://github.com/Seanpm2001-Idris-lang
+
+https://github.com/Seanpm2001-FreeMarker-lang
+
+https://github.com/Seanpm2001-TeX-lang
+
+https://github.com/Seanpm2001-BiBTeX-lang
+
+https://github.com/Seanpm2001-Racket-lang
+
+https://github.com/Seanpm2001-Nix-lang
+
+https://github.com/Seanpm2001-audio
+
+https://github.com/Seanpm2001-Social
+
+https://github.com/Seanpm2001-Security
+
+https://github.com/Seanpm2001-Testing
 
 ##### June 9th 2021
 
@@ -265,9 +283,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `8 (Monday, June 7th 2021 at 3:30 pm)`
+File version: `9 (Tuesday, June 8th 2021 at 1:36 pm)`
 
-Line count (including blank lines and compiler line): `281`
+Line count (including blank lines and compiler line): `299`
 
 ***
 
