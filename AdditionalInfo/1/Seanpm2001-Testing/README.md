@@ -1,7 +1,7 @@
 
 ***
 
-![TestingIcon1.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-Testing/TestingIcon1.jpeg)
+![DiamondBY.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-Testing/DiamondBY.jpeg)
 
 # GitHub organization: Seanpm2001-Testing
 
