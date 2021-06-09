@@ -1,7 +1,7 @@
 
 ***
 
-![ComedyCentralClassic.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/seanpm20001-jokeprograms/ComedyCentralClassic.png)
+![ComedyCentralClassic.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/Seanpm2001-JokePrograms/ComedyCentralClassic.png)
 
 # GitHub organization: Seanpm2001-JokePrograms
 
