@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Tuesday, June 8th 2021 at 1:36 pm`
+**This list was last updated on:** `Wednesday, June 9th 2021 at 4:25 pm`
 
 <!-- ##### LIST !-->
 
@@ -191,7 +191,25 @@ https://github.com/Seanpm2001-Testing
 
 ##### June 9th 2021
 
-Coming soon.
+https://github.com/Seanpm2001-Malware
+
+https://github.com/Seanpm2001-JokePrograms
+
+https://github.com/Seanpm2001-Health
+
+https://github.com/Seanpm2001-Forks
+
+https://github.com/Seanpm2001-BrowserExtensions
+
+https://github.com/Seanpm2001-Bots
+
+https://github.com/Seanpm2001-Books
+
+https://github.com/The-Dystopian-Dictionary
+
+https://github.com/SNU-ProjectTimeline
+
+https://github.com/Seanpm2001-Tools
 
 ##### June 10th 2021
 
@@ -283,9 +301,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `9 (Tuesday, June 8th 2021 at 1:36 pm)`
+File version: `10 (Thursday, June 9th 2021 at 4:25 pm)`
 
-Line count (including blank lines and compiler line): `299`
+Line count (including blank lines and compiler line): `317`
 
 ***
 
