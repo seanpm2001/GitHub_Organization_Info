@@ -45,3 +45,6 @@ Commit change: `50`
 Released on June 10th 2021 at 4:54 pm
 
 ***
+
+
+<hr /><em>This discussion was created from the release <a href='https://github.com/seanpm2001/GitHub_Organization_Info/releases/tag/V1.0.2A'>Version 1.0.2A - June 10th 2021</a>.</em>
