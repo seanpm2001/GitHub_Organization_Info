@@ -1,7 +1,7 @@
 
 ***
 
-![SNU_blue_and_gold_legacy_icon.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/SNU-ProjectTimeline/SNU_blue_and_gold_legacy_icon.png)
+![SNU_blue_and_gold_legacy_icon.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/SNU-ProjectTimeLine/SNU_blue_and_gold_legacy_icon.png)
 
 # GitHub organization: SNU-ProjectTimeline
 
