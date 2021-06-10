@@ -1,7 +1,7 @@
 
 ***
 
-![DictionaryIcon.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/-The-Dystopian-Dictionary/DictionaryIcon.png)
+![DictionaryIcon.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/1/The-Dystopian-Dictionary/DictionaryIcon.png)
 
 # GitHub organization: The-Dystopian-Dictionary
 
