@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Thursday, June 10th 2021 at 3:59 pm`
+**This list was last updated on:** `Friday, June 11th 2021 at 3:13 pm`
 
 <!-- ##### LIST !-->
 
@@ -235,7 +235,25 @@ https://github.com/SNU-BotCoach
 
 ##### June 11th 2021
 
-Coming soon.
+https://github.com/SNU-YouTubeMode
+
+https://github.com/SNU-YourSpace
+
+https://github.com/SNU-WorkInProgress
+
+https://github.com/SNU-VMCenter
+
+https://github.com/SNU-VDictionary
+
+https://github.com/SNU-Valentines
+
+https://github.com/SNU-App
+
+https://github.com/SNU-StoryBubbleWand
+
+https://github.com/SNU-DialupExperience
+
+https://github.com/SNU-SpoofingCenter
 
 ##### June 12th 2021
 
@@ -319,9 +337,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `11 (Thursday, June 10th 2021 at 3:59 pm)`
+File version: `12 (Friday, June 11th 2021 at 3:13 pm)`
 
-Line count (including blank lines and compiler line): `335`
+Line count (including blank lines and compiler line): `353`
 
 ***
 
