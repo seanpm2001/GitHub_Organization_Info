@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Tuesday, June 15th 2021 at 2:32 pm`
+**This list was last updated on:** `Wednesday, June 16th 2021 at 2:45 pm`
 
 <!-- ##### LIST !-->
 
@@ -345,7 +345,25 @@ https://github.com/SNU-FilmPlaza
 
 ##### June 16th 2021
 
-Coming soon.
+https://github.com/SNU-TOS
+
+https://github.com/SNU-VideoTheater
+
+https://github.com/SNU-TimeMachine
+
+https://github.com/SNU-Video
+
+https://github.com/SNU-EngineRoom
+
+https://github.com/SNU-VR
+
+https://github.com/SNU-AmazonCompatibilityMode
+
+https://github.com/SNU-Erotica
+
+https://github.com/SNU-SexEducation
+
+https://github.com/SNU-ProfileBuilder
 
 ##### June 17th 2021
 
@@ -409,9 +427,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `16 (Tuesday, June 15th 2021 at 2:32 pm)`
+File version: `17 (Wednesday, June 16th 2021 at 2:45 pm)`
 
-Line count (including blank lines and compiler line): `425`
+Line count (including blank lines and compiler line): `443`
 
 ***
 
