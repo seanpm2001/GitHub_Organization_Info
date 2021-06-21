@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Sunday, June 20th 2021 at 6:54 pm`
+**This list was last updated on:** `Monday, June 21st 2021 at 3:08 pm`
 
 <!-- ##### LIST !-->
 
@@ -455,7 +455,25 @@ https://github.com/SNU-SiteLogo
 
 ##### June 21st 2021
 
-No data available for this day.
+https://github.com/SNU-SnapshotTool
+
+https://github.com/SNU-RulesOfTheInternet
+
+https://github.com/SNU-PlaybackSettings
+
+https://github.com/SNU-Search
+
+https://github.com/SNU-PublicSnapshots
+
+https://github.com/SNU-ProtestToolKit
+
+https://github.com/SNU-LoopG
+
+https://github.com/SNU-DOM
+
+https://github.com/SNU-Privacy
+
+https://github.com/SNU-P2PSection
 
 ##### June 22nd 2021
 
@@ -499,9 +517,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `21 (Sunday, June 20th 2021 at 6:54 pm)`
+File version: `22 (Monday, June 21st 2021 at 3:08 pm)`
 
-Line count (including blank lines and compiler line): `515`
+Line count (including blank lines and compiler line): `533`
 
 ***
 
