@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Saturday, June 19th 2021 at 6:33 pm`
+**This list was last updated on:** `Sunday, June 20th 2021 at 6:54 pm`
 
 <!-- ##### LIST !-->
 
@@ -433,7 +433,25 @@ https://github.com/TouchPetsDogs2Rewritten
 
 ##### June 20th 2021
 
-Coming soon.
+https://github.com/SNU-PFOSSExchange
+
+https://github.com/SNU-Modes
+
+https://github.com/SNU-P2P
+
+https://github.com/SNU-Government
+
+https://github.com/SNU-LegalResourceCenter
+
+https://github.com/SNU-MascotCenter
+
+https://github.com/SNU-IE-Engine
+
+https://github.com/SNU-Account
+
+https://github.com/SNU-InternetFront
+
+https://github.com/SNU-SiteLogo
 
 ##### June 21st 2021
 
@@ -481,9 +499,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `20 (Saturday, June 19th 2021 at 6:33 pm)`
+File version: `21 (Sunday, June 20th 2021 at 6:54 pm)`
 
-Line count (including blank lines and compiler line): `497`
+Line count (including blank lines and compiler line): `515`
 
 ***
 
