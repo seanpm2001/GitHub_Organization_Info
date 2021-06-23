@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Tuesday, June 22nd 2021 at 10:34 am`
+**This list was last updated on:** `Wednesday, June 23rd 2021 at 4:20 pm`
 
 <!-- ##### LIST !-->
 
@@ -499,7 +499,25 @@ https://github.com/Seanpm2001-GitHub-Pages-Collection
 
 ##### June 23rd 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-WebVTT-lang
+
+https://github.com/Seanpm2001-Gherkin-lang
+
+https://github.com/Seanpm2001-Nunjucks-lang
+
+https://github.com/Seanpm2001-J-lang
+
+https://github.com/Seanpm2001-SuperCollider-lang
+
+https://github.com/Seanpm2001-Dockerfile-lang
+
+https://github.com/GitHubby-development
+
+https://github.com/SimZonns
+
+https://github.com/NexxFetch
+
+https://github.com/PFOSS-Initiative
 
 ##### June 24th 2021
 
@@ -535,9 +553,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `23 (Tuesday, June 22nd 2021 at 10:34 am)`
+File version: `24 (Wednesday, June 23rd 2021 at 4:20 pm)`
 
-Line count (including blank lines and compiler line): `551`
+Line count (including blank lines and compiler line): `569`
 
 ***
 
