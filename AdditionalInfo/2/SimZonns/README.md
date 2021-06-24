@@ -1,7 +1,7 @@
 
 ***
 
-![GitHubby.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/SimZonns/GitHubby.png)
+![SIMZONN.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/SimZonns/SIMZONN.png)
 
 # GitHub organization: SimZonns
 
