@@ -1,7 +1,7 @@
 
 ***
 
-![SDE.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Hyper-Realistic-Farm-Simulator/SDE.png)
+![Realistic3DFarm.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Hyper-Realistic-Farm-Simulator/Realistic3DFarm.jpeg)
 
 # GitHub organization: Hyper-Realistic-Farm-Simulator
 
