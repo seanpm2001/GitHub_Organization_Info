@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Thursday, June 24th 2021 at 4:08 pm`
+**This list was last updated on:** `Friday, June 25th 2021 at 3:30 pm`
 
 <!-- ##### LIST !-->
 
@@ -543,7 +543,25 @@ https://github.com/Seanpm2001-FanGames
 
 ##### June 25th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-KhanAcademy
+
+https://github.com/Seanpm2001-Holiday
+
+https://github.com/Seanpm2001-Weather
+
+https://github.com/Seanpm2001-Data
+
+https://github.com/Seanpm2001-SearchEngines
+
+https://github.com/Seanpm2001-Census
+
+https://github.com/Seanpm2001-Mojang
+
+https://github.com/Seanpm2001-Concepts
+
+https://github.com/Seanpm2001-GraphicDesign
+
+https://github.com/Seanpm2001-Organization
 
 ##### June 26th 2021
 
@@ -571,9 +589,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `25 (Thursday, June 24th 2021 at 4:08 pm)`
+File version: `26 (Friday, June 25th 2021 at 3:30 pm)`
 
-Line count (including blank lines and compiler line): `587`
+Line count (including blank lines and compiler line): `605`
 
 ***
 
