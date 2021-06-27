@@ -4,15 +4,15 @@
 
 Here are some future goals for the documentation of this project (1-5: from June 13th 2021, 6-15: from June 17th 2021)
 
-- [ ] 1. Create a ProjectWiki
+- [x] 1. Create a ProjectWiki
 
 - [ ] 2. Document all organizations
 
 - [x] 3. Finish the May 2021 organization creation process
 
-- [ ] 4. Finish the June 2021 organization creation process
+- [x] 4. Finish the June 2021 organization creation process
 
-- [ ] 5. Upload the rest of the notes
+- [x] 5. Upload the rest of the notes
 
 - [ ] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
 
@@ -37,15 +37,15 @@ Here are some future goals for the documentation of this project (1-5: from June
 Copy this section into each reply when a goal is finished. Add an asterisk to the finished goals to give it a checkmark:
 
 ```markdown
-- [ ] 1. Create a ProjectWiki
+- [x] 1. Create a ProjectWiki
 
 - [ ] 2. Document all organizations
 
 - [x] 3. Finish the May 2021 organization creation process
 
-- [ ] 4. Finish the June 2021 organization creation process
+- [x] 4. Finish the June 2021 organization creation process
 
-- [ ] 5. Upload the rest of the notes
+- [x] 5. Upload the rest of the notes
 
 - [ ] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
 
