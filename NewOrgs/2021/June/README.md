@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from June 2021
 
 ( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Friday, June 25th 2021 at 3:30 pm`
+**This list was last updated on:** `Saturday, June 26th 2021 at 5:02 pm`
 
 <!-- ##### LIST !-->
 
@@ -565,7 +565,21 @@ https://github.com/Seanpm2001-Organization
 
 ##### June 26th 2021
 
-No data available for this day.
+https://github.com/Seanwallawalla-Organization
+
+https://github.com/Seanpm2001-Botany
+
+https://github.com/Seanpm2001-Browsers
+
+https://github.com/Seanpm2001-Pharmacy
+
+https://github.com/Seanpm2001-Server
+
+https://github.com/Seanpm2001-Maintenance
+
+https://github.com/SNU-MartinLutherKingJrMemorial
+
+https://github.com/Seanpm2001-OCaml-Lang
 
 ##### June 27th 2021
 
@@ -589,9 +603,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `26 (Friday, June 25th 2021 at 3:30 pm)`
+File version: `27 (Saturday, June 26th 2021 at 5:02 pm)`
 
-Line count (including blank lines and compiler line): `605`
+Line count (including blank lines and compiler line): `619`
 
 ***
 
