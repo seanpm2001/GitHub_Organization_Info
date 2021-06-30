@@ -14,7 +14,7 @@ Here are some future goals for the documentation of this project (1-5: from June
 
 - [x] 5. Upload the rest of the notes
 
-- [ ] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
+- [x] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
 
 - [ ] 7. Create a `README.md` file for `/AdditionalInfo/2/` that contains info and links to all 2+ organizations
 
@@ -30,7 +30,7 @@ Here are some future goals for the documentation of this project (1-5: from June
 
 - [ ] 13. Upload all the organization images used in original quality into the various directories
 
-- [ ] 14. Update issue label data for issue labels 10 to 17
+- [x] 14. Update issue label data for issue labels 10 to 17
 
 - [ ] 15. Get an icon for this project as a whole and reference it in the `README.md` file at root
 
@@ -47,7 +47,7 @@ Copy this section into each reply when a goal is finished. Add an asterisk to th
 
 - [x] 5. Upload the rest of the notes
 
-- [ ] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
+- [x] 6. Create a `README.md` file for `/AdditionalInfo/1/` that contains info and links to all 500 organizations
 
 - [ ] 7. Create a `README.md` file for `/AdditionalInfo/2/` that contains info and links to all 2+ organizations
 
@@ -63,7 +63,7 @@ Copy this section into each reply when a goal is finished. Add an asterisk to th
 
 - [ ] 13. Upload all the organization images used in original quality into the various directories
 
-- [ ] 14. Update issue label data for issue labels 10 to 17
+- [x] 14. Update issue label data for issue labels 10 to 17
 
 - [ ] 15. Get an icon for this project as a whole and reference it in the `README.md` file at root
 ```
