@@ -7,9 +7,9 @@ This list showcases my new GitHub organizations from June 2021
 
 > > > > > **Navigation**
 
-( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021 (coming soon)](/NewOrgs/2021/July/README.md) )
+( [<-- Go back to May 2021](/NewOrgs/2021/May/README.md) | [ --> Continue to July 2021](/NewOrgs/2021/July/README.md) )
 
-**This list was last updated on:** `Wednesday, June 30th 2021 at 12:34 pm`
+**This list was last updated on:** `Monday, July 5th 2021 at 7:11 pm`
 
 <!-- ##### LIST !-->
 
@@ -617,7 +617,7 @@ https://github.com/Seanpm2001-MIT-License
 
 File type: `Markdown (*.md)`
 
-File version: `29 (Wednesday, June 30th 2021 at 12:34 pm)`
+File version: `30 (Monday, July 5th 2021 at 7:11 pm)`
 
 Line count (including blank lines and compiler line): `633`
 
