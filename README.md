@@ -3,11 +3,11 @@
 
 # GitHub Organization Info
 
-![octocat-spinner-128.gif](/octocat-spinner-128.gif)
+![GitHub_Org_Icon.png](/GitHub_Org_Icon.png)
 
 # By:
 
-## [Seanpm2001](https://github.com/seanpm2001)
+## [Seanpm2001](https://github.com/seanpm2001), Et, Al;
 
 ### Top
 
@@ -15,12 +15,33 @@
 
 ***
 
-<!-- ## Read this article in a different language
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-!-->
+***
+
+## Read this article in a different language
+
+_🌐 List of languages_
+
+<details open>
+	<summary>[Click/tap here to expand/collapse the language list</summary>
+
+**Sorted by:** `A-Z`
+
+[Sorting options unavailable](https://github.com/Gaslight-Galactica)
+
+( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of June 23rd 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+
+Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
+
+Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. I am working on finding an alternative. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+
+</details>
 
 ***
+
+<details open>
+	<summary>[Click/tap here to expand/collapse the index]</summary>
 
 # Index
 
@@ -38,61 +59,67 @@ Translations in languages other than English are machine translated and are not 
 
 [03.0 - Wiki](#Wiki)
 
+[04.0 - Project icon](#Project-icon)
+
+> [04.1 - Placeholder history](#Placeholder-history)
+
 {{🌟 KEY SECTION }}
 
-[04.0 - GitHub organzation usage](#GitHub-organization-usage)
+[05.0 - GitHub organzation usage](#GitHub-organization-usage)
 
-> [04.0.1 - Monthly limit](#Monthly-limit)
+> [05.0.1 - Monthly limit](#Monthly-limit)
 
-> [04.0.2 - Skeumorphism](#Skeumorphism)
+> [05.0.2 - Skeumorphism](#Skeumorphism)
 
-> [04.0.3 - As a playlist or project](#As-a-playlist-or-project)
+> [05.0.3 - As a playlist or project](#As-a-playlist-or-project)
 
-> > [04.1.1 - Category](#Category)
+> > [05.1.1 - Category](#Category)
 
-> > [04.1.2 - Layer 1](#Layer-1)
+> > [05.1.2 - Layer 1](#Layer-1)
 
-> > [04.1.3 - Layer 2](#Layer-2)
+> > [05.1.3 - Layer 2](#Layer-2)
 
-> > [04.1.4 - Layer 3](#Layer-3)
+> > [05.1.4 - Layer 3](#Layer-3)
 
-> [04.0.4 - Cybersquatting = false](#Cybersquatting)
+> [05.0.4 - Cybersquatting = false](#Cybersquatting)
 
-> [04.0.5 - List of organizations](#List-of-organizations)
+> [05.0.5 - List of organizations](#List-of-organizations)
 
-> [04.0.6 - Other](#Other)
+> [05.0.6 - Other](#Other)
 
 {{ NOITCES YEK 🌟}}
 
-[05.0 - Version history](#Version-history)
+[06.0 - Version history](#Version-history)
 
-[06.0 - Software status](#Software-status)
+[07.0 - Software status](#Software-status)
 
-[07.0 - Sponsor info](#Sponsor-info)
+[08.0 - Sponsor info](#Sponsor-info)
 
-[08.0 - Contributers](#Contributers)
+[09.0 - Contributers](#Contributers)
 
-[09.0 - Issues](#Issues)
+[10.0 - Issues](#Issues)
 
-> [09.1 - Current issues](#Current-issues)
+> [10.1 - Current issues](#Current-issues)
 
-> [09.2 - Past issues](#Past-issues)
+> [10.2 - Past issues](#Past-issues)
 
-> [09.3 - Past pull requests](#Past-pull-requests)
+> [10.3 - Past pull requests](#Past-pull-requests)
 
-> [09.4 - Active pull requests](#Active-pull-requests)
+> [10.4 - Active pull requests](#Active-pull-requests)
 
-[10.0 - Resources](#Resources)
+[11.0 - Resources](#Resources)
 
-[11.0 - Contributing](#Contributing)
+[12.0 - Contributing](#Contributing)
 
-[12.0 - About README](#About-README)
+[13.0 - About README](#About-README)
 
-[13.0 - README Version history](#README-version-history)
+[14.0 - README Version history](#README-version-history)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[15.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
-> [14.1 - End of file](#EOF)
+> [15.1 - End of file](#EOF)
+
+</details>
 
 ***
 
@@ -112,6 +139,22 @@ See above. This is an article project that documents info on my usage of GitHub 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/GitHub_Organization_Info/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+
+***
+
+## Project icon
+
+This project currently uses the default GitHub organization icon. I want to try and make a skeuomorphic version, which fills in the windows with a blue gradient, the building with a silver gradient, and so on. I also want to work on making this desired image transparent.
+
+### Placeholder history
+ 
+Placeholder icon (up to July 5th 2021)
+ 
+![octocat-spinner-128.gif](/octocat-spinner-128.gif)
+
+Placeholder icon (July 5th 2021 - present)
+ 
+![GitHub_Org_Icon.png](/GitHub_Org_Icon.png)
 
 ***
 
@@ -154,6 +197,8 @@ I am not cybersquatting, due to my inclusion of a brand word in the name of the 
 ### List of organizations
 
 **All organizations** _(As of April 21st 2021)_
+
+See more organizations [here](/AdditionalInfo/)
 
 [Seanwallawalla-software](https://github.com/seanwallawalla-software) <!-- 001 !-->
 
@@ -289,7 +334,7 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
 
@@ -301,7 +346,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 8 commits (As of Wednesday, April 21st 2021 at 5:57 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 2,841 commits (As of Monday, July 5th 2021 at 7:56 pm)
 
 > * 2. No other contributers.
 
@@ -371,7 +416,7 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-<!-- [Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>) !-->
+[Project language file](PROJECT_LANG.rb)
 
 [Join the discussion on GitHub](https://github.com/seanpm2001/GitHub_Organization_Info/discussions)
 
@@ -391,9 +436,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, April 21st 2021 at 5:57 pm)`
+File version: `2 (Monday, July 5th 2021 at 7:56 pm)`
 
-Line count: `0,477`
+Line count: `0,552`
 
 ***
 
@@ -439,7 +484,7 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Wednesday, April 25th 2021 at 5:57)
+Version 1 (Wednesday, April 25th 2021 at 5:57 pm)
 
 > Changes:
 
@@ -457,13 +502,43 @@ Version 1 (Wednesday, April 25th 2021 at 5:57)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Monday, July 5th 2021 at 7:56 pm)
+
+> Changes:
+
+> * Added a new icon
+
+> * Added the language dropdown
+ 
+> * Updated the index
+
+> * Updated the list of organizations section
+ 
+> * Added the logo section and placeholder history subsection
+ 
+> * Updated the resources section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
