@@ -3,11 +3,11 @@
 
 # GitHub Organization Info
 
-![GitHub_Org_Icon.png](/GitHub_Org_Icon.png)
+![GitHubOrganizationIcon_Custom1.png failed to load. The image may have been moved, or corrupted, or the name/URL may not be correct.](/GitHubOrganizationIcon_Custom1.png)
 
 # By:
 
-## [Seanpm2001](https://github.com/seanpm2001), Et, Al;
+## [Seanpm2001](https://github.com/seanpm2001), Et; Al.
 
 ### Top
 
@@ -144,17 +144,21 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## Project icon
 
-This project currently uses the default GitHub organization icon. I want to try and make a skeuomorphic version, which fills in the windows with a blue gradient, the building with a silver gradient, and so on. I also want to work on making this desired image transparent.
+This project currently uses a custom version of the GitHub organization icon. The newest logo was created on July 6th 2021.
 
 ### Placeholder history
  
-Placeholder icon (up to July 5th 2021)
+Placeholder icon (April 21st 2021 - July 5th 2021 @ 7:56 pm)
  
 ![octocat-spinner-128.gif](/octocat-spinner-128.gif)
 
-Placeholder icon (July 5th 2021 - present)
+Placeholder icon (July 5th 2021 @ 7:56 pm - July 6th 2021 at 5:11 pm)
  
 ![GitHub_Org_Icon.png](/GitHub_Org_Icon.png)
+
+Placeholder icon (July 6th 2021 @ 5:11 pm - Present)
+
+![GitHubOrganizationIcon_Custom1.png](/GitHubOrganizationIcon_Custom1.png)
 
 ***
 
@@ -346,7 +350,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 2,841 commits (As of Monday, July 5th 2021 at 7:56 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 2,844 commits (As of Tuesday, July 6th 2021 at 5:11 pm)
 
 > * 2. No other contributers.
 
@@ -436,9 +440,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Monday, July 5th 2021 at 7:56 pm)`
+File version: `3 (Tuesday, July 6th 2021 at 5:11 pm)`
 
-Line count: `0,552`
+Line count: `0,578`
 
 ***
 
@@ -524,11 +528,17 @@ Version 2 (Monday, July 5th 2021 at 7:56 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Tuesday, July 6th 2021 at 5:11 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the logo
+
+> * Updated the placeholder history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -539,6 +549,22 @@ Version 4 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
