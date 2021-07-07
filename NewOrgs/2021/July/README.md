@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Monday, July 5th 2021 at 7:08 pm`
+**This list was last updated on:** `Wednesday, July 7th 2021 at 3:34 pm`
 
 <!-- ##### LIST !-->
 
@@ -43,7 +43,17 @@ No data available for this day.
 
 ##### July 7th 2021
 
-No data available for this day.
+https://github.com/RubbleRobot
+
+https://github.com/Cyborg-System-Monitor
+
+https://github.com/Linux-Marketshare-Ping-Tool
+
+https://github.com/Seanpm2001-Ecosia
+
+https://github.com/Seanpm2001-BeelineInteractive
+
+https://github.com/404-Day
 
 ##### July 8th 2021
 
@@ -147,9 +157,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `01 (Monday, July 5th 2021 at 7:08 pm)`
+File version: `02 (Wednesday, July 7th 2021 at 3:34 pm)`
 
-Line count (including blank lines and compiler line): `163`
+Line count (including blank lines and compiler line): `173`
 
 ***
 
