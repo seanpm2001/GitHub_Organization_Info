@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Tuesday, July 13th 2021 at 12:19 pm`
+**This list was last updated on:** `Wednesday, July 14th 2021 at 8:24 pm`
 
 <!-- ##### LIST !-->
 
@@ -87,7 +87,7 @@ https://github.com/GitManager-dev
 
 ##### July 14th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-Batchfile-lang
 
 ##### July 15th 2021
 
@@ -163,7 +163,7 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `03 (Tuesday, July 13th 2021 at 12:19 pm)`
+File version: `04 (Wednesday, July 14th 2021 at 8:24 pm)`
 
 Line count (including blank lines and compiler line): `179`
 
