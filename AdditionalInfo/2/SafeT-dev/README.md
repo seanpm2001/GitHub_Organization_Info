@@ -1,7 +1,7 @@
 
 ***
 
-![SafeT.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/SafeT-dev/SafeT.jpeg(
+![SafeT.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/SafeT-dev/SafeT.jpeg)
 
 # GitHub organization: SafeT-dev
 
