@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Wednesday, July 14th 2021 at 8:24 pm`
+**This list was last updated on:** `Friday, July 14th 2021 at 8:25 pm`
 
 <!-- ##### LIST !-->
 
@@ -95,7 +95,13 @@ No data available for this day.
 
 ##### July 16th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-VSmell-lang
+
+https://github.com/Seanpm2001-Pug-lang
+
+https://github.com/Seanpm2001-KiXtart-lang
+
+https://github.com/SafeT-dev
 
 ##### July 17th 2021
 
@@ -163,9 +169,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `04 (Wednesday, July 14th 2021 at 8:24 pm)`
+File version: `05 (Friday, July 16th 2021 at 8:25 pm)`
 
-Line count (including blank lines and compiler line): `179`
+Line count (including blank lines and compiler line): `185`
 
 ***
 
