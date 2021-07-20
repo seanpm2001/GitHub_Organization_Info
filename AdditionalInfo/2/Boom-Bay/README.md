@@ -1,7 +1,7 @@
 
 ***
 
-![BoomBayIsland.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Boom-Bay/Porting5.png)
+![BoomBayIsland.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Boom-Bay/BoomBayIsland.png)
 
 # GitHub organization: Boom-Bay
 
