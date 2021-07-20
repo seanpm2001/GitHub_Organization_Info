@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Friday, July 14th 2021 at 8:25 pm`
+**This list was last updated on:** `Monday, July 19th 2021 at 8:44 pm`
 
 <!-- ##### LIST !-->
 
@@ -113,7 +113,11 @@ No data available for this day.
 
 ##### July 19th 2021
 
-No data available for this day.
+https://github.com/SNU-Dimensional-Porting-ToolKit
+
+https://github.com/Boom-Bay
+
+https://github.com/Frog-mania
 
 ##### July 20th 2021
 
@@ -169,9 +173,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `05 (Friday, July 16th 2021 at 8:25 pm)`
+File version: `06 (Monday, July 19th 2021 at 8:44 pm)`
 
-Line count (including blank lines and compiler line): `185`
+Line count (including blank lines and compiler line): `189`
 
 ***
 
