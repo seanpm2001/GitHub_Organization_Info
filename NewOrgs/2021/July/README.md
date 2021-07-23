@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Monday, July 19th 2021 at 8:44 pm`
+**This list was last updated on:** `Thursday, July 22nd 2021 at 9:30 pm`
 
 <!-- ##### LIST !-->
 
@@ -129,7 +129,17 @@ No data available for this day.
 
 ##### July 22nd 2021
 
-No data available for this day.
+https://github.com/Gitty-images
+
+https://github.com/Slick-license-manager
+
+https://github.com/Seanpm2001-Metric-System
+
+https://github.com/Coloress-dev
+
+https://github.com/Pocket-Village
+
+https://github.com/Seanpm2001-Daily-Desktop-Screenshots
 
 ##### July 23rd 2021
 
@@ -173,9 +183,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `06 (Monday, July 19th 2021 at 8:44 pm)`
+File version: `07 (Thursday, July 22nd 2021 at 9:30 pm)`
 
-Line count (including blank lines and compiler line): `189`
+Line count (including blank lines and compiler line): `199`
 
 ***
 
