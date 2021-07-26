@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from July 2021
 
 ( [<-- Go back to June 2021](/NewOrgs/2021/June/README.md) | [ --> Continue to August 2021 (coming soon)](/NewOrgs/2021/August/README.md) )
 
-**This list was last updated on:** `Thursday, July 22nd 2021 at 9:30 pm`
+**This list was last updated on:** `Sunday, July 25th 2021 at 8:17 pm`
 
 <!-- ##### LIST !-->
 
@@ -151,7 +151,9 @@ No data available for this day.
 
 ##### July 25th 2021
 
-No data available for this day.
+https://github.com/The-Existential-Index
+
+https://github.com/Numeric-Liberation-Front
 
 ##### July 26th 2021
 
@@ -183,9 +185,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `07 (Thursday, July 22nd 2021 at 9:30 pm)`
+File version: `08 (Sunday, July 25th 2021 at 8:17 pm)`
 
-Line count (including blank lines and compiler line): `199`
+Line count (including blank lines and compiler line): `201`
 
 ***
 
