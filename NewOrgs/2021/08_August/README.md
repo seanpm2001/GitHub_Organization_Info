@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from August 2021
 
 ( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
 
-**This list was last updated on:** `Friday, August 6th 2021 at 8:57 pm`
+**This list was last updated on:** `Tuesday, August 10th 2021 at 8:21 pm`
 
 <!-- ##### LIST !-->
 
@@ -61,7 +61,9 @@ No data available for this day.
 
 ##### August 10th 2021
 
-No data available for this day.
+https://github.com/The-Pirates-Copy
+
+https://github.com/NimbleBit-Glossary
 
 ##### August 11th 2021
 
@@ -153,9 +155,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `02 (Friday, August 6th 2021 at 8:57 pm)`
+File version: `03 (Tuesday, August 10th 2021 at 8:21 pm)`
 
-Line count (including blank lines and compiler line): `169`
+Line count (including blank lines and compiler line): `171`
 
 ***
 
