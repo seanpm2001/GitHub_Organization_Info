@@ -1,15 +1,15 @@
 
 ***
 
-# New organizations August 2021
+# New organizations 2021, August
 
-This list showcases my new GitHub organizations from August 2021
+This list showcases my new GitHub organizations from 2021, August.
 
 > > > > > **Navigation**
 
 ( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
 
-**This list was last updated on:** `Tuesday, August 10th 2021 at 8:21 pm`
+**This list was last updated on:** `Friday, 2021, August 13th at 9:45 pm`
 
 <!-- ##### LIST !-->
 
@@ -71,7 +71,7 @@ No data available for this day.
 
 ##### August 12th 2021
 
-No data available for this day.
+https://github.com/Self-Care-Bot
 
 ##### August 13th 2021
 
@@ -155,7 +155,7 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `03 (Tuesday, August 10th 2021 at 8:21 pm)`
+File version: `04 (Wednesday, 2021, August 13th at 9:45 pm)`
 
 Line count (including blank lines and compiler line): `171`
 
