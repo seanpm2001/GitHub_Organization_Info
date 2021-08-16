@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, August.
 
 ( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
 
-**This list was last updated on:** `Friday, 2021, August 13th at 9:45 pm`
+**This list was last updated on:** `Sunday, 2021 August 15th at 9:43 pm`
 
 <!-- ##### LIST !-->
 
@@ -83,7 +83,21 @@ No data available for this day.
 
 ##### August 15th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-Starlark-lang
+
+https://github.com/Seanpm2001-UnrealScript-lang
+
+https://github.com/Seanpm2001-EJS-lang
+
+https://github.com/Seanpm2001-Twig-language
+
+https://github.com/Seanpm2001-Jade-lang
+
+https://github.com/Seanpm2001-ImageJ-lang
+
+https://github.com/Seanpm2001-LogTalk-lang
+
+https://github.com/Seanpm2001-Prolog-lang
 
 ##### August 16th 2021
 
@@ -155,9 +169,9 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `04 (Wednesday, 2021, August 13th at 9:45 pm)`
+File version: `05 (Sunday, 2021 August 15th at 9:43 pm)`
 
-Line count (including blank lines and compiler line): `171`
+Line count (including blank lines and compiler line): `185`
 
 ***
 
