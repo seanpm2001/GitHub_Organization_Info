@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, August.
 
 ( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
 
-**This list was last updated on:** `Sunday, 2021 August 15th at 9:43 pm`
+**This list was last updated on:** `Friday, 2021 August 20th at 7:44 pm`
 
 <!-- ##### LIST !-->
 
@@ -117,7 +117,7 @@ No data available for this day.
 
 ##### August 20th 2021
 
-No data available for this day.
+https://github.com/Computing-longevity
 
 ##### August 21st 2021
 
@@ -169,7 +169,7 @@ No data available for this day.
 
 File type: `Markdown (*.md)`
 
-File version: `05 (Sunday, 2021 August 15th at 9:43 pm)`
+File version: `06 (Friday, 2021 August 20th at 7:44 pm)`
 
 Line count (including blank lines and compiler line): `185`
 
