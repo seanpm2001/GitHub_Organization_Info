@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, August.
 
 ( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
 
-**This list was last updated on:** `Wednesday, 2021 August 25th at 10:55 pm`
+**This list was last updated on:** `Sunday, 2021 August 29th at 10:17 pm`
 
 <!-- ##### LIST !-->
 
@@ -145,7 +145,11 @@ No data available for this day.
 
 ##### August 27th 2021
 
-No data available for this day.
+https://github.com/SNU-NFT
+
+https://github.com/SNU-Metaverse
+
+https://github.com/VOI-Manor
 
 ##### August 28th 2021
 
@@ -169,9 +173,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `07 (Wednesday, 2021 August 25th at 10:55 pm)`
+**File version:** `08 (Sunday, 2021 August 29th at 10:17 pm)`
 
-**Line count (including blank lines and compiler line):** `185`
+**Line count (including blank lines and compiler line):** `189`
 
 ***
 
