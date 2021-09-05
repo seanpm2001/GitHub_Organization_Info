@@ -7,9 +7,9 @@ This list showcases my new GitHub organizations from 2021, August.
 
 > > > > > **Navigation**
 
-( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021 (coming soon)](/NewOrgs/2021/September/README.md) )
+( [<-- Go back to July 2021](/NewOrgs/2021/July/README.md) | [ --> Continue to September 2021)](/NewOrgs/2021/09_September/README.md) )
 
-**This list was last updated on:** `Sunday, 2021 August 29th at 10:17 pm`
+**This list was last updated on:** `Saturday, 2021 September 4th at 11:39 pm`
 
 <!-- ##### LIST !-->
 
@@ -173,7 +173,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `08 (Sunday, 2021 August 29th at 10:17 pm)`
+**File version:** `09 (Saturday, 2021 September 4th at 11:39 pm)`
 
 **Line count (including blank lines and compiler line):** `189`
 
