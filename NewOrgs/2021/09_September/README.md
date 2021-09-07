@@ -3,13 +3,13 @@
 
 # New organizations 2021, September
 
-This list showcases my new GitHub organizations from 2021, August.
+This list showcases my new GitHub organizations from 2021, September
 
 > > > > > **Navigation**
 
 ( [<-- Go back to August 2021](/NewOrgs/2021/08_August/README.md) | [ --> Continue to October 2021 (coming soon)](/NewOrgs/2021/10_October/README.md) )
 
-**This list was last updated on:** `Saturday, 2021 September 4th at 11:43 pm`
+**This list was last updated on:** `Monday, 2021 September 6th at 10:00 pm`
 
 <!-- ##### LIST !-->
 
@@ -37,7 +37,9 @@ No data available for this day.
 
 ##### September 6th 2021
 
-No data available for this day.
+https://github.com/Medical-ethics
+
+https://github.com/RNAssistant
 
 ##### September 7th 2021
 
@@ -141,9 +143,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `01 (Saturday, 2021 September 4th at 11:43 pm)`
+**File version:** `02 (Monday, 2021 September 6th at 10:00 pm)`
 
-**Line count (including blank lines and compiler line):** `157`
+**Line count (including blank lines and compiler line):** `159`
 
 ***
 
