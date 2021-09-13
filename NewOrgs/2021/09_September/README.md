@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, September
 
 ( [<-- Go back to August 2021](/NewOrgs/2021/08_August/README.md) | [ --> Continue to October 2021 (coming soon)](/NewOrgs/2021/10_October/README.md) )
 
-**This list was last updated on:** `Monday, 2021 September 6th at 10:00 pm`
+**This list was last updated on:** `Monday, 2021 September 12th at 9:49 pm`
 
 <!-- ##### LIST !-->
 
@@ -63,7 +63,7 @@ No data available for this day.
 
 ##### September 12th 2021
 
-No data available for this day.
+https://github.com/Its-time-to-cut-WideVine-DRM/
 
 ##### September 13th 2021
 
@@ -143,7 +143,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `02 (Monday, 2021 September 6th at 10:00 pm)`
+**File version:** `03 (Sunday, 2021 September 12th at 9:49 pm)`
 
 **Line count (including blank lines and compiler line):** `159`
 
