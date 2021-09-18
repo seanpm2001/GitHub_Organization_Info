@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, September
 
 ( [<-- Go back to August 2021](/NewOrgs/2021/08_August/README.md) | [ --> Continue to October 2021 (coming soon)](/NewOrgs/2021/10_October/README.md) )
 
-**This list was last updated on:** `Thursday, 2021 September 16th at 8:19 pm`
+**This list was last updated on:** `Friday, 2021 September 17th at 11:33 pm`
 
 <!-- ##### LIST !-->
 
@@ -93,7 +93,7 @@ https://github.com/What-the-FLoC
 
 ##### September 17th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-LOLCODE-lang
 
 ##### September 18th 2021
 
@@ -153,7 +153,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `04 (Thursday, 2021 September 16th at 8:19 pm)`
+**File version:** `05 (Thursday, 2021 September 16th at 11:33 pm)`
 
 **Line count (including blank lines and compiler line):** `169`
 
