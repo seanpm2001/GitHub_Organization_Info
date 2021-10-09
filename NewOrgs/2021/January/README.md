@@ -1,29 +1,155 @@
 
 ***
 
-# New organizations January 2021
+# New organizations 2021, January
 
-This list showcases my new GitHub organizations from January 2021
+This list showcases my new GitHub organizations from 2021, January
 
 > > > > > **Navigation**
 
-( [<-- Go back to December 2020](/NewOrgs/2020/December/README.md) | [ --> Continue to February 2021](/NewOrgs/2021/February/README.md) )
+( [<-- Go back to 2020 December](/NewOrgs/2020/December/README.md) | [ --> Continue to 2021 February](/NewOrgs/2021/February/README.md) )
 
-**This list was last updated on:** `Wednesday, May 19th 2021 at 4:07 pm`
+**This list was last updated on:** `Friday, 2021 January 8th at 7:11 pm`
 
-##### LIST
+# TL;DR
 
-This list is coming soon.
+There is no organization data for this month
+
+<!-- ##### LIST !-->
+
+##### January 1st 2021
+
+No data available for this day.
+
+##### January 2nd 2021
+
+No data available for this day.
+
+##### January 3rd 2021
+
+No data available for this day.
+
+##### January 4th 2021
+
+No data available for this day.
+
+##### January 5th 2021
+
+No data available for this day.
+
+##### January 6th 2021
+
+No data available for this day.
+
+##### January 7th 2021
+
+No data available for this day.
+
+##### January 8th 2021
+
+No data available for this day.
+
+##### January 9th 2021
+
+No data available for this day.
+
+##### January 10th 2021
+
+No data available for this day.
+
+##### January 11th 2021
+
+No data available for this day.
+
+##### January 12th 2021
+
+No data available for this day.
+
+##### January 13th 2021
+
+No data available for this day.
+
+##### January 14th 2021
+
+No data available for this day.
+
+##### January 15th 2021
+
+No data available for this day.
+
+##### January 16th 2021
+
+No data available for this day.
+
+##### January 17th 2021
+
+No data available for this day.
+
+##### January 18th 2021
+
+No data available for this day.
+
+##### January 19th 2021
+
+No data available for this day.
+
+##### January 20th 2021
+
+No data available for this day.
+
+##### January 21st 2021
+
+No data available for this day.
+
+##### January 22nd 2021
+
+No data available for this day.
+
+##### January 23rd 2021
+
+No data available for this day.
+
+##### January 24th 2021
+
+No data available for this day.
+
+##### January 25th 2021
+
+No data available for this day.
+
+##### January 26th 2021
+
+No data available for this day.
+
+##### January 27th 2021
+
+No data available for this day.
+
+##### January 28th 2021
+
+No data available for this day.
+
+##### January 29th 2021
+
+No data available for this day.
+
+##### January 30th 2021
+
+No data available for this day.
+
+##### January 31st 2021
+
+No data available for this day.
 
 ***
 
 ## File info
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown document (*.md, *.mkd, *.mdown, *.markdown)`
 
-File version: `1 (Wednesday, May 19th 2021 at 4:07 pm)`
+**File version:** `02 (Friday, 2021 January 8th at 7:11 pm)`
 
-Line count (including blank lines and compiler line): `37`
+**Line count (including blank lines and compiler line):** `163`
 
 ***
 
