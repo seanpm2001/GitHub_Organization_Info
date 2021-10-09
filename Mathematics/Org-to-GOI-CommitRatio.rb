@@ -1,6 +1,6 @@
 # Start of script
 # This ruby code is currently not functional and is highly broken
-class org-to-github-organization-info-commit-ratio() {
+class orgToGitHubOrganizationInfoCommitRatio() {
   def commits() {
     web.get(analytics) 
     break;
@@ -10,12 +10,31 @@ class org-to-github-organization-info-commit-ratio() {
     # Only orgs in forks made by seanpm2001
     break;
   }
-  get current count(commits);
-  count == 3575; # Commits
-  get current count(orgs);
-  org == 653; # Organizations
-  ratio == count / 653; # Current: 5.4747 commits per organization
-  echo ratio();
+  # Version 1 count
+  def v1Count {
+    get current count(commits);
+    count == 3575; # Commits
+    get current count(orgs);
+    org == 653; # Organizations
+    ratio == count / 653; # Current: 5.4747 commits per organization
+    echo "Current: 5.4747 commits per organization";
+    echo ("Old count (From version 1: (Sunday, 2021 Spetember 5th at 3:53 pm))");
+    echo ratio();
+    break;
+  }
+  def v2Count {
+    get current count(commits);
+    count == 3903; # Commits
+    get current count(orgs);
+    org == 667; # Organizations
+    ratio == count / 667; # Current: 5.8516 commits per organization
+    echo "Current: 5.8516 commits per organization. Difference between V1 (5.4747): +0.3769";
+    echo ("Old count (From version 2: (Friday, 2021 October 8th at 5:30 pm))");
+    echo ratio();
+    break;
+  }
+  return v1Count();
+  return v2Count();
   break;
 }
 break;
@@ -23,6 +42,6 @@ quit;
 # File info
 # File type: Ruby source code file (*.rb)
 # Language: English (US)
-# File version: 1 (Sunday, 2021 Spetember 5th at 3:53 pm)
-# Line count (including blank lines and compiler line): 29
+# File version: 2 (Friday, 2021 October 8th at 5:30 pm)
+# Line count (including blank lines and compiler line): 48
 # End of script
