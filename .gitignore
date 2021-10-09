@@ -1,3 +1,4 @@
+# Start of script
 *.gem
 *.rbc
 /.config
@@ -9,6 +10,12 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/ext/
+
+# Ignore these broken notes:
+/AdditionalInfo/Neworg_notes/2021/07_July/ # Notes are broken
+/AdditionalInfo/Neworg_notes/2021/June/ # Notes are broken
+/AdditionalInfo/Neworg_notes/2021/May/ # Notes are broken
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -54,3 +61,13 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+
+dir_to_ignore/
+
+# File info
+
+# File type: Gitignore file (.gitignore)
+# File version: 2 (Friday, 2021 October 8th at 5:21 pm)
+# Line count (including blank lines and compiler line): 74
+
+# End of script
