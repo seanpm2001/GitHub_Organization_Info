@@ -1,11 +1,11 @@
 
 ***
 
-# 2020 July 30th
+# 2020 July 1st
 
 ## No data
 
-No new organizations were created on 2020 July 30th. There is no data here and there never will be.
+No new organizations were created on 2020 July 1st. There is no data here and there never will be.
 
 Although I had a GitHub account on this day. I didn't even get to creating organizations until 2020 September 22nd when I discovered them.
 
