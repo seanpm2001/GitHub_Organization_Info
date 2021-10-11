@@ -3,19 +3,19 @@
 
 Status post progress - GOI:OrganizationGraphics/ByDate
 
-**As of:** `2021 Saturday October 9th at 8:38 pm`
+**As of:** `2021 Sunday October 10th at 10:22 pm`
 
 - [ ] 2020
 
-- - [ ] 2020 January (halfway)
+- - [x] 2020 January
 
-- - [ ] 2020 February (halfway)
+- - [x] 2020 February
 
-- - [ ] 2020 March (partial)
+- - [ ] 2020 March (halfway)
 
 - - [ ] 2020 April (partial)
 
-- - [ ] 2020 May (halfway)
+- - [x] 2020 May
 
 - - [ ] 2020 June (partial)
 
@@ -59,14 +59,16 @@ Status post progress - GOI:OrganizationGraphics/ByDate
 
 This is as much as I am willing to do today. This project will likely take a couple/a few more days to catch up on. - 2021 Saturday October 9th
 
+This is a long and tedious process. It may take me several more days. I didn't have as much time for it today to prevent burnout.
+
 ***
 
 ## File info
 
 **File type:** `Markdown document (*.md, *.mkd, *.mdown, *.markdown)`
 
-**File version:** `1 (Saturday, October 9th at 8:38 pm)`
+**File version:** `2 (Sunday, October 10th at 10:22 pm)`
 
-**Line count (including blank lines and compiler line):** `73`
+**Line count (including blank lines and compiler line):** `75`
 
 ***
