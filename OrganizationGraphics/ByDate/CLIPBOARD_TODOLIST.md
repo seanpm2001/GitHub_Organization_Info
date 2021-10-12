@@ -3,7 +3,7 @@
 
 Status post progress - GOI:OrganizationGraphics/ByDate
 
-**As of:** `2021 Sunday October 10th at 10:22 pm`
+**As of:** `2021 Monday October 11th at 6:35 pm`
 
 - [ ] 2020
 
@@ -11,17 +11,17 @@ Status post progress - GOI:OrganizationGraphics/ByDate
 
 - - [x] 2020 February
 
-- - [ ] 2020 March (halfway)
+- - [x] 2020 March
 
-- - [ ] 2020 April (partial)
+- - [x] 2020 April
 
 - - [x] 2020 May
 
-- - [ ] 2020 June (partial)
+- - [ ] 2020 June (halfway)
 
-- - [ ] 2020 July (partial)
+- - [ ] 2020 July (halfway)
 
-- - [ ] 2020 August (partial)
+- - [ ] 2020 August (halfway)
 
 - - [x] 2020 September
 
@@ -59,7 +59,9 @@ Status post progress - GOI:OrganizationGraphics/ByDate
 
 This is as much as I am willing to do today. This project will likely take a couple/a few more days to catch up on. - 2021 Saturday October 9th
 
-This is a long and tedious process. It may take me several more days. I didn't have as much time for it today to prevent burnout.
+This is a long and tedious process. It may take me several more days. I didn't have as much time for it today to prevent burnout. - 2021 Sunday October 10th
+
+This is still a long and tedious process. It is going to take me several more days to finish. I made a lot more progress today, I am nearing the halfway point. I had to stop early today, as I got burnt out, and I also need to fix my schedule. - 2021 Monday October 11th
 
 ***
 
@@ -67,8 +69,8 @@ This is a long and tedious process. It may take me several more days. I didn't h
 
 **File type:** `Markdown document (*.md, *.mkd, *.mdown, *.markdown)`
 
-**File version:** `2 (Sunday, October 10th at 10:22 pm)`
+**File version:** `3 (Monday, October 11th at 6:35 pm)`
 
-**Line count (including blank lines and compiler line):** `75`
+**Line count (including blank lines and compiler line):** `77`
 
 ***
