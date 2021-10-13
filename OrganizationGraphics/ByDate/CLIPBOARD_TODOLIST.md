@@ -3,7 +3,7 @@
 
 Status post progress - GOI:OrganizationGraphics/ByDate
 
-**As of:** `2021 Monday October 11th at 6:35 pm`
+**As of:** `2021 Tuesday October 12th at 11:31 pm`
 
 - [ ] 2020
 
@@ -25,11 +25,11 @@ Status post progress - GOI:OrganizationGraphics/ByDate
 
 - - [x] 2020 September
 
-- - [ ] 2020 October (partial)
+- - [x] 2020 October
 
-- - [ ] 2020 November (partial)
+- - [ ] 2020 November (halfway)
 
-- - [ ] 2020 December (partial)
+- - [ ] 2020 December (past halfway, about 68%)
 
 - [ ] 2021
 
@@ -63,14 +63,16 @@ This is a long and tedious process. It may take me several more days. I didn't h
 
 This is still a long and tedious process. It is going to take me several more days to finish. I made a lot more progress today, I am nearing the halfway point. I had to stop early today, as I got burnt out, and I also need to fix my schedule. - 2021 Monday October 11th
 
+This is still a long process. I am past the halfway point now. I could have done more today, but I got distracted, and also need to continue working on fixing my schedule. - 2021 Tuesday October 12th
+
 ***
 
 ## File info
 
 **File type:** `Markdown document (*.md, *.mkd, *.mdown, *.markdown)`
 
-**File version:** `3 (Monday, October 11th at 6:35 pm)`
+**File version:** `4 (Tuesday, October 12th at 11:31 pm)`
 
-**Line count (including blank lines and compiler line):** `77`
+**Line count (including blank lines and compiler line):** `79`
 
 ***
