@@ -3,9 +3,9 @@
 
 Status post progress - GOI:OrganizationGraphics/ByDate
 
-**As of:** `2021 Wednesday October 13th at 5:07 pm`
+**As of:** `2021 Thursday October 14th at 2:38 pm`
 
-- [ ] 2020
+- [x] 2020
 
 - - [x] 2020 January
 
@@ -17,17 +17,17 @@ Status post progress - GOI:OrganizationGraphics/ByDate
 
 - - [x] 2020 May
 
-- - [ ] 2020 June (past halfway, over 70%)
+- - [x] 2020 June
 
-- - [ ] 2020 July (past halfway, over 68%)
+- - [x] 2020 July
 
-- - [ ] 2020 August (past halfway, over 68%)
+- - [x] 2020 August
 
 - - [x] 2020 September
 
 - - [x] 2020 October
 
-- - [ ] 2020 November (past halfway, over 70%)
+- - [x] 2020 November
 
 - - [x] 2020 December
 
@@ -67,14 +67,16 @@ This is still a long process. I am past the halfway point now. I could have done
 
 I made lots of progress today, and I am expected to complete the process tomorrow. I have 36 status posts left to make (72 files when counting archives, 74 when counting tomorrows 2021 October 14th post) I would have just finished up today, but I wanted to save it for tomorrow. - 2021 Wednesday October 13th
 
+I finally finished the project today. I am all caught up. I have 4 organizations to make, so that is what I will be doing next. I won't be making the 2021 October 14th status post until later. - 2021 Thursday Octlober 14th
+
 ***
 
 ## File info
 
 **File type:** `Markdown document (*.md, *.mkd, *.mdown, *.markdown)`
 
-**File version:** `5 (Wednesday, October 13th at 5:07 pm)`
+**File version:** `6 (Thursday, October 14th at 2:38 pm)`
 
-**Line count (including blank lines and compiler line):** `81`
+**Line count (including blank lines and compiler line):** `83`
 
 ***
