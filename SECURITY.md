@@ -94,11 +94,17 @@ This project is a model project and it shouldn't be much of a problem security-w
 | V1.1.20B   | :x: | Old version, not supported |
 | V1.1.21A   | :x: | Old version, not supported |
 | V1.1.21B   | :x: | Old version, not supported |
-| V1.1.22A   | :white_check_mark: | Current version, supported |
-| V1.1.22B   | :white_check_mark: | Current version, supported |
-| < V1.1.22A & > 2021 October 7th   | :white_check_mark:                | Current version set, supported |
-| v1.1.23A    | :white_check_mark: | NOT YET RELEASED |
-| v1.1.23B    | :white_check_mark: | NOT YET RELEASED |
+| V1.1.22A   | :x: | Old version, not supported |
+| V1.1.22B   | :x: | Old version, not supported |
+| V1.1.23A   | :x: | Old version, not supported |
+| V1.1.23B   | :x: | Old version, not supported |
+| V1.1.24A   | :x: | Old version, not supported |
+| V1.1.24B   | :x: | Old version, not supported |
+| V1.1.25   | :white_check_mark: | Current version, supported |
+| V1.1.26   | :white_check_mark: | Future release, supported |
+| < V1.1.25 & > 2021 October 13th   | :white_check_mark:                | Current version set, supported |
+| v1.1.27A    | :white_check_mark: | NOT YET RELEASED |
+| v1.1.27B    | :white_check_mark: | NOT YET RELEASED |
 
 ## Reporting a Vulnerability
 
@@ -116,9 +122,9 @@ Other security currently isn't available. If there are any further questions, @ 
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `1 (2021, Thursday, October 7th at 1:42 pm)`
+**File version:** `2 (2021, Wednesday, October 13th at 5:25 pm)`
 
-**Line count (including blank lines and compiler line):** `158`
+**Line count (including blank lines and compiler line):** `184`
 
 ***
 
@@ -144,13 +150,33 @@ Other security currently isn't available. If there are any further questions, @ 
 
 > * No other changes in version 1
 
-**Version 2 (Coming soon)**
+**Version 2 (2021, Wednesday, October 13th at 5:25 pm)**
+
+> Changes:
+
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 </details>
 
