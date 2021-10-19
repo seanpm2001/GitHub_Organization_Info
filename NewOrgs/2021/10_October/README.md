@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, October
 
 ( [<-- Go back to 2021 September](/NewOrgs/2021/09_September/README.md) | [ --> Continue to 2021 November (coming soon)](/NewOrgs/2021/11_November/README.md) )
 
-**This list was last updated on:** `Thursday, 2021 October 14th at 3:52 pm`
+**This list was last updated on:** `Monday, 2021 October 18th at 7:22 pm`
 
 <!-- ##### LIST !-->
 
@@ -91,7 +91,9 @@ No data available for this day.
 
 ##### October 18th 2021
 
-No data available for this day.
+https://github.com/UTPM
+
+https://github.com/LightSpeedRelayTechnologies
 
 ##### October 19th 2021
 
@@ -151,9 +153,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `02 (Thursday, 2021 October 14th at 3:52 pm)`
+**File version:** `03 (Monday, 2021 October 18th at 7:22 pm)`
 
-**Line count (including blank lines and compiler line):** `167`
+**Line count (including blank lines and compiler line):** `169`
 
 ***
 
