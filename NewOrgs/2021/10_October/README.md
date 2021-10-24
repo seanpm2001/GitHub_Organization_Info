@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, October
 
 ( [<-- Go back to 2021 September](/NewOrgs/2021/09_September/README.md) | [ --> Continue to 2021 November (coming soon)](/NewOrgs/2021/11_November/README.md) )
 
-**This list was last updated on:** `Monday, 2021 October 18th at 7:22 pm`
+**This list was last updated on:** `Saturday, 2021 October 23rd at 5:35 pm`
 
 <!-- ##### LIST !-->
 
@@ -113,7 +113,11 @@ No data available for this day.
 
 ##### October 23rd 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-PureBasic-lang
+
+https://github.com/Seanpm2001-MATLAB-lang
+
+https://github.com/SNU-Universe
 
 ##### October 24th 2021
 
@@ -151,11 +155,11 @@ No data available for this day.
 
 ## File info
 
-**File type:** `Markdown document (*.md *.mkd *.markdown)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Monday, 2021 October 18th at 7:22 pm)`
+**File version:** `04 (Saturday, 2021 October 23rd at 5:35 pm)`
 
-**Line count (including blank lines and compiler line):** `169`
+**Line count (including blank lines and compiler line):** `173`
 
 ***
 
