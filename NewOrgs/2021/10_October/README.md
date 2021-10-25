@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, October
 
 ( [<-- Go back to 2021 September](/NewOrgs/2021/09_September/README.md) | [ --> Continue to 2021 November (coming soon)](/NewOrgs/2021/11_November/README.md) )
 
-**This list was last updated on:** `Saturday, 2021 October 23rd at 5:35 pm`
+**This list was last updated on:** `Monday, 2021 October 25th at 3:45 pm`
 
 <!-- ##### LIST !-->
 
@@ -125,7 +125,13 @@ No data available for this day.
 
 ##### October 25th 2021
 
-No data available for this day.
+https://github.com/AUTOMATE-2001
+
+https://github.com/Seanpm2001-JSON-lang
+
+https://github.com/Seanpm2001-Automation
+
+https://github.com/OuterVM
 
 ##### October 26th 2021
 
@@ -157,9 +163,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `04 (Saturday, 2021 October 23rd at 5:35 pm)`
+**File version:** `05 (Monday, 2021 October 25th at 3:45 pm)`
 
-**Line count (including blank lines and compiler line):** `173`
+**Line count (including blank lines and compiler line):** `179`
 
 ***
 
