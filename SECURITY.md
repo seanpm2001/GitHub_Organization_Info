@@ -100,11 +100,19 @@ This project is a model project and it shouldn't be much of a problem security-w
 | V1.1.23B   | :x: | Old version, not supported |
 | V1.1.24A   | :x: | Old version, not supported |
 | V1.1.24B   | :x: | Old version, not supported |
-| V1.1.25   | :white_check_mark: | Current version, supported |
-| V1.1.26   | :white_check_mark: | Future release, supported |
-| < V1.1.25 & > 2021 October 13th   | :white_check_mark:                | Current version set, supported |
-| v1.1.27A    | :white_check_mark: | NOT YET RELEASED |
-| v1.1.27B    | :white_check_mark: | NOT YET RELEASED |
+| V1.1.25   | :x: | Old version, not supported |
+| V1.1.26   | :x: | Old version, not supported |
+| v1.1.27A    | :x: | Old version, not supported |
+| v1.1.27B    | :x: | Old version, not supported |
+| v1.1.28A    | :x: | Old version, not supported |
+| v1.1.28B    | :x: | Old version, not supported |
+| v1.1.29A    | :x: | Old version, not supported |
+| v1.1.29B    | :x: | Old version, not supported |
+| v1.1.30A    | :white_check_mark: | Current version, supported |
+| v1.1.30B    | :white_check_mark: | Current version, supported |
+| < V1.1.29B & > 2021 October 25th   | :white_check_mark:                | Current version set, supported |
+| v1.1.31A    | :white_check_mark: | NOT YET RELEASED |
+| v1.1.31B    | :white_check_mark: | NOT YET RELEASED |
 
 ## Reporting a Vulnerability
 
@@ -120,11 +128,11 @@ Other security currently isn't available. If there are any further questions, @ 
 
 ## File info
 
-**File type:** `Markdown document (*.md *.mkd *.markdown)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2021, Wednesday, October 13th at 5:25 pm)`
+**File version:** `3 (2021, Monday, October 25th at 5:08 pm)`
 
-**Line count (including blank lines and compiler line):** `184`
+**Line count (including blank lines and compiler line):** `212`
 
 ***
 
@@ -162,11 +170,15 @@ Other security currently isn't available. If there are any further questions, @ 
 
 > * No other changes in version 2
 
-**Version 3 (Coming soon)**
+**Version 3 (2021, Monday, October 25th at 5:08 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -177,6 +189,22 @@ Other security currently isn't available. If there are any further questions, @ 
 > * Coming soon
 
 > * No other changes in version 4
+
+**Version 5 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 </details>
 
