@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Monday, 2021 November 3rd at 11:45 pm`
+**This list was last updated on:** `Thursday, 2021 November 4th at 10:54 pm`
 
 <!-- ##### LIST !-->
 
@@ -45,7 +45,17 @@ https://github.com/Seanpm2001-SourcePawn-lang
 
 ##### November 4th 2021
 
-No data available for this day.
+https://github.com/Techlaration
+
+https://github.com/Seanpm2001-Rexx-lang
+
+https://github.com/Seanpm2001-OpenEdge-ABL-lang
+
+https://github.com/Seanpm2001-Logos-lang
+
+https://github.com/Seanpm2001-Slim-lang
+
+https://github.com/Seanpm2001-Apex-lang
 
 ##### November 5th 2021
 
@@ -161,9 +171,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `01 (Wednesday, 2021 November 3rd at 11:45 pm)`
+**File version:** `02 (Thursday, 2021 November 4th at 10:54 pm)`
 
-**Line count (including blank lines and compiler line):** `177`
+**Line count (including blank lines and compiler line):** `187`
 
 ***
 
