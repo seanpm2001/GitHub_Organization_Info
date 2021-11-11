@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Thursday, 2021 November 4th at 10:54 pm`
+**This list was last updated on:** `Thursday, 2021 November 10th at 8:00 pm`
 
 <!-- ##### LIST !-->
 
@@ -79,7 +79,13 @@ No data available for this day.
 
 ##### November 10th 2021
 
-No data available for this day.
+https://github.com/Bosky-dev
+
+https://github.com/Seanpm2001-Groovy-lang
+
+https://github.com/Seanpm2001-Dhall-lang
+
+https://github.com/Seanpm2001-Roff-lang
 
 ##### November 11th 2021
 
@@ -171,9 +177,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Thursday, 2021 November 4th at 10:54 pm)`
+**File version:** `03 (Wednesday, 2021 November 10th at 8:00 pm)`
 
-**Line count (including blank lines and compiler line):** `187`
+**Line count (including blank lines and compiler line):** `193`
 
 ***
 
