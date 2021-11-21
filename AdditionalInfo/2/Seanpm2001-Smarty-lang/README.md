@@ -1,7 +1,7 @@
 
 ***
 
-![Smarty.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Smarty-lang/R-for-Smarty.png)
+![Smarty.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Smarty-lang/Smarty.png)
 
 # GitHub organization: Seanpm2001-Smarty-lang
 
