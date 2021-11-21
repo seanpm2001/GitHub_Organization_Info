@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Thursday, 2021 November 10th at 8:00 pm`
+**This list was last updated on:** `Sunday, 2021 November 21st at 3:14 pm`
 
 <!-- ##### LIST !-->
 
@@ -129,7 +129,25 @@ No data available for this day.
 
 ##### November 21st 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-GAP-lang
+
+https://github.com/Seanpm2001-Wiki
+
+https://github.com/KeyStroke-dev
+
+https://github.com/ShareBoxLIB
+
+https://github.com/Seanpm2001-Fancy-lang
+
+https://github.com/Seanpm2001-Smarty-lang
+
+https://github.com/Seanpm2001-Processing-JS-lang
+
+https://github.com/Seanpm2001-Tumblr
+
+https://github.com/Seanpm2001-Patreon
+
+https://github.com/Seanpm2001-OpenCollective
 
 ##### November 22nd 2021
 
@@ -177,9 +195,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Wednesday, 2021 November 10th at 8:00 pm)`
+**File version:** `04 (Sunday, 2021 November 21st at 3:14 pm)`
 
-**Line count (including blank lines and compiler line):** `193`
+**Line count (including blank lines and compiler line):** `211`
 
 ***
 
