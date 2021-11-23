@@ -27,4 +27,6 @@ This program is a Safe For Work (SFW) program, as it blocks Not Safe For Work (N
 
 The name is pronounced both Genie Block, and Gen e Block. I don't mind if you pronounce it differently though, it shouldn't be something to get upset over.
 
+When searching for projects written in Genie today, before creating [FreeGenie](/AdditionalInfo/2/FreeGenie-dev/README.md), I came across this project again. It was a lone project, so I created an organization for it.
+
 ***
