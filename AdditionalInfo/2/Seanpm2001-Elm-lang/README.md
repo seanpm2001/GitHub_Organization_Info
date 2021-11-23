@@ -3,7 +3,7 @@
 
 <details open><summary><p>Click/tap here to expand/collapse the full resolution (vector) logo for this project</p></summary>
 
-![ElmLogo.svg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Elm-lang/ElmLogo.svg)
+![Elm_Logo.svg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Elm-lang/Elm_logo.svg)
 
 </details>
 
