@@ -1,7 +1,7 @@
 
 ***
 
-![FreeGenie-dev1.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/FreeGenie-dev/FreeGenie-dev1.png)
+![Genie_working_with_Marilyn.JPG failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/FreeGenie-dev/Genie_working_with_Marilyn.JPG)
 
 # GitHub organization: FreeGenie-dev
 
@@ -26,5 +26,7 @@ There isn't currently a way to know how many people are being locked up against 
 This project is dedicated to Genie (real name (disputed): Susan Wiley) a feral child who was locked up from age ~1.6 to ~13.55 and suffered severe trauma and developmental problems from her abuse.
 
 I am still looking for ways to improve the rescue success rate of this project.
+
+A picture of Genie working with a social worker is used as the project icon, it is the only square photo of Genie I could find.
 
 ***
