@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Sunday, 2021 November 21st at 3:14 pm`
+**This list was last updated on:** `Monday, 2021 November 22nd at 7:21 pm`
 
 <!-- ##### LIST !-->
 
@@ -151,7 +151,23 @@ https://github.com/Seanpm2001-OpenCollective
 
 ##### November 22nd 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-Quora
+
+https://github.com/Seanpm2001-LiberaPay
+
+https://github.com/Seanpm2001-IssueHunt
+
+https://github.com/Seanpm2001-Ko-Fi
+
+https://github.com/Seanpm2001-ClockTree
+
+https://github.com/Seanpm2001-DM-lang
+
+https://github.com/Seanpm2001-Elm-lang
+
+https://github.com/FreeGenie-dev
+
+https://github.com/GeniBlock
 
 ##### November 23rd 2021
 
@@ -195,9 +211,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `04 (Sunday, 2021 November 21st at 3:14 pm)`
+**File version:** `05 (Monday, 2021 November 22nd at 7:21 pm)`
 
-**Line count (including blank lines and compiler line):** `211`
+**Line count (including blank lines and compiler line):** `227`
 
 ***
 
