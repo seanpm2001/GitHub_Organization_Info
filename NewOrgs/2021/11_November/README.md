@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Monday, 2021 November 22nd at 7:21 pm`
+**This list was last updated on:** `Saturday, 2021 November 27th at 7:26 pm`
 
 <!-- ##### LIST !-->
 
@@ -187,7 +187,19 @@ No data available for this day.
 
 ##### November 27th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-Zig-lang
+
+https://github.com/Seanpm2001-LLVM-lang
+
+https://github.com/Seanpm2001-Verona-lang
+
+https://github.com/Seanpm2001-Cyclone-lang
+
+https://github.com/Seanpm2001-HaProxy-lang
+
+https://github.com/Seanpm2001-SciLab-lang
+
+https://github.com/Seanpm2001-V-lang
 
 ##### November 28th 2021
 
@@ -211,9 +223,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `05 (Monday, 2021 November 22nd at 7:21 pm)`
+**File version:** `06 (Saturday, 2021 November 27th at 7:26 pm)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `239`
 
 ***
 
