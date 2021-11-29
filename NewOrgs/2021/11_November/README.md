@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, November
 
 ( [<-- Go back to 2021 October](/NewOrgs/2021/10_October/README.md) | [ --> Continue to 2021 December (coming soon)](/NewOrgs/2021/12_December/README.md) )
 
-**This list was last updated on:** `Saturday, 2021 November 27th at 7:26 pm`
+**This list was last updated on:** `Sunday, 2021 November 28th at 11:09 pm`
 
 <!-- ##### LIST !-->
 
@@ -203,7 +203,13 @@ https://github.com/Seanpm2001-V-lang
 
 ##### November 28th 2021
 
-No data available for this day.
+https://github.com/TrueCalm
+
+https://github.com/Seanpm2001-TideLift
+
+https://github.com/Seanpm2001-Otechie
+
+https://github.com/FINF-dev
 
 ##### November 29th 2021
 
@@ -223,9 +229,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `06 (Saturday, 2021 November 27th at 7:26 pm)`
+**File version:** `07 (Sunday, 2021 November 28th at 11:09 pm)`
 
-**Line count (including blank lines and compiler line):** `239`
+**Line count (including blank lines and compiler line):** `245`
 
 ***
 
