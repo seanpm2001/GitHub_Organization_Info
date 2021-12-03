@@ -108,11 +108,26 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.28B    | :x: | Old version, not supported |
 | v1.1.29A    | :x: | Old version, not supported |
 | v1.1.29B    | :x: | Old version, not supported |
-| v1.1.30A    | :white_check_mark: | Current version, supported |
-| v1.1.30B    | :white_check_mark: | Current version, supported |
-| < V1.1.29B & > 2021 October 25th   | :white_check_mark:                | Current version set, supported |
-| v1.1.31A    | :white_check_mark: | NOT YET RELEASED |
-| v1.1.31B    | :white_check_mark: | NOT YET RELEASED |
+| v1.1.30A    | :x: | Old version, not supported |
+| v1.1.30B    | :x: | Old version, not supported |
+| v1.1.31A    | :x: | Old version, not supported |
+| v1.1.31B    | :x: | Old version, not supported |
+| v1.1.32A    | :x: | Old version, not supported |
+| v1.1.32B    | :x: | Old version, not supported |
+| v1.1.33A    | :x: | Old version, not supported |
+| v1.1.33B    | :x: | Old version, not supported |
+| v1.1.34A    | :x: | Old version, not supported |
+| v1.1.34B    | :x: | Old version, not supported |
+| v1.1.35A    | :x: | Old version, not supported |
+| v1.1.35B    | :x: | Old version, not supported |
+| v1.1.36A    | :x: | Old version, not supported |
+| v1.1.36B    | :x: | Old version, not supported |
+| v1.1.37A    | :white_check_mark: | Current version, supported |
+| v1.1.37B    | :white_check_mark: | Current version, supported |
+| < V1.1.37B & > 2021 December 2nd   | :white_check_mark:                | Current version set, supported |
+| v1.1.38A    | :white_check_mark: | NOT YET RELEASED |
+| v1.1.38B    | :white_check_mark: | NOT YET RELEASED |
+| v???????    | :white_check_mark: | NOT YET RELEASED |
 
 ## Reporting a Vulnerability
 
@@ -130,9 +145,9 @@ Other security currently isn't available. If there are any further questions, @ 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2021, Monday, October 25th at 5:08 pm)`
+**File version:** `4 (2021, Thursday, December 2nd at 6:45 pm)`
 
-**Line count (including blank lines and compiler line):** `212`
+**Line count (including blank lines and compiler line):** `247`
 
 ***
 
@@ -182,11 +197,15 @@ Other security currently isn't available. If there are any further questions, @ 
 
 > * No other changes in version 3
 
-**Version 4 (Coming soon)**
+**Version 4 (2021, Thursday, December 2nd at 6:45 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 4
 
@@ -205,6 +224,22 @@ Other security currently isn't available. If there are any further questions, @ 
 > * Coming soon
 
 > * No other changes in version 6
+
+**Version 7 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
 
 </details>
 
