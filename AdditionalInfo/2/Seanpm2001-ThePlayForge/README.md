@@ -1,7 +1,7 @@
 
 ***
 
-![ThePlayForgeLogo.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-ThePlayForge/ThePlayForgeLogo.png)
+![PlayForgeTwitterlogoSquare_400x400.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-ThePlayForge/PlayForgeTwitterlogoSquare_400x400.png)
 
 # GitHub organization: Seanpm2001-ThePlayForge
 
