@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2021, December
 
 ( [<-- Go back to 2021 November](/NewOrgs/2021/11_November/README.md) | [ --> Continue to 2022 December (coming soon)](/NewOrgs/2022/January/README.md) )
 
-**This list was last updated on:** `Tuesday, 2021 December 7th at 8:15 pm`
+**This list was last updated on:** `Wednesday, 2021 December 8th at 8:17 pm`
 
 <!-- ##### LIST !-->
 
@@ -79,7 +79,25 @@ https://github.com/Seanpm2001-CodeQL-lang
 
 ##### December 8th 2021
 
-No data available for this day.
+https://github.com/Seanpm2001-Singularity-lang
+
+https://github.com/Seanpm2001-ShaderLab-lang
+
+https://github.com/Seanpm2001-E-lang
+
+https://github.com/Seanpm2001-OpenSCAD-lang
+
+https://github.com/Seanpm2001-NASL-lang
+
+https://github.com/Seanpm2001-M-lang
+
+https://github.com/Seanpm2001-Jinja-lang
+
+https://github.com/Seanpm2001-NSIS-lang
+
+https://github.com/Seanpm2001-SWIG-lang
+
+https://github.com/WakeNote
 
 ##### December 9th 2021
 
@@ -179,9 +197,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Tuesday, 2021 December 7th at 8:15 pm)`
+**File version:** `03 (Wednesday, 2021 December 8th at 8:17 pm)`
 
-**Line count (including blank lines and compiler line):** `195`
+**Line count (including blank lines and compiler line):** `213`
 
 ***
 
