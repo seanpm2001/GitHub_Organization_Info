@@ -1,8 +1,8 @@
 
 Linked project (under description and above tags)
 
-[file:///home/seanpm2001/Desktop/Git-Templates](file:///home/seanpm2001/Desktop/Git-Templates)
+[https://github.com/seanpm2001/GitHub_Organization_Info](https://github.com/seanpm2001/GitHub_Organization_Info)
 
 ```
-file:///home/seanpm2001/Desktop/Git-Templates
+https://github.com/seanpm2001/GitHub_Organization_Info
 ```
