@@ -13,7 +13,7 @@ My GitHub organization for my transport technology projects and forks.
 
 [https://github.com/Seanpm2001-Transportation-Technologies](https://github.com/Seanpm2001-Transportation-Technologies/)
 
-This project hosts archives, development, and research for my projects related to Artificial Intelligence (AI)/Machine Learning(ML)
+This project hosts archives, development, and research information for my projects (and other users projects) regarding digital/physical transportation.
 
 ## Extra info
 
