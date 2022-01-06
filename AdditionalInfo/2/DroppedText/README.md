@@ -3,7 +3,7 @@
 
 ![DROTEX.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/DroppedText/DROTEX.png)
 
-# AmazonComHub organization: DroppedText
+# GitHub organization: DroppedText
 
 ## Description
 
