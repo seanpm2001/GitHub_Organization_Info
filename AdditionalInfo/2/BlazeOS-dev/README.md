@@ -3,7 +3,7 @@
 
 ![BlazeOS_LOGO1.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/BlazeOS-dev/BlazeOS_LOGO1.jpeg)
 
-# AmazonComHub organization: BlazeOS-dev
+# GitHub organization: BlazeOS-dev
 
 ## Description
 
@@ -11,7 +11,7 @@ For the archival and development of the BlazeOS operating system, a FLOSS altern
 
 ## More info
 
-[https://AmazonComhub.com/BlazeOS-dev](https://AmazonComhub.com/BlazeOS-dev/)
+[https://github.com/BlazeOS-dev](https://github.com/BlazeOS-dev)
 
 This project hosts archives and development regarding the BlazeOS operating system project, a Free, Libre and Open Source Software (FLOSS) alternative to Amazons FireOS family of operating system, along with other Amazon software projects.
 
