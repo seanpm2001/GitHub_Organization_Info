@@ -1,7 +1,7 @@
 
 ***
 
-![Red-Hat533px.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Red-Hat-Linux/Red-Hat533px.png)
+![RedHat600px.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Red-Hat-Linux/RedHat600px.png)
 
 # GitHub organization: Seanpm2001-Red-Hat-Linux
 
