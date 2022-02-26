@@ -15,11 +15,11 @@ V125 - Can no longer fit on a 12 cm `700 MB` CD-ROM without modification
 
 V125 - Can still fit on a single Zip750 (`750 MB`) ZIP Drive
 
-V125 - Can still fit on a 12 cm `900 MB` CD-ROM
+V126 - Can still fit on a 12 cm `900 MB` CD-ROM
 
-V125 - Can still fit on a single DVD-ROM `4 GB`
+V126 - Can still fit on a single DVD-ROM `4 GB`
 
-V125 - Can still fit on a single Blu-Ray Disc `250 GB`
+V126 - Can still fit on a single Blu-Ray Disc `250 GB`
 
 Any version: Can still fit on a single HDD `up to 16 TB`
 
@@ -29,6 +29,6 @@ Any version: Will ALWAYS without ANY DOUBT be able to fit on even a microblock o
 
 ***
 
-**File version:** `1 (2022, Friday, February 25th at 10:29 pm`
+**File version:** `2 (2022, Friday, February 25th at 10:47 pm`
 
 ***
