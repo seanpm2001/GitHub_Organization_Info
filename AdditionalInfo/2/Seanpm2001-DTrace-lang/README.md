@@ -11,7 +11,7 @@
 <details><summary><p>Click/tap here to expand/collapse the non-vector (raster) logo for this project</p></summary>
 !-->
 
-![DTraceLogo400px.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-DTrace-lang/DTraceLogo400px.png)
+![DTrace_Kindle.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-DTrace-lang/DTrace_Kindle.jpeg)
 
 <!--
 </details>
