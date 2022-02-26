@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, February
 
 ( [<-- Go back to 2022 January](/NewOrgs/2022/01_January/README.md) | [ --> Continue to 2022 March (coming soon)](/NewOrgs/2022/03_March/README.md) )
 
-**This list was last updated on:** `Friday, 2022 February 18th at 5:47 pm`
+**This list was last updated on:** `Friday, 2022 February 25th at 8:19 pm`
 
 <!-- ##### LIST !-->
 
@@ -147,7 +147,25 @@ No data available for this day.
 
 ##### February 25th 2022
 
-No data available for this day.
+https://github.com/Seanpm2001-Mercury-lang
+
+https://github.com/Seanpm2001-Ragel-lang
+
+https://github.com/Seanpm2001-Solidity-lang
+
+https://github.com/Seanpm2001-sed-lang
+
+https://github.com/Seanpm2001-Svelte-lang
+
+https://github.com/Seanpm2001-DTrace-lang
+
+https://github.com/Seanpm2001-Mako-lang
+
+https://github.com/Seanpm2001-IDL-lang
+
+https://github.com/Seanpm2001-AutoIt-lang
+
+https://github.com/Seanpm2001-Cython-lang
 
 ##### February 26th 2022
 
@@ -183,9 +201,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Friday, 2022 February 18th at 5:47 pm)`
+**File version:** `03 (Friday, 2022 February 25th at 8:19 pm)`
 
-**Line count (including blank lines and compiler line):** `199`
+**Line count (including blank lines and compiler line):** `217`
 
 ***
 
