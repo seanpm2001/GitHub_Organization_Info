@@ -7,15 +7,15 @@ I resumed work on organization creation today, I am pretty backed up on it, and 
 
 ### Statistics 📝
 
-**Orgs created today:** `10` [`[View]`](/NewOrgs/2022/02_February/README.md#february-25th-2022)
+**Organizations created today:** `10` [`[View]`](/NewOrgs/2022/02_February/README.md#february-25th-2022)
 
 **Generated photos from today:** `10` [`[View]`](/OrganizationGraphics/ByDate/2022/02_February/25/Generated/)
 
 **New photos in use from today:** `10` [`[View]`](/OrganizationGraphics/ByDate/2022/02_February/25/Used/)
 
-**New photos out of use from today:** `4` [`[View]`](/OrganizationGraphics/ByDate/2022/02_February/25/Unused/)
+**New photos out of use from today:** `5` + `1` project file [`[View]`](/OrganizationGraphics/ByDate/2022/02_February/25/Unused/)
 
-**Total image files:** `24` [`[View]`](/OrganizationGraphics/ByDate/2022_February/25/)
+**Total image files:** `25` + `1` project file [`[View]`](/OrganizationGraphics/ByDate/2022_February/25/)
 
 ***
 
@@ -23,7 +23,7 @@ I resumed work on organization creation today, I am pretty backed up on it, and 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, February 25th at 7:38 pm)`
+**File version:** `2 (2022, Friday, February 25th at 10:02 pm)`
 
 **Line count (including blank lines and compiler line):** `31`
 
