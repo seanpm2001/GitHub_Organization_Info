@@ -15,19 +15,19 @@ This directory houses a series of documentation files regarding the new organiza
 
 > For archiving old versions of the `README.md` file you are currently reading
 
-📁 [/May/](/NewOrgs/2021/January/)
+📁 [/January/](/NewOrgs/2021/January/)
 
 > For archiving entries from January 2021.
 
-📁 [/May/](/NewOrgs/2021/February/)
+📁 [/February/](/NewOrgs/2021/February/)
 
 > For archiving entries from February 2021.
 
-📁 [/May/](/NewOrgs/2021/March/)
+📁 [/March/](/NewOrgs/2021/March/)
 
 > For archiving entries from March 2021.
 
-📁 [/May/](/NewOrgs/2021/April/)
+📁 [/April/](/NewOrgs/2021/April/)
 
 > For archiving entries from April 2021.
 
@@ -68,5 +68,31 @@ This directory houses a series of documentation files regarding the new organiza
 🗒️ [README.md](/NewOrgs/2021/README.md)
 
 > The `README.md` file you are currently reading.
+
+***
+
+## File info
+
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `02 (Monday, 2022 February 28th at 3:56 pm)`
+
+**Line count (including blank lines and compiler line):** `99`
+
+**Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 5.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+***
+
+## Footer
+
+You have reached the end of this file.
+
+### EOF
 
 ***
