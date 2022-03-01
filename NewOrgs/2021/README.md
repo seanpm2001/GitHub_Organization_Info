@@ -7,7 +7,11 @@
 
 This directory houses a series of documentation files regarding the new organizations created by me by the day for the year 2021.
 
+( [`Go back to 2020`](/NewOrgs/2020/) | [`2021 (current)`](/NewOrgs/2021/) | [`Go to 2022`](/NewOrgs/2022/) )
+
 ## Navigation
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 **Folders/directories**
 
@@ -69,15 +73,17 @@ This directory houses a series of documentation files regarding the new organiza
 
 > The `README.md` file you are currently reading.
 
+</details>
+
 ***
 
 ## File info
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Monday, 2022 February 28th at 3:56 pm)`
+**File version:** `03 (Monday, 2022 February 28th at 4:09 pm)`
 
-**Line count (including blank lines and compiler line):** `99`
+**Line count (including blank lines and compiler line):** `105`
 
 **Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
