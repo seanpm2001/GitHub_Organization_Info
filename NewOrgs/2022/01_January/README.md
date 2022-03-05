@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, January
 
 ( [<-- Go back to `2021 December`](/NewOrgs/2021/12_December/README.md) | [Continue to `2022 February` -->](/NewOrgs/2022/02_February/README.md) )
 
-**This list was last updated on:** `Thursday, 2022 March 3rd at 9:37 pm`
+**This list was last updated on:** `Friday, 2022 March 4th at 6:38 pm`
 
 <!-- ##### LIST !-->
 
@@ -45,6 +45,8 @@ No data available for this day.
 | 08 | [`https://github.com/Seanpm2001-Git`](https://github.com/Seanpm2001-Git/)
 | 09 | [`https://github.com/Seanpm2001-AmazonCom`](https://github.com/Seanpm2001-AmazonCom/)
 | 10 | [`https://github.com/BlazeOS-dev`](https://github.com/BlazeOS-dev/)
+
+</details>
 
 ##### January 6th 2022
 
@@ -156,9 +158,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Thursday, 2022 March 3rd at 9:37 pm)`
+**File version:** `03 (Friday, 2022 March 4th at 6:38 pm)`
 
-**Line count (including blank lines and compiler line):** `180`
+**Line count (including blank lines and compiler line):** `182`
 
 **Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
