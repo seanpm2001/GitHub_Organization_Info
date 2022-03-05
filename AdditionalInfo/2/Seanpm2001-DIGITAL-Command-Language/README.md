@@ -25,7 +25,7 @@ For the archival and development of my projects written in the DIGITAL Command L
 
 ## More info
 
-[https://github.com/Seanpm2001-DIGITAL-Command-Language-lang](https://github.com/Seanpm2001-DIGITAL-Command-Language-lang/)
+[https://github.com/Seanpm2001-DIGITAL-Command-Language](https://github.com/Seanpm2001-DIGITAL-Command-Language/)
 
 This organization is used for the showcasing, and development of my projects written in the Graphviz (DOT) programming language. The original rule was that Graphviz (DOT) had to be the main language, but I changed it so that any project that contains any Graphviz (DOT) source code is included.
 
