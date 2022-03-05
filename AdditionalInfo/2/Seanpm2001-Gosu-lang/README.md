@@ -25,7 +25,7 @@ For the archival and development of my projects written in the Gosu programming 
 
 ## More info
 
-[https://github.com/Seanpm2001-Gosu-lang-lang](https://github.com/Seanpm2001-Gosu-lang-lang/)
+[https://github.com/Seanpm2001-Gosu-lang](https://github.com/Seanpm2001-Gosu-lang/)
 
 This organization is used for the showcasing, and development of my projects written in the Gosu programming language. The original rule was that Gosu had to be the main language, but I changed it so that any project that contains any Gosu source code is included.
 
