@@ -11,7 +11,7 @@
 <details><summary><p>Click/tap here to expand/collapse the non-vector (raster) logo for this project</p></summary>
 !-->
 
-![DIGITAL_EQUIPMENT_CORPORATION_Logo_200px.gif failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-DIGITAL-Command-Language-lang/DIGITAL_EQUIPMENT_CORPORATION_Logo_200px.gif)
+![DIGITAL_EQUIPMENT_CORPORATION_Logo_200px.gif failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-DIGITAL-Command-Language/DIGITAL_EQUIPMENT_CORPORATION_Logo_200px.gif)
 
 <!--
 </details>
