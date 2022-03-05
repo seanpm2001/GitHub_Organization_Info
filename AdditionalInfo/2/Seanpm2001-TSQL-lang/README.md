@@ -25,7 +25,7 @@ For the archival and development of my projects written in the TSQL programming 
 
 ## More info
 
-[https://github.com/Seanpm2001-TSQL-lang-lang](https://github.com/Seanpm2001-TSQL-lang-lang/)
+[https://github.com/Seanpm2001-TSQL-lang](https://github.com/Seanpm2001-TSQL-lang/)
 
 This organization is used for the showcasing, and development of my projects written in the TSQL (Transact-SQL (Structured Query Language)) programming language. The original rule was that TSQL had to be the main language, but I changed it so that any project that contains any TSQL source code is included.
 
