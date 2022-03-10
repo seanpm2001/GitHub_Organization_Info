@@ -13,7 +13,7 @@ Reset to branch 0.
 
 ## Active
 
-[Main](https://github.com/seanpm2001/GitHub_Organization_Info/)
+[Main](https://github.com/seanpm2001/GitHub_Organization_Info/tree/main/)
 
 ## Stale
 
@@ -25,6 +25,6 @@ Reset to branch 0.
 
 ***
 
-**File version:** `2 (2022, Wednesday, March 9th at 6:17 pm)`
+**File version:** `3 (2022, Thursday, March 10th at 3:21 pm)`
 
 ***
