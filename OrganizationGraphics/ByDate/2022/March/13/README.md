@@ -9,7 +9,7 @@ No new organizations were created on 2022, Sunday, March 13th There is no new da
 
 <!-- I do not plan on creating any new organizations until I get more caught up, and have at least 6 hours of free time on any day (most likely, I will resume next Friday, March 4th) !-->
 
-I am now working off a weekly schedule, set to Friday of each week. I won't resume again until 2022 Friday March 11th. I hope to finish within the next 10 consecutive weeks, although the workload keeps going up, so I am just trying to get through each week, and hope no more than 9 entries get added per week (I limit myself to 10 per week for time and display reasons, as it already takes 6+ hours for 10, and GitHub wouldn't show an 11th daily entry on my daily activity counter)
+I am now working off a weekly schedule, set to Friday of each week. I won't resume again until 2022, Friday, March 18th. I hope to finish within the next 10 consecutive weeks, although the workload keeps going up, so I am just trying to get through each week, and hope no more than 9 entries get added per week (I limit myself to 10 per week for time and display reasons, as it already takes 6+ hours for 10, and GitHub wouldn't show an 11th daily entry on my daily activity counter)
 
 I have recently begun to prepare Firefox profiles beforehand (before Friday) this helps save 1-2+ hours of time.
 
@@ -33,8 +33,10 @@ I have recently begun to prepare Firefox profiles beforehand (before Friday) thi
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Sunday, March 13th at 6:23 pm)`
+**File version:** `2 (2022, Sunday, March 13th at 6:25 pm)`
 
-**Line count (including blank lines and compiler line):** `41`
+V2: Fixed the date of which I come back on. - last edited on 2022, Sunday, March 13th
+
+**Line count (including blank lines and compiler line):** `43`
 
 ***
