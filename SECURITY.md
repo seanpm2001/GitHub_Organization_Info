@@ -124,15 +124,27 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.35B    | :x: | Old version, not supported |
 | v1.1.36A    | :x: | Old version, not supported |
 | v1.1.36B    | :x: | Old version, not supported |
-| v1.1.37A    | :x: | Current version, supported |
-| v1.1.37B    | :x: | Current version, supported |
-| v1.1.38A    | :x: | Current version, supported |
-| v1.1.38B    | :x: | Current version, supported |
-| v1.1.39A    | :x: | Current version, supported |
-| v1.1.39B    | :x: | Current version, supported |
-| v1.1.40A    | :heavy_check_mark: | Current version, supported |
-| v1.1.40B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.40A & > 2021 December 11th  | :heavy_check_mark:                | Current version set, supported |
+| v1.1.37A    | :x: | Old version, not supported |
+| v1.1.37B    | :x: | Old version, not supported |
+| v1.1.38A    | :x: | Old version, not supported |
+| v1.1.38B    | :x: | Old version, not supported |
+| v1.1.39A    | :x: | Old version, not supported |
+| v1.1.39B    | :x: | Old version, not supported |
+| v1.1.40A    | :x: | Old version, not supported |
+| v1.1.40B    | :x: | Old version, not supported |
+| v1.1.41A    | :x: | Old version, not supported |
+| v1.1.41B    | :x: | Old version, not supported |
+| v1.1.42A    | :x: | Old version, not supported |
+| v1.1.42B    | :x: | Old version, not supported |
+| v1.1.43A    | :x: | Old version, not supported |
+| v1.1.43B    | :x: | Old version, not supported |
+| v1.1.44A    | :x: | Old version, not supported |
+| v1.1.44B    | :x: | Old version, not supported |
+| v1.1.45A    | :x: | Old version, not supported |
+| v1.1.45B    | :x: | Old version, not supported |
+| v1.1.46A    | :heavy_check_mark: | Current version, supported |
+| v1.1.46B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.46A & > 2022 March 11th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -168,13 +180,19 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2021, Sunday, December 12th at 5:15 pm)`
+**File version:** `6 (2022, Monday, March 14th at 5:53 pm)`
 
-**Line count (including blank lines and compiler line):** `310`
+**Line count (including blank lines and compiler line):** `350`
 
-**All times are UTC-7 (PDT/Pacific Time)**
+**Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
-**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 ***
 
@@ -183,6 +201,8 @@ Please make sure to read key project documentation before reporting a security p
 <details><summary><p>Click/tap here to expand/collapse the history for this file</p></summary>
 
 **Version 1 (2021, Thursday, October 7th at 1:42 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -202,6 +222,8 @@ Please make sure to read key project documentation before reporting a security p
 
 **Version 2 (2021, Wednesday, October 13th at 5:25 pm)**
 
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Updated the version history section
@@ -213,6 +235,8 @@ Please make sure to read key project documentation before reporting a security p
 > * No other changes in version 2
 
 **Version 3 (2021, Monday, October 25th at 5:08 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -226,6 +250,8 @@ Please make sure to read key project documentation before reporting a security p
 
 **Version 4 (2021, Thursday, December 2nd at 6:45 pm)**
 
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Updated the version history section
@@ -237,6 +263,8 @@ Please make sure to read key project documentation before reporting a security p
 > * No other changes in version 4
 
 **Version 5 (2021, Sunday, December 12th at 5:15 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -256,11 +284,17 @@ Please make sure to read key project documentation before reporting a security p
 
 > * No other changes in version 5
 
-**Version 6 (Coming soon)**
+**Version 6 (2022, Sunday, March 14th at 5:53 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 6
 
@@ -295,6 +329,22 @@ Please make sure to read key project documentation before reporting a security p
 > * Coming soon
 
 > * No other changes in version 10
+
+**Version 11 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 11
+
+**Version 12 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 12
 
 </details>
 
