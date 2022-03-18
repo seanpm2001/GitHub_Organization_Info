@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, March.
 
 ( [<-- Go back to `2022 February`](/NewOrgs/2022/02_February/README.md) | [ --> Continue to `2022 April (coming soon)`](/NewOrgs/2022/04_April/README.md) )
 
-**This list was last updated on:** `Friday, 2022 March 11th at 7:50 pm`
+**This list was last updated on:** `Friday, 2022 March 18th at 4:41 pm`
 
 ### Index
 
@@ -185,16 +185,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`https://github.com/Seanpm2001-Fluent-lang`](https://github.com/Seanpm2001-Fluent-lang/) |
+| 02 | [`https://github.com/Seanpm2001-PostGreSQL-lang`](https://github.com/Seanpm2001-PostGreSQL-lang/) |
+| 03 | [`https://github.com/Seanpm2001-QMake-lang`](https://github.com/Seanpm2001-QMake-lang/) |
+| 04 | [`https://github.com/Seanpm2001-nesC-lang`](https://github.com/Seanpm2001-nesC-lang/) |
+| 05 | [`https://github.com/Seanpm2001-XProc-lang`](https://github.com/Seanpm2001-XProc-lang/) |
+| 06 | [`https://github.com/Seanpm2001-NGINX-lang`](https://github.com/Seanpm2001-NGINX-lang/) |
+| 07 | [`https://github.com/Seanpm2001-Thrift-lang`](https://github.com/Seanpm2001-Thrift-lang/) |
+| 08 | [`https://github.com/Seanpm2001-PLpgSQL-lang`](https://github.com/Seanpm2001-PLpgSQL-lang/) |
+| 09 | [`https://github.com/Seanpm2001-Io-lang`](https://github.com/Seanpm2001-Io-lang/) |
+| 10 | [`https://github.com/Seanpm2001-GCC-Machine-Description-lang`](https://github.com/Seanpm2001-GCC-Machine-Description-lang/) |
 
 </details>
 
@@ -271,15 +271,17 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Friday, 2022 March 11th at 7:60 pm)`
+**File version:** `04 (Friday, 2022 March 18th at 4:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `296`
+**Line count (including blank lines and compiler line):** `297`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
 **Encoding:** `UTF-8 (Emoji 5.0 or higher recommended)`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
