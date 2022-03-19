@@ -142,9 +142,11 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.44B    | :x: | Old version, not supported |
 | v1.1.45A    | :x: | Old version, not supported |
 | v1.1.45B    | :x: | Old version, not supported |
-| v1.1.46A    | :heavy_check_mark: | Current version, supported |
-| v1.1.46B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.46A & > 2022 March 11th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.46A    | :x: | Old version, not supported |
+| v1.1.46B    | :x: | Old version, not supported |
+| v1.1.47A    | :heavy_check_mark: | Current version, supported |
+| v1.1.47B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.47A & > 2022 March 17th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -160,7 +162,7 @@ Please instead direct message me via GitHub. If there is no response within 90 d
 
 If a vulnerability is caused by an outdated dependancy, you can report it publicly, as it usually isn't that much of a problem.
 
-Other security currently isn't available. If there are any further questions, @ me privately on GitHub. [@seanpm2001](https://github.com/seanpm2001/)
+Other security currently isn't available. If there are any further questions, email me at [seanpm2001-mailing-list@protonmail.com](mailto:seanpm2001-mailing-list@protonmail.com)
 
 ## Account security
 
@@ -180,9 +182,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Monday, March 14th at 5:53 pm)`
+**File version:** `7 (2022, Friday, March 18th at 7:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `350`
+**Line count (including blank lines and compiler line):** `386`
 
 **Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -298,11 +300,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 6
 
-**Version 7 (Coming soon)**
+**Version 7 (2022, Friday, March 18th at 7:15 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Removed the section for "messaging me privately on GitHub" as that simply isn't possible. I've replaced it with my public email address. This change is long overdue, and also needs to be applied to my other projects with a security file.
+
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 7
 
@@ -345,6 +355,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 12
+
+**Version 13 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 13
+
+**Version 14 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 14
 
 </details>
 
