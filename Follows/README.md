@@ -78,9 +78,19 @@ I am still awaiting the feature to separate followed users from followed organiz
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 24th entry</b></p></summary>
 
-Coming soon.
+I finished following the 100 organizations pretty quickly today, it is something I enjoyed doing, but got through really fast. I hope to increase the diversity of my follows after a large enough majority of my own organizations are followed. I also forgot about the rule to leave space for follow for follows/other follows today.
+
+The ratio was 99:1 (only 1 external organization was followed)
 
 </details> <!-- March 24th !-->
+
+##### 2022 March 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 25th entry</b></p></summary>
+
+Coming soon.
+
+</details> <!-- March 25th !-->
 
 </details> <!-- 2022 March !-->
 
@@ -172,11 +182,17 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 4
 
-**V5 (Coming soon)**  
+**V5 (2022, Thursday, March 24th at 3:17 pm PST)**  
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Added an entry for 2022 March 25th
+
+- [x] Filled in the entry for today (2022 March 24th)
 
 - [ ] No other changes in version 5
 
@@ -204,6 +220,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 8
 
+**V9 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 9
+
+**V10 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 10
+
 </details>
 
 ***
@@ -214,9 +246,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Wednesday, March 23rd at 8:28 pm)`
+**File version:** `5 (2022, Thursday, March 24th at 3:17 pm)`
 
-**Line count (including blank lines and compiler line):** `234`
+**Line count (including blank lines and compiler line):** `266`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
