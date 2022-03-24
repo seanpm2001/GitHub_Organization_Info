@@ -5,6 +5,8 @@
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the lead section</b></p></summary>
 
+![GitHub_You-can-now-follow-organizations_LightMode_256x155.png](/Follows/Graphics/GitHub_You-can-now-follow-organizations_LightMode_256x155.png)
+
 GitHub finally added the ability to follow organizations on 2022 March 21st, and it seems I can follow the organizations I make. I realize I have to document this as well now.
 
 This feature has been highly requested for years, I have been wanting it since 2020. It got added on my 21st birthday, which I will consider as a birthday present.
@@ -42,9 +44,21 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March daily entries section</b></p></summary>
 
+##### 2022 March 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 21st entry</b></p></summary>
+
+![GitHub_You-can-now-follow-organizations_LightMode_256x155.png](/Follows/Graphics/GitHub_You-can-now-follow-organizations_LightMode_256x155.png)
+
+GitHub finally added the ability to follow organizations on 2022 March 21st, and it seems I can follow the organizations I make. I realize I have to document this as well now.
+
+I didn't make much use of the feature yet today, only following a few organizations as a test. This update fell right on my 21st birthday, which I count as an extra birthday present.
+
+</details>
+
 ##### 2022 March 22nd
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 23rd entry</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 22nd entry</b></p></summary>
 
 I continued to follow organizations today. I of course am following other organizations as well. Today, I went on a follow-spree, and followed nearly 100 organizations. It is something I am going to have to keep up with. I have over 800 to go. 
 
@@ -92,15 +106,117 @@ The compilation file contains a link of every organization I have ever followed.
 
 ***
 
+## Changelog
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the change log section</b></p></summary>
+
+**V1 (2022, Monday, March 21st at 8:18 pm PST)**
+
+**Changes:**
+
+- [x] Started the file
+
+- [x] Added the lead section
+
+- [x] Added a link to the URLL project being used
+
+- [x] Added the file version timestamp
+
+- [ ] No other changes in version 1
+
+**V2 (2022, Tuesday, March 22nd at 8:25 pm PST)**
+
+**Changes:**
+
+- [x] Added a disclaimer regarding the developer of the URLL file extension
+
+- [x] Added file upgrade previews, with Elm syntax highlighting
+
+- [x] Added an entry for 2022 March 22nd
+
+- [x] Added info on the `COMPILATION.urll` component
+
+- [x] Added a file info section
+
+- [ ] No other changes in version 2
+
+**V3 (2022, Wednesday, March 23rd at 7:57 pm PST)**  
+
+**Changes:**
+
+- [x] Added the daily articles section
+
+- [x] Compacted everything into collapsible sections
+
+- [x] Added an entry for 2022 March 23rd
+
+- [x] Added the core components section, and merged `COMPILATION.urll` into it
+
+- [x] Updated the file info section (big upgrade)
+
+- [x] Updated the 2022 March 22nd entry
+
+- [ ] No other changes in version 3
+
+**V4 (2022, Wednesday, March 23rd at 8:28 pm PST)**  
+
+**Changes:**
+
+- [x] Added a changelog
+
+- [x] Added an entry for 2022 March 21st
+
+- [x] Updated the file info section
+
+- [x] Added an image regarding the new update
+
+- [ ] No other changes in version 4
+
+**V5 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 5
+
+**V6 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 6
+
+**V7 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 7
+
+**V8 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 8
+
+</details>
+
+***
+
 ## File info
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, March 23rd at 7:57 pm)`
+**File version:** `4 (2022, Wednesday, March 23rd at 8:28 pm)`
 
-**Line count (including blank lines and compiler line):** `118`
+**Line count (including blank lines and compiler line):** `234`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
