@@ -1,8 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
+-- Range: 2022 March 21st to 2022 March 25th
+-- Compilation
 
--- Organizations ran by @seanpm2001
+-- Organizations ran by @seanpm2001 (244)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -230,8 +232,26 @@ https://github.com/seanpm2001-Handlebars-lang
 https://github.com/seanpm2001-Pug-lang
 https://github.com/FINF-Dev
 https://github.com/Seanpm2001-Stylus-lang
+https://github.com/Seanpm2001-Nextflow-lang
+https://github.com/Seanpm2001-ReasonML-lang
+https://github.com/Seanpm2001-Cap-n-Proto-lang
+https://github.com/Seanpm2001-CartoCSS-lang
+https://github.com/Seanpm2001-OpenQASM-lang
+https://github.com/Seanpm2001-TLA-lang
+https://github.com/Seanpm2001-AIDL-lang
+https://github.com/Seanpm2001-GN-lang
+https://github.com/Seanpm2001-KiCad-Layout-lang
+https://github.com/Seanpm2001-Mallard-lang
+https://github.com/Seanpm2001-SEGA
+https://github.com/seanpm2001-emulators
+https://github.com/seanpm2001-virtual-machines
+https://github.com/seanpm2001-vhdl-lang
+https://github.com/Seanpm2001-Quantum
+https://github.com/seanpm2001-libraries
+https://github.com/Seanpm2001-Svelte-lang
+https://github.com/Seanpm2001-GPL
 
--- Organizations NOT ran by @seanpm2001
+-- Organizations NOT ran by @seanpm2001 (145)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -298,6 +318,95 @@ https://github.com/GraphQL
 https://github.com/capnproto
 https://github.com/reasonml
 https://github.com/gitgitgadget
+https://github.com/ubuntu
+https://github.com/tgstation
+https://github.com/bazelbuild
+https://github.com/reasonml
+https://github.com/nextflow-io
+https://github.com/wikimedia
+https://github.com/nodejs
+https://github.com/FDOS
+https://github.com/odoo
+https://github.com/Qiskit
+https://github.com/dotbrowser
+https://github.com/dothq
+https://github.com/ValveSoftware
+https://github.com/patreon
+https://github.com/yelp
+https://github.com/twitter
+https://github.com/microsoftdocs
+https://github.com/Opencollective
+https://github.com/Ko-fi
+https://github.com/tidelift
+https://github.com/liberapay
+https://github.com/issuehunt
+https://github.com/otechie
+https://github.com/googlechrome
+https://github.com/tencent
+https://github.com/amzn
+https://github.com/twitchtv
+https://github.com/comcast
+https://github.com/nvidia
+https://github.com/adobe
+https://github.com/SELinuxProject
+https://github.com/Chromium
+https://github.com/Robinhoodmarkets
+https://github.com/bitcoin
+https://github.com/epicgames
+https://github.com/svg
+https://github.com/Chat-SDK
+https://github.com/Zulip
+https://github.com/Git-LFS
+https://github.com/LXQT
+https://github.com/JSON5
+https://github.com/TinEye
+https://github.com/Bootdown
+https://github.com/TrendMiner
+https://github.com/TinyOS
+https://github.com/Bors-NG
+https://github.com/Fantom-lang
+https://github.com/tlaplus
+https://github.com/gentoo
+https://github.com/ruby
+https://github.com/zephyrproject-rtos
+https://github.com/git-for-windows
+https://github.com/ffmpeg
+https://github.com/POV-Ray
+https://github.com/ReScript-lang
+https://github.com/Jackett
+https://github.com/CakePHP
+https://github.com/OpenEuphoria
+https://github.com/SublimeText
+https://github.com/clamwin
+https://github.com/asciidoctor
+https://github.com/UltiMaker
+https://github.com/Illumos
+https://github.com/PHP-GetText
+https://github.com/F-Droid
+https://github.com/386bsd
+https://github.com/archlinux
+https://github.com/gnuradio
+https://github.com/IoLanguage
+https://github.com/open-source-labs
+https://github.com/projectmallard
+https://github.com/VBA-tools
+https://github.com/Mercury-language
+https://github.com/r-spacex
+https://github.com/HackerNews
+https://github.com/Pandoc
+https://github.com/Wordnik
+https://github.com/libretro
+https://github.com/RetroPie
+https://github.com/uBlockOrigin
+
+-- Statistcs (as of 2022, Friday, March 25th)
+-- Total 
+-- Run by @seanpm2001 : 244
+-- Not run by @seanpm2001 : 145
+-- Overall total: 389
+-- Ratio: 62.72%/37.28%
+-- Ratio calculation source: GNOME Calculator
+-- Other calculation source: Separate list files, mental math
 
 -- By date
 
@@ -627,13 +736,109 @@ https://github.com/gitgitgadget
 
 -- 2022 March 25th
 
--- @seanpm2001 organizations
+-- @seanpm2001 organizations (18)
 
--- None
+https://github.com/Seanpm2001-Nextflow-lang
+https://github.com/Seanpm2001-ReasonML-lang
+https://github.com/Seanpm2001-Cap-n-Proto-lang
+https://github.com/Seanpm2001-CartoCSS-lang
+https://github.com/Seanpm2001-OpenQASM-lang
+https://github.com/Seanpm2001-TLA-lang
+https://github.com/Seanpm2001-AIDL-lang
+https://github.com/Seanpm2001-GN-lang
+https://github.com/Seanpm2001-KiCad-Layout-lang
+https://github.com/Seanpm2001-Mallard-lang
+https://github.com/Seanpm2001-SEGA
+https://github.com/seanpm2001-emulators
+https://github.com/seanpm2001-virtual-machines
+https://github.com/seanpm2001-vhdl-lang
+https://github.com/Seanpm2001-Quantum
+https://github.com/seanpm2001-libraries
+https://github.com/Seanpm2001-Svelte-lang
+https://github.com/Seanpm2001-GPL
 
--- Non-@seanpm2001 organizations
+-- Non-@seanpm2001 organizations (80)
 
--- None
+https://github.com/ubuntu
+https://github.com/tgstation
+https://github.com/bazelbuild
+https://github.com/reasonml
+https://github.com/nextflow-io
+https://github.com/wikimedia
+https://github.com/nodejs
+https://github.com/FDOS
+https://github.com/odoo
+https://github.com/Qiskit
+https://github.com/dotbrowser
+https://github.com/dothq
+https://github.com/ValveSoftware
+https://github.com/patreon
+https://github.com/yelp
+https://github.com/twitter
+https://github.com/microsoftdocs
+https://github.com/Opencollective
+https://github.com/Ko-fi
+https://github.com/tidelift
+https://github.com/liberapay
+https://github.com/issuehunt
+https://github.com/otechie
+https://github.com/googlechrome
+https://github.com/tencent
+https://github.com/amzn
+https://github.com/twitchtv
+https://github.com/comcast
+https://github.com/nvidia
+https://github.com/adobe
+https://github.com/SELinuxProject
+https://github.com/Chromium
+https://github.com/Robinhoodmarkets
+https://github.com/bitcoin
+https://github.com/epicgames
+https://github.com/svg
+https://github.com/Chat-SDK
+https://github.com/Zulip
+https://github.com/Git-LFS
+https://github.com/LXQT
+https://github.com/JSON5
+https://github.com/TinEye
+https://github.com/Bootdown
+https://github.com/TrendMiner
+https://github.com/TinyOS
+https://github.com/Bors-NG
+https://github.com/Fantom-lang
+https://github.com/tlaplus
+https://github.com/gentoo
+https://github.com/ruby
+https://github.com/zephyrproject-rtos
+https://github.com/git-for-windows
+https://github.com/ffmpeg
+https://github.com/POV-Ray
+https://github.com/ReScript-lang
+https://github.com/Jackett
+https://github.com/CakePHP
+https://github.com/OpenEuphoria
+https://github.com/SublimeText
+https://github.com/clamwin
+https://github.com/asciidoctor
+https://github.com/UltiMaker
+https://github.com/Illumos
+https://github.com/PHP-GetText
+https://github.com/F-Droid
+https://github.com/386bsd
+https://github.com/archlinux
+https://github.com/gnuradio
+https://github.com/IoLanguage
+https://github.com/open-source-labs
+https://github.com/projectmallard
+https://github.com/VBA-tools
+https://github.com/Mercury-language
+https://github.com/r-spacex
+https://github.com/HackerNews
+https://github.com/Pandoc
+https://github.com/Wordnik
+https://github.com/libretro
+https://github.com/RetroPie
+https://github.com/uBlockOrigin
 
 -- 2022 March 26th
 
@@ -695,7 +900,108 @@ https://github.com/gitgitgadget
 
 -- None
 
+-- 2022 April 1st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 2nd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 3rd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 4th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 5th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 6th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 7th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 8th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 9th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 10th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
 -- File info
--- File version: 5 (2022, Thursday, March 24th at 3:06 pm PST)
+-- File version: 6 (2022, Friday, March 25th at 6:20 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 702
+-- Line count (including blank lines and compiler line): 1,008
+-- EOF (End of File)
