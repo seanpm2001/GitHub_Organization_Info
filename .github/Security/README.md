@@ -144,9 +144,11 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.45B    | :x: | Old version, not supported |
 | v1.1.46A    | :x: | Old version, not supported |
 | v1.1.46B    | :x: | Old version, not supported |
-| v1.1.47A    | :heavy_check_mark: | Current version, supported |
-| v1.1.47B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.47A & > 2022 March 17th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.47A    | :x: | Old version, not supported |
+| v1.1.47B    | :x: | Old version, not supported |
+| v1.1.48A    | :heavy_check_mark: | Current version, supported |
+| v1.1.48B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.48A & > 2022 March 24th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -158,7 +160,7 @@ This project is a model project and it shouldn't be much of a problem security-w
 
 DO NOT REPORT A ZERO DAY VULNERABILITY PUBLICLY!
 
-Please instead direct message me via GitHub. If there is no response within 90 days, you can post the vulnerability as an issue, as part of the standard 0 day security exploit reporting guidelines.
+Please instead direct message me via Email. If there is no response within 90 days, you can post the vulnerability as an issue, as part of the standard 0 day security exploit reporting guidelines.
 
 If a vulnerability is caused by an outdated dependancy, you can report it publicly, as it usually isn't that much of a problem.
 
@@ -182,9 +184,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Friday, March 18th at 7:15 pm PST)`
+**File version:** `8 (2022, Friday, March 25th at 9:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `386`
+**Line count (including blank lines and compiler line):** `412`
 
 **Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -316,11 +318,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 7
 
-**Version 8 (Coming soon)**
+**Version 8 (2022, Friday, March 25th at 9:13 pm)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Removed remaining mentions of "privately messaging me on GitHub" and replaced them with email information
+
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 8
 
@@ -371,6 +381,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 14
+
+**Version 15 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 15
+
+**Version 16 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 16
 
 </details>
 
