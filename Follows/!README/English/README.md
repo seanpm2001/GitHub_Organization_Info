@@ -88,9 +88,19 @@ The ratio was 99:1 (only 1 external organization was followed)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 25th entry</b></p></summary>
 
-Coming soon.
+I continued following organizations today. I followed the 10 new organizations I created today as well, between part 3 and 4 of the screenshot documentation process (appearing on the final screenshot set for each organization) I followed some other ones of mine that I had laid out, but today, I went through a list of other organizations. The ones not owned by me were followed in majority today. Since I did 2 follow for follow actions today, I could only follow 98 organizations, instead of the full 100.
+
+The ratio today was 18:80(98:2)
 
 </details> <!-- March 25th !-->
+
+##### 2022 March 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 26th entry</b></p></summary>
+
+Coming soon.
+
+</details> <!-- March 26th !-->
 
 </details> <!-- 2022 March !-->
 
@@ -196,11 +206,17 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 5
 
-**V6 (Coming soon)**  
+**V6 (2022, Friday, March 25th at 6:36 pm PST)**  
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Added an entry for 2022 March 26th
+
+- [x] Filled in the entry for today (2022 March 25th)
 
 - [ ] No other changes in version 6
 
@@ -236,6 +252,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 10
 
+**V11 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 11
+
+**V12 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 12
+
 </details>
 
 ***
@@ -246,9 +278,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Thursday, March 24th at 3:17 pm)`
+**File version:** `6 (2022, Friday, March 25th at 6:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `266`
+**Line count (including blank lines and compiler line):** `298`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
