@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, March.
 
 ( [<-- Go back to `2022 February`](/NewOrgs/2022/02_February/README.md) | [ --> Continue to `2022 April (coming soon)`](/NewOrgs/2022/04_April/README.md) )
 
-**This list was last updated on:** `Friday, 2022 March 18th at 4:41 pm`
+**This list was last updated on:** `Friday, 2022 March 25th at 6:57 pm`
 
 ### Index
 
@@ -80,6 +80,10 @@ This list showcases my new GitHub organizations from 2022, March.
 </details>
 
 <!-- ##### LIST !-->
+
+***
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 ##### 2022 March 1st
 
@@ -228,16 +232,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`https://github.com/Seanpm2001-Nextflow-lang`](https://github.com/Seanpm2001-Nextflow-lang/) |
+| 02 | [`https://github.com/Seanpm2001-ReasonML-lang`](https://github.com/Seanpm2001-ReasonML-lang/) |
+| 03 | [`https://github.com/Seanpm2001-Cap-n-Proto-lang`](https://github.com/Seanpm2001-Cap-n-Proto-lang/) |
+| 04 | [`https://github.com/Seanpm2001-CartoCSS-lang`](https://github.com/Seanpm2001-CartoCSS-lang/) |
+| 05 | [`https://github.com/Seanpm2001-OpenQASM-lang`](https://github.com/Seanpm2001-OpenQASM-lang/) |
+| 06 | [`https://github.com/Seanpm2001-TLA-lang`](https://github.com/Seanpm2001-TLA-lang/) |
+| 07 | [`https://github.com/Seanpm2001-AIDL-lang`](https://github.com/Seanpm2001-AIDL-lang/) |
+| 08 | [`https://github.com/Seanpm2001-GN-lang`](https://github.com/Seanpm2001-GN-lang/) |
+| 09 | [`https://github.com/Seanpm2001-KiCad-Layout-lang`](https://github.com/Seanpm2001-KiCad-Layout-lang/) |
+| 10 | [`https://github.com/Seanpm2001-Mallard-lang`](https://github.com/Seanpm2001-Mallard-lang/) |
 
 </details>
 
@@ -265,15 +269,19 @@ No data available for this day.
 
 No data available for this day.
 
+</details>
+
 ***
 
 ## File info
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `04 (Friday, 2022 March 18th at 4:41 pm PST)`
+**File version:** `05 (Friday, 2022 March 25th at 6:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `297`
+**Line count (including blank lines and compiler line):** `311`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -285,12 +293,18 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
+</details>
+
 ***
 
 ## Footer
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 You have reached the end of this file.
 
 ### EOF
+
+</details>
 
 ***
