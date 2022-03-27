@@ -32,6 +32,80 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 ***
 
+# Index
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the index section</b></p></summary>
+
+[00.0 - Title](#Following-organizations)
+
+> [00.1 - Index](#Index)
+
+[01.0 - Daily entries](#Daily-entries)
+
+> [01.0.1 - 2022](#2022)
+
+> > [01.0.1.3 - 2022 March](#2022-March)
+
+> > > [01.0.1.3.21 - 2022 March 21st](#2022-March-21st)
+
+> > > [01.0.1.3.22 - 2022 March 22nd](#2022-March-22nd)
+
+> > > [01.0.1.3.23 - 2022 March 23rd](#2022-March-23rd)
+
+> > > [01.0.1.3.24 - 2022 March 24th](#2022-March-24th)
+
+> > > [01.0.1.3.25 - 2022 March 25th](#2022-March-25th)
+
+> > > [01.0.1.3.26 - 2022 March 26th](#2022-March-26th)
+
+> > > [01.0.1.3.27 - 2022 March 27th](#2022-March-27th)
+
+> > > [01.0.1.3.28 - 2022 March 28th](#2022-March-28th)
+
+> > > [01.0.1.3.29 - 2022 March 29th](#2022-March-29th)
+
+> > > [01.0.1.3.30 - 2022 March 30th](#2022-March-30th)
+
+> > > [01.0.1.3.31 - 2022 March 31st](#2022-March-31st)
+
+> > [01.0.1.4 - 2022 April](#2022-April)
+
+> > > [01.0.1.4.01 - 2022 April 1st](#2022-April-1st)
+
+> > > [01.0.1.4.02 - 2022 April 2nd](#2022-April-2nd)
+
+> > > [01.0.1.4.03 - 2022 April 3rd](#2022-April-3rd)
+
+> > > [01.0.1.4.04 - 2022 April 4th](#2022-April-4th)
+
+> > > [01.0.1.4.05 - 2022 April 5th](#2022-April-5th)
+
+> > > [01.0.1.4.06 - 2022 April 6th](#2022-April-6th)
+
+> > > [01.0.1.4.07 - 2022 April 7th](#2022-April-7th)
+
+> > > [01.0.1.4.08 - 2022 April 8th](#2022-April-8th)
+
+> > > [01.0.1.4.09 - 2022 April 9th](#2022-April-9th)
+
+> > > [01.0.1.4.10 - 2022 April 10th](#2022-April-10th)
+
+[02.0 - Core components](#Core-components)
+
+> [02.0.1 - COMPILATION.urll](#compilationurll)
+
+[03.0 - Changelog](#Changelog)
+
+[04.0 - File info](#File-info)
+
+[05.0 - Footer](#Footer)
+
+> [05.9 - EOF](#EOF)
+
+</details>
+
+***
+
 ## Daily entries
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the daily entries section</b></p></summary>
@@ -40,15 +114,21 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 daily entries section</b></p></summary>
 
-#### March
+[Click/tap here to see the follow logs for 2022](/Follows/2022/)
+
+#### 2022 March
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March daily entries section</b></p></summary>
+
+[Click/tap here to see the follow logs for 2022 March](/Follows/2022/March/)
 
 ##### 2022 March 21st
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 21st entry</b></p></summary>
 
 ![GitHub_You-can-now-follow-organizations_LightMode_256x155.png](/Follows/Graphics/GitHub_You-can-now-follow-organizations_LightMode_256x155.png)
+
+[Click/tap here to see the follow log for 2022 March 21st](/Follows/2022/March/21/)
 
 GitHub finally added the ability to follow organizations on 2022 March 21st, and it seems I can follow the organizations I make. I realize I have to document this as well now.
 
@@ -60,6 +140,8 @@ I didn't make much use of the feature yet today, only following a few organizati
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 22nd entry</b></p></summary>
 
+[Click/tap here to see the follow log for 2022 March 22nd](/Follows/2022/March/22/)
+
 I continued to follow organizations today. I of course am following other organizations as well. Today, I went on a follow-spree, and followed nearly 100 organizations. It is something I am going to have to keep up with. I have over 800 to go. 
 
 </details>
@@ -67,6 +149,8 @@ I continued to follow organizations today. I of course am following other organi
 ##### 2022 March 23rd
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 23rd](/Follows/2022/March/23/)
 
 I am now setting the limit on myself to follow a maximum of 100 organizations and users. I don't want to jump up by more than 0.1k following per day. I also am going to work on limiting the amount I follow per day, likely to 90-95, until I am caught up. THis process should take another 7-9 days at the current rate, then it will die down. I followed exactly 100 organizations today.
 
@@ -78,6 +162,8 @@ I am still awaiting the feature to separate followed users from followed organiz
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 24th entry</b></p></summary>
 
+[Click/tap here to see the follow log for 2022 March 24th](/Follows/2022/March/24/)
+
 I finished following the 100 organizations pretty quickly today, it is something I enjoyed doing, but got through really fast. I hope to increase the diversity of my follows after a large enough majority of my own organizations are followed. I also forgot about the rule to leave space for follow for follows/other follows today.
 
 The ratio was 99:1 (only 1 external organization was followed)
@@ -87,6 +173,8 @@ The ratio was 99:1 (only 1 external organization was followed)
 ##### 2022 March 25th
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 24th](/Follows/2022/March/24/)
 
 I continued following organizations today. I followed the 10 new organizations I created today as well, between part 3 and 4 of the screenshot documentation process (appearing on the final screenshot set for each organization) I followed some other ones of mine that I had laid out, but today, I went through a list of other organizations. The ones not owned by me were followed in majority today. Since I did 2 follow for follow actions today, I could only follow 98 organizations, instead of the full 100.
 
@@ -98,11 +186,175 @@ The ratio today was 18:80(98:2)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 26th entry</b></p></summary>
 
-Coming soon.
+[Click/tap here to see the follow log for 2022 March 26th](/Follows/2022/March/26/)
+
+I worked on following 100 organizations again today. I was going through the list of organizations I have wrote down in my activity logs. Unfortunately, I wasn't able to finish the list today, there were less than 15 entries left that I couldn't get to. Additionally, I accidentally followed 101 organizations, instead of 100. I also wanted to throw in some diversity and put in 2 of my own organizations. This project will still take some time before I am caught up. I likely won't create only 99 entries tomorrow, I will still go for 100. I left no room for follow for follow actions today.
+
+One of the organizations on my list no longer exists. It couldn't be followed or interacted with for that reason.
+
+The ratio for today was 99:2
 
 </details> <!-- March 26th !-->
 
+##### 2022 March 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 27th](/Follows/2022/March/27/)
+
+Coming soon.
+
+</details> <!-- March 27th !-->
+
+##### 2022 March 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 28th](/Follows/2022/March/28/)
+
+Coming soon.
+
+</details> <!-- March 28th !-->
+
+##### 2022 March 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 29th](/Follows/2022/March/29/)
+
+Coming soon.
+
+</details> <!-- March 29th !-->
+
+##### 2022 March 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 30th](/Follows/2022/March/30/)
+
+Coming soon.
+
+</details> <!-- March 30th !-->
+
+##### 2022 March 31st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 31st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 March 31st](/Follows/2022/March/31/)
+
+Coming soon.
+
+</details> <!-- March 31st !-->
+
 </details> <!-- 2022 March !-->
+
+#### 2022 April
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April daily entries section</b></p></summary>
+
+[Click/tap here to see the follow logs for 2022 April](/Follows/2022/April/)
+
+##### April 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 1st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 1st](/Follows/2022/April/01/)
+
+Coming soon.
+
+</details> <!-- April 1st !-->
+
+##### April 2nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 2nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 2nd](/Follows/2022/April/02/)
+
+Coming soon.
+
+</details> <!-- April 2nd !-->
+
+##### April 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 3rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 3rd](/Follows/2022/April/03/)
+
+Coming soon.
+
+</details> <!-- April 3rd !-->
+
+##### April 4th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 4th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 4th](/Follows/2022/April/04/)
+
+Coming soon.
+
+</details> <!-- April 4th !-->
+
+##### April 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 5th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 5th](/Follows/2022/April/05/)
+
+Coming soon.
+
+</details> <!-- April 5th !-->
+
+##### April 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 6th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 6th](/Follows/2022/April/06/)
+
+Coming soon.
+
+</details> <!-- April 6th !-->
+
+##### April 7th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 7th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 7th](/Follows/2022/April/07/)
+
+Coming soon.
+
+</details> <!-- April 7th !-->
+
+##### April 8th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 8th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 8th](/Follows/2022/April/08/)
+
+Coming soon.
+
+</details> <!-- April 8th !-->
+
+##### April 9th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 9th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 9th](/Follows/2022/April/09/)
+
+Coming soon.
+
+</details> <!-- April 9th !-->
+
+##### April 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 10th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 10th](/Follows/2022/April/10/)
+
+Coming soon.
+
+</details> <!-- April 10th !-->
+
+</details> <!-- 2022 April !-->
 
 </details> <!-- 2022 !-->
 
@@ -132,6 +384,8 @@ The compilation file contains a link of every organization I have ever followed.
 
 **V1 (2022, Monday, March 21st at 8:18 pm PST)**
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Started the file
@@ -145,6 +399,8 @@ The compilation file contains a link of every organization I have ever followed.
 - [ ] No other changes in version 1
 
 **V2 (2022, Tuesday, March 22nd at 8:25 pm PST)**
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
@@ -161,6 +417,8 @@ The compilation file contains a link of every organization I have ever followed.
 - [ ] No other changes in version 2
 
 **V3 (2022, Wednesday, March 23rd at 7:57 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
@@ -180,6 +438,8 @@ The compilation file contains a link of every organization I have ever followed.
 
 **V4 (2022, Wednesday, March 23rd at 8:28 pm PST)**  
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Added a changelog
@@ -193,6 +453,8 @@ The compilation file contains a link of every organization I have ever followed.
 - [ ] No other changes in version 4
 
 **V5 (2022, Thursday, March 24th at 3:17 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
@@ -208,6 +470,8 @@ The compilation file contains a link of every organization I have ever followed.
 
 **V6 (2022, Friday, March 25th at 6:36 pm PST)**  
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Updated the changelog
@@ -220,11 +484,25 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 6
 
-**V7 (Coming soon)**  
+**V7 (2022, Saturday, March 26th at 5:31 pm)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog, additionally, added a tag for each entry based on who developed it
+
+- [x] Updated the file info section
+
+- [x] Added an entry for 2022 March 27th to 2022 April 10th
+
+- [x] Filled in the entry for today (2022 March 26th)
+
+- [x] Updated all entries to include a link to the data logs for each day
+
+- [x] Added an index
+
+- [x] Added the footer
 
 - [ ] No other changes in version 7
 
@@ -268,6 +546,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 12
 
+**V13 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 13
+
+**V14 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 14
+
 </details>
 
 ***
@@ -278,9 +572,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Friday, March 25th at 6:36 pm PST)`
+**File version:** `7 (2022, Saturday, March 26th at 5:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `298`
+**Line count (including blank lines and compiler line):** `604`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -291,6 +585,18 @@ The compilation file contains a link of every organization I have ever followed.
 _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## Footer
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer section</b></p></summary>
+
+You have reached the end of this file.
+
+### EOF
 
 </details>
 
