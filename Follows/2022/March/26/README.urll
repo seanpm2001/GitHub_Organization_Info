@@ -7,7 +7,7 @@
 https://github.com/seanpm2001-Hardware
 https://github.com/seanpm2001-Firefox
 
--- Organizations NOT ran by @seanpm2001 (98)
+-- Organizations NOT ran by @seanpm2001 (99)
 
 https://github.com/mapbox
 https://github.com/kicad
@@ -107,22 +107,22 @@ https://github.com/NixOS
 https://github.com/Racket
 https://github.com/TryItOnline
 https://github.com/dogecoin
-https://github.com/dogecoin
 https://github.com/WinWorldPC
 
--- 100 total (2 personal, 98 external)
+-- 101 total (2 personal, 99 external)
 
 -- Statistics for 2022 March 26th
 -- Total 
 -- Run by @seanpm2001 : 2
--- Not run by @seanpm2001 : 98
--- Overall total: 100
--- Ratio: 2.00%/98.00%
--- Ratio calculation source: mental math
+-- Not run by @seanpm2001 : 99
+-- Overall total: 101
+-- Ratio: 1.98%/98.02%
+-- Ratio calculation source: mental math, GNOME calcualtor
 -- Other calculation source: Separate list files, mental math
 
 -- File info
 -- File type: URLL source file (*.urll)
--- File version: 1 (2022, Saturday, March 26th at 4:30 pm PST)
+-- File version: 2 (2022, Saturday, March 26th at 5:00 pm PST)
 -- Line count (including blank lines and compiler line): 129
+-- V2: Fixed an error (I found that I followed 1 extra) also removed 1 duplicate entry, and updated the ratio, statistics, and file info sections
 -- EOF (End of File)
