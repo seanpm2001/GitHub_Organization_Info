@@ -230,7 +230,11 @@ The ratio for today was 88:11(99:1)
 
 [Click/tap here to see the follow log for 2022 March 28th](/Follows/2022/March/28/)
 
-Coming soon.
+**Day 8**
+
+I continued for an 8th day today, following 100 organizations with no room for follow for follow actions. This project will continue daily for at least 4 more days.
+
+The ratio for today was 94:6
 
 </details> <!-- March 28th !-->
 
@@ -502,7 +506,7 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 6
 
-**V7 (2022, Saturday, March 26th at 5:31 pm)**  
+**V7 (2022, Saturday, March 26th at 5:31 pm PST)**  
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -524,7 +528,7 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 7
 
-**V8 (2022, Sunday, March 27th at 5:50 pm)**  
+**V8 (2022, Sunday, March 27th at 5:50 pm PST)**  
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -540,11 +544,17 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 8
 
-**V9 (Coming soon)**  
+**V9 (2022, Monday, March 28th at 3:35 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 March 87th)
 
 - [ ] No other changes in version 9
 
@@ -604,6 +614,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 16
 
+**V17 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 17
+
+**V18 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 18
+
 </details>
 
 ***
@@ -614,9 +640,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Sunday, March 27th at 5:50 pm PST)`
+**File version:** `9 (2022, Monday, March 28th at 3:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `646`
+**Line count (including blank lines and compiler line):** `672`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
