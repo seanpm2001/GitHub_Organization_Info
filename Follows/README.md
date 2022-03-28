@@ -130,6 +130,8 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 [Click/tap here to see the follow log for 2022 March 21st](/Follows/2022/March/21/)
 
+**Day 1**
+
 GitHub finally added the ability to follow organizations on 2022 March 21st, and it seems I can follow the organizations I make. I realize I have to document this as well now.
 
 I didn't make much use of the feature yet today, only following a few organizations as a test. This update fell right on my 21st birthday, which I count as an extra birthday present.
@@ -142,6 +144,8 @@ I didn't make much use of the feature yet today, only following a few organizati
 
 [Click/tap here to see the follow log for 2022 March 22nd](/Follows/2022/March/22/)
 
+**Day 2**
+
 I continued to follow organizations today. I of course am following other organizations as well. Today, I went on a follow-spree, and followed nearly 100 organizations. It is something I am going to have to keep up with. I have over 800 to go. 
 
 </details>
@@ -151,6 +155,8 @@ I continued to follow organizations today. I of course am following other organi
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 23rd entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 March 23rd](/Follows/2022/March/23/)
+
+**Day 3**
 
 I am now setting the limit on myself to follow a maximum of 100 organizations and users. I don't want to jump up by more than 0.1k following per day. I also am going to work on limiting the amount I follow per day, likely to 90-95, until I am caught up. THis process should take another 7-9 days at the current rate, then it will die down. I followed exactly 100 organizations today.
 
@@ -164,6 +170,8 @@ I am still awaiting the feature to separate followed users from followed organiz
 
 [Click/tap here to see the follow log for 2022 March 24th](/Follows/2022/March/24/)
 
+**Day 4**
+
 I finished following the 100 organizations pretty quickly today, it is something I enjoyed doing, but got through really fast. I hope to increase the diversity of my follows after a large enough majority of my own organizations are followed. I also forgot about the rule to leave space for follow for follows/other follows today.
 
 The ratio was 99:1 (only 1 external organization was followed)
@@ -176,6 +184,8 @@ The ratio was 99:1 (only 1 external organization was followed)
 
 [Click/tap here to see the follow log for 2022 March 24th](/Follows/2022/March/24/)
 
+**Day 5**
+
 I continued following organizations today. I followed the 10 new organizations I created today as well, between part 3 and 4 of the screenshot documentation process (appearing on the final screenshot set for each organization) I followed some other ones of mine that I had laid out, but today, I went through a list of other organizations. The ones not owned by me were followed in majority today. Since I did 2 follow for follow actions today, I could only follow 98 organizations, instead of the full 100.
 
 The ratio today was 18:80(98:2)
@@ -187,6 +197,8 @@ The ratio today was 18:80(98:2)
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 March 26th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 March 26th](/Follows/2022/March/26/)
+
+**Day 6**
 
 I worked on following 100 organizations again today. I was going through the list of organizations I have wrote down in my activity logs. Unfortunately, I wasn't able to finish the list today, there were less than 15 entries left that I couldn't get to. Additionally, I accidentally followed 101 organizations, instead of 100. I also wanted to throw in some diversity and put in 2 of my own organizations. This project will still take some time before I am caught up. I likely won't create only 99 entries tomorrow, I will still go for 100. I left no room for follow for follow actions today.
 
@@ -202,7 +214,13 @@ The ratio for today was 99:2
 
 [Click/tap here to see the follow log for 2022 March 27th](/Follows/2022/March/27/)
 
-Coming soon.
+**Day 7**
+
+I followed 99 organizations today, not 100 or more. I didn't follow 100, as I had to do a follow for follow action today. It is really difficult to navigate the list, I feel it is going to end up worse than the GitHub Organization Info documentation process, as I started much later on. I feel like there might be more than 2 missing entries when I get "caught up"
+
+This project will continue daily for at least 5 more days.
+ 
+The ratio for today was 88:11(99:1)
 
 </details> <!-- March 27th !-->
 
@@ -506,11 +524,19 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 7
 
-**V8 (Coming soon)**  
+**V8 (2022, Sunday, March 27th at 5:50 pm)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog, additionally, added a tag for each entry based on who developed it
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 March 27th)
+
+- [x] Updated entries 1-7 to include a day counter.
 
 - [ ] No other changes in version 8
 
@@ -562,6 +588,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 14
 
+**V15 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 15
+
+**V16 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 16
+
 </details>
 
 ***
@@ -572,9 +614,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Saturday, March 26th at 5:31 pm PST)`
+**File version:** `8 (2022, Sunday, March 27th at 5:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `604`
+**Line count (including blank lines and compiler line):** `646`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
