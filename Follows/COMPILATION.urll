@@ -4,7 +4,7 @@
 -- Range: 2022 March 21st to 2022 March 26th
 -- Compilation
 
--- Organizations ran by @seanpm2001 (246)
+-- Organizations ran by @seanpm2001 (334)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -252,8 +252,96 @@ https://github.com/Seanpm2001-Svelte-lang
 https://github.com/Seanpm2001-GPL
 https://github.com/seanpm2001-Hardware
 https://github.com/seanpm2001-Firefox
+https://github.com/Seanpm2001-AMPL-lang
+https://github.com/Seanpm2001-Processing-JS-lang
+https://github.com/Seanpm2001-Idris-lang
+https://github.com/Seanpm2001-SUPERCELL
+https://github.com/Seanpm2001-Storm8
+https://github.com/Seanpm2001-Oberon-lang
+https://github.com/Seanpm2001-Seed7-lang
+https://github.com/Seanpm2001-XSLT-lang
+https://github.com/Egg-org
+https://github.com/pyvm-dev
+https://github.com/Hyper-Realistic-Farm-Simulator
+https://github.com/Difficult-dev
+https://github.com/Seanpm2001-d-lang
+https://github.com/Seanpm2001-Markdown-lang
+https://github.com/Seanpm2001-ReStructuredText-lang
+https://github.com/Seanpm2001-Diff-lang
+https://github.com/Easy-E-IDE
+https://github.com/Seanpm2001-E-lang
+https://github.com/Seanpm2001-M-lang
+https://github.com/Seanpm2001-M4-lang
+https://github.com/Matrix-lang
+https://github.com/Frog-mania
+https://github.com/Boom-Bay
+https://github.com/Team8Collection
+https://github.com/Seanwallawalla-browserextensions
+https://github.com/Seanpm2001-browserextensions
+https://github.com/Seanpm2001-Torrent
+https://github.com/TrueTorrent
+https://github.com/MicroMiniwave
+https://github.com/Reactop-computers
+https://github.com/Superpower-laptops
+https://github.com/Seanpm2001-reddit
+https://github.com/Seanpm2001-Quora
+https://github.com/Seanpm2001-SaltStack-lang
+https://github.com/Seanpm2001-NGINX-lang
+https://github.com/Seanpm2001-Fluent-lang
+https://github.com/Seanpm2001-QMake-lang
+https://github.com/Seanpm2001-XProc-lang
+https://github.com/Seanpm2001-Thrift-lang
+https://github.com/Seanpm2001-GCC-Machine-Description-lang
+https://github.com/VOI-Manor
+https://github.com/Seanpm2001-Smarty-lang
+https://github.com/Seanpm2001-PostScript-lang
+https://github.com/Seanpm2001-CSound-lang
+https://github.com/Seanpm2001-Dhall-lang
+https://github.com/Seanpm2001-Dart-lang
+https://github.com/Seanpm2001-VoiceGod
+https://github.com/VoiceGod
+https://github.com/NimbleBit-Games
+https://github.com/NimbleBit-Fan-Club
+https://github.com/OpenTowers
+https://github.com/NUNIX-dev
+https://github.com/OpenGovernment-dev
+https://github.com/BluPhone
+https://github.com/Nost-gia-OS
+https://github.com/NimbleBit-Glossary
+https://github.com/The-Existential-Index
+https://github.com/The-Dystopian-Dictionary
+https://github.com/Seanpm2001-TeX-lang
+https://github.com/Seanpm2001-BiBTeX-lang
+https://github.com/Talla-Browser
+https://github.com/Skeuowie
+https://github.com/S-Desktop-Environment
+https://github.com/Seanpm2001-CAML-lang
+https://github.com/Seanpm2001-Weather
+https://github.com/Seanpm2001-Books
+https://github.com/Seanpm2001-Articles
+https://github.com/Seanpm2001-Templates
+https://github.com/Seanpm2001-Documents
+https://github.com/Seanpm2001-Documentation
+https://github.com/Seanpm2001-Ubuntu
+https://github.com/Seanpm2001-webassembly-lang
+https://github.com/Seanpm2001-RaspberryPi
+https://github.com/Seanpm2001-Modula-2-lang
+https://github.com/Seanpm2001-Modula-3-lang
+https://github.com/Blue-Dentures
+https://github.com/FBI-Roleplay-Simulator
+https://github.com/Project1k1
+https://github.com/FourThousandNinetySix
+https://github.com/MadLibby
+https://github.com/Seanpm2001-Meson-lang
+https://github.com/Seanpm2001-BitBake-lang
+https://github.com/Seanpm2001-BASIC-lang
+https://github.com/Seanpm2001-CommonLisp-lang
+https://github.com/Seanpm2001-Blockly-lang
+https://github.com/Seanpm2001-Objective-J-lang
+https://github.com/Seanpm2001-EJS-lang
+https://github.com/Seanpm2001-Eagle-lang
 
--- Organizations NOT ran by @seanpm2001 (244)
+-- Organizations NOT ran by @seanpm2001 (255)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -498,15 +586,25 @@ https://github.com/NixOS
 https://github.com/Racket
 https://github.com/TryItOnline
 https://github.com/dogecoin
-https://github.com/dogecoin
 https://github.com/WinWorldPC
+https://github.com/Qemu
+https://github.com/Shopify
+https://github.com/crystal-lang
+https://github.com/cappuccino
+https://github.com/rebol
+https://github.com/lfe
+https://github.com/pocketgems
+https://github.com/microsoftgraph
+https://github.com/MicrosoftLearning
+https://github.com/cli
+https://github.com/education
 
--- Statistcs (as of 2022, Saturday, March 26th)
+-- Statistcs (as of 2022, Sunday, March 27th)
 -- Total 
--- Run by @seanpm2001 : 246
--- Not run by @seanpm2001 : 244
--- Overall total: 490
--- Ratio: 50.20%/49.80%
+-- Run by @seanpm2001 : 334
+-- Not run by @seanpm2001 : 255
+-- Overall total: 589
+-- Ratio: 56.71%/43.29%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -1051,17 +1149,212 @@ https://github.com/seanpm2001-Firefox
 
 -- Non-@seanpm2001 organizations
 
-
+https://github.com/mapbox
+https://github.com/kicad
+https://github.com/FOSSRIT
+https://github.com/Handbrake
+https://github.com/Alan-turing-institute
+https://github.com/All-contributors
+https://github.com/Citation-File-Format
+https://github.com/Bugzilla
+https://github.com/numpy
+https://github.com/Julia-actions
+https://github.com/aplus-framework
+https://github.com/Openmainframeproject
+https://github.com/Azure
+https://github.com/HoodieHQ
+https://github.com/octokit
+https://github.com/nobackend
+https://github.com/nock
+https://github.com/octoherd
+https://github.com/offlinefirst
+https://github.com/openssh
+https://github.com/erlef
+https://github.com/actions
+https://github.com/yt-dlp
+https://github.com/ytdl-org
+https://github.com/ungoogled-software
+https://github.com/tenable
+https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+https://github.com/apptainer
+https://github.com/ShaderLab
+https://github.com/hpi-schul-cloud
+https://github.com/SoftwareBuildService
+https://github.com/HaxeFoundation
+https://github.com/openembedded
+https://github.com/1C-Developer-Network
+https://github.com/devspace
+https://github.com/arduino
+https://github.com/FFTW
+https://github.com/AMD
+https://github.com/intel
+https://github.com/Pug-Bootstrap
+https://github.com/llvm-mirror
+https://github.com/llvm
+https://github.com/ziglang
+https://github.com/purescript
+https://github.com/d-language-server
+https://github.com/handlebars-lang
+https://github.com/supercollider
+https://github.com/stylus
+https://github.com/haskell
+https://github.com/isabelle-prover
+https://github.com/webtorrent
+https://github.com/SWI-Prolog
+https://github.com/idris-lang
+https://github.com/Aurorastation
+https://github.com/processing-js 
+https://github.com/StreisandEffect
+https://github.com/smarty-php
+https://github.com/fancy-lang
+https://github.com/smarty
+https://github.com/typora
+https://github.com/Pincer-org
+https://github.com/berkmancenter
+https://github.com/dhall-lang
+https://github.com/qt
+https://github.com/airbnb
+https://github.com/coffeescript
+https://github.com/jquery
+https://github.com/emscripten-core
+https://github.com/AssemblyScript
+https://github.com/textmate
+https://github.com/tuxera
+https://github.com/GDQuest
+https://github.com/OpenMandrivaAssociation
+https://github.com/flathub
+https://github.com/LogtalkDotOrg
+https://github.com/phpbb
+https://github.com/firehol
+https://github.com/VideogameSources
+https://github.com/Growl
+https://github.com/Coq
+https://github.com/slimphp
+https://github.com/haml
+https://github.com/MetalKit
+https://github.com/WordPress
+https://github.com/dolphin-emu
+https://github.com/mastodon
+https://github.com/internetarchive
+https://github.com/citra-emu
+https://github.com/pop-os
+https://github.com/pages-themes
+https://github.com/home-assistant
+https://github.com/lxde
+https://github.com/acmeism
+https://github.com/fish-shell
+https://github.com/NixOS
+https://github.com/Racket
+https://github.com/TryItOnline
+https://github.com/dogecoin
+https://github.com/WinWorldPC
 
 -- 2022 March 27th
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Seanpm2001-AMPL-lang
+https://github.com/Seanpm2001-Processing-JS-lang
+https://github.com/Seanpm2001-Idris-lang
+https://github.com/Seanpm2001-SUPERCELL
+https://github.com/Seanpm2001-Storm8
+https://github.com/Seanpm2001-Oberon-lang
+https://github.com/Seanpm2001-Seed7-lang
+https://github.com/Seanpm2001-XSLT-lang
+https://github.com/Egg-org
+https://github.com/pyvm-dev
+https://github.com/Hyper-Realistic-Farm-Simulator
+https://github.com/Difficult-dev
+https://github.com/Seanpm2001-d-lang
+https://github.com/Seanpm2001-Markdown-lang
+https://github.com/Seanpm2001-ReStructuredText-lang
+https://github.com/Seanpm2001-Diff-lang
+https://github.com/Easy-E-IDE
+https://github.com/Seanpm2001-E-lang
+https://github.com/Seanpm2001-M-lang
+https://github.com/Seanpm2001-M4-lang
+https://github.com/Matrix-lang
+https://github.com/Frog-mania
+https://github.com/Boom-Bay
+https://github.com/Team8Collection
+https://github.com/Seanwallawalla-browserextensions
+https://github.com/Seanpm2001-browserextensions
+https://github.com/Seanpm2001-Torrent
+https://github.com/TrueTorrent
+https://github.com/MicroMiniwave
+https://github.com/Reactop-computers
+https://github.com/Superpower-laptops
+https://github.com/Seanpm2001-reddit
+https://github.com/Seanpm2001-Quora
+https://github.com/Seanpm2001-SaltStack-lang
+https://github.com/Seanpm2001-NGINX-lang
+https://github.com/Seanpm2001-Fluent-lang
+https://github.com/Seanpm2001-QMake-lang
+https://github.com/Seanpm2001-XProc-lang
+https://github.com/Seanpm2001-Thrift-lang
+https://github.com/Seanpm2001-GCC-Machine-Description-lang
+https://github.com/VOI-Manor
+https://github.com/Seanpm2001-Smarty-lang
+https://github.com/Seanpm2001-PostScript-lang
+https://github.com/Seanpm2001-CSound-lang
+https://github.com/Seanpm2001-Dhall-lang
+https://github.com/Seanpm2001-Dart-lang
+https://github.com/Seanpm2001-VoiceGod
+https://github.com/VoiceGod
+https://github.com/NimbleBit-Games
+https://github.com/NimbleBit-Fan-Club
+https://github.com/OpenTowers
+https://github.com/NUNIX-dev
+https://github.com/OpenGovernment-dev
+https://github.com/BluPhone
+https://github.com/Nost-gia-OS
+https://github.com/NimbleBit-Glossary
+https://github.com/The-Existential-Index
+https://github.com/The-Dystopian-Dictionary
+https://github.com/Seanpm2001-TeX-lang
+https://github.com/Seanpm2001-BiBTeX-lang
+https://github.com/Talla-Browser
+https://github.com/Skeuowie
+https://github.com/S-Desktop-Environment
+https://github.com/Seanpm2001-CAML-lang
+https://github.com/Seanpm2001-Weather
+https://github.com/Seanpm2001-Books
+https://github.com/Seanpm2001-Articles
+https://github.com/Seanpm2001-Templates
+https://github.com/Seanpm2001-Documents
+https://github.com/Seanpm2001-Documentation
+https://github.com/Seanpm2001-Ubuntu
+https://github.com/Seanpm2001-webassembly-lang
+https://github.com/Seanpm2001-RaspberryPi
+https://github.com/Seanpm2001-Modula-2-lang
+https://github.com/Seanpm2001-Modula-3-lang
+https://github.com/Blue-Dentures
+https://github.com/FBI-Roleplay-Simulator
+https://github.com/Project1k1
+https://github.com/FourThousandNinetySix
+https://github.com/MadLibby
+https://github.com/Seanpm2001-Meson-lang
+https://github.com/Seanpm2001-BitBake-lang
+https://github.com/Seanpm2001-BASIC-lang
+https://github.com/Seanpm2001-CommonLisp-lang
+https://github.com/Seanpm2001-Blockly-lang
+https://github.com/Seanpm2001-Objective-J-lang
+https://github.com/Seanpm2001-EJS-lang
+https://github.com/Seanpm2001-Eagle-lang
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/Qemu
+https://github.com/Shopify
+https://github.com/crystal-lang
+https://github.com/cappuccino
+https://github.com/rebol
+https://github.com/lfe
+https://github.com/pocketgems
+https://github.com/microsoftgraph
+https://github.com/MicrosoftLearning
+https://github.com/cli
+https://github.com/education
 
 -- 2022 March 28th
 
@@ -1204,7 +1497,7 @@ https://github.com/seanpm2001-Firefox
 -- None
 
 -- File info
--- File version: 7 (2022, Saturday, March 26th at 4:48 pm PST)
+-- File version: 8 (2022, Sunday, March 27th at 5:39 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 1,211
+-- Line count (including blank lines and compiler line): 1,504
 -- EOF (End of File)
