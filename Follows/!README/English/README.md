@@ -244,7 +244,13 @@ The ratio for today was 94:6
 
 [Click/tap here to see the follow log for 2022 March 29th](/Follows/2022/March/29/)
 
-Coming soon.
+**Day 9**
+
+I continued for a 9th day today, following 98 organizations and following 2 users (follow for follow) this project will continue daily for at least 4 more days (no change from yesterday, as more entries are being determined)
+
+I am hoping for a day where I can follow 100 of my own organizations, but I keep running into F4F requirements, or new interesting projects.
+
+The ratio for today was 95:3(98:2)
 
 </details> <!-- March 29th !-->
 
@@ -554,15 +560,21 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [x] Updated the file info section
 
-- [x] Filled in the entry for today (2022 March 87th)
+- [x] Filled in the entry for today (2022 March 28th)
 
 - [ ] No other changes in version 9
 
-**V10 (Coming soon)**  
+**V10 (2022, Tuesday, March 29th at 4:30 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 March 29th)
 
 - [ ] No other changes in version 10
 
@@ -630,6 +642,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 18
 
+**V19 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 19
+
+**V20 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 20
+
 </details>
 
 ***
@@ -640,9 +668,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Monday, March 28th at 3:35 pm PST)`
+**File version:** `10 (2022, Tuesday, March 29th at 4:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `672`
+**Line count (including blank lines and compiler line):** `700`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
