@@ -260,7 +260,11 @@ The ratio for today was 95:3(98:2)
 
 [Click/tap here to see the follow log for 2022 March 30th](/Follows/2022/March/30/)
 
-Coming soon.
+**Day 10**
+
+I continued for a 10th day today, following 100 more organizations. This project will continue daily for at least 4 more days (no change from yesterday, as more entries are being determined) I am still hoping for a day where I can follow 100 of my own organizations, but again, I keep running into F4F requirements, or new interesting projects.
+
+The ratio for today was 98:2
 
 </details> <!-- March 30th !-->
 
@@ -578,11 +582,17 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 10
 
-**V11 (Coming soon)**  
+**V11 (2022, Wednesday, March 30th at 4:25 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 March 30th)
 
 - [ ] No other changes in version 11
 
@@ -658,6 +668,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 20
 
+**V21 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 21
+
+**V22 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 22
+
 </details>
 
 ***
@@ -668,9 +694,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Tuesday, March 29th at 4:30 pm PST)`
+**File version:** `11 (2022, Wednesday, March 30th at 4:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `700`
+**Line count (including blank lines and compiler line):** `726`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
