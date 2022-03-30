@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 March 29th
+-- Range: 2022 March 21st to 2022 March 30th (10 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (523)
+-- Organizations ran by @seanpm2001 (621)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -529,8 +529,106 @@ https://github.com/TouchPetsDogs2Rewritten
 https://github.com/The-Pirates-Copy
 https://github.com/Seanpm2001-Psychology
 https://github.com/Seanpm2001-Biology
+https://github.com/seanpm2001-KhanAcademy
+https://github.com/seanpm2001-MHGames
+https://github.com/Seanpm2001-HyperHippo
+https://github.com/Seanpm2001-AirBnB
+https://github.com/Seanpm2001-AmazonCom
+https://github.com/Seanpm2001-Anime
+https://github.com/Seanpm2001-Apache
+https://github.com/Seanpm2001-Apache-License
+https://github.com/Seanpm2001-Appliances
+https://github.com/Seanpm2001-Applications
+https://github.com/Seanpm2001-Apps
+https://github.com/Seanpm2001-Automation
+https://github.com/Seanpm2001-Bluetooth
+https://github.com/Seanpm2001-Botany
+https://github.com/Seanpm2001-Browsers
+https://github.com/Seanpm2001-BSD
+https://github.com/Seanpm2001-Census
+https://github.com/Seanpm2001-Washington
+https://github.com/Seanpm2001-Clocktree
+https://github.com/Seanpm2001-GUI
+https://github.com/Seanpm2001-CodeQL-lang
+https://github.com/Seanpm2001-Concepts
+https://github.com/Seanpm2001-COVID-19
+https://github.com/Seanpm2001-CS-Class
+https://github.com/Seanpm2001-Currency
+https://github.com/Seanpm2001-Politics
+https://github.com/Seanpm2001-Daily-Desktop-Screenshots
+https://github.com/Seanpm2001-Discord
+https://github.com/Seanpm2001-Discussions
+https://github.com/Seanpm2001-Disney
+https://github.com/Seanpm2001-Dronemap
+https://github.com/Seanpm2001-EAGames
+https://github.com/Seanpm2001-Forks
+https://github.com/Seanpm2001-Gists
+https://github.com/Seanpm2001-Glu
+https://github.com/Seanpm2001-Godzilab
+https://github.com/Seanpm2001-GraphicDesign
+https://github.com/Seanpm2001-HalfBrick-games
+https://github.com/Seanpm2001-Holiday
+https://github.com/Seanpm2001-Holidays
+https://github.com/Seanpm2001-Ko-Fi
+https://github.com/Seanpm2001-LiberaPay
+https://github.com/seanpm2001-lifearchive
+https://github.com/seanpm2001-lifearchive-extras
+https://github.com/Seanpm2001-Malware
+https://github.com/Seanpm2001-Minecraft
+https://github.com/Seanpm2001-MinecraftPE
+https://github.com/Seanpm2001-Mojang
+https://github.com/Seanpm2001-Museum
+https://github.com/Seanpm2001-NewYearsTag
+https://github.com/Seanpm2001-OpenCollective
+https://github.com/Seanpm2001-Otechie
+https://github.com/Seanpm2001-Patreon
+https://github.com/Seanpm2001-PersonalKiosk
+https://github.com/Seanpm2001-Pharmacy
+https://github.com/Seanpm2001-PopCapGames
+https://github.com/Seanpm2001-Portals
+https://github.com/Seanpm2001-Privacy
+https://github.com/Seanpm2001-Scripts
+https://github.com/Seanpm2001-TeamFortress2
+https://github.com/Seanpm2001-tech-support
+https://github.com/Seanpm2001-Themes
+https://github.com/Seanpm2001-Tidelift
+https://github.com/Seanpm2001-Transportation-Technologies
+https://github.com/Seanpm2001-Tumblr
+https://github.com/Seanpm2001-Ubisoft
+https://github.com/Seanpm2001-Valve
+https://github.com/Seanpm2001-VoiceSoftware
+https://github.com/seanwallawalla-bots
+https://github.com/seanwallawalla-jokeprograms
+https://github.com/seanwallawalla-malware
+https://github.com/seanwallawalla-organization
+https://github.com/seanwallawalla-software
+https://github.com/seanwallawalla-trm
+https://github.com/Self-Care-Bot
+https://github.com/ShareBoxLIB
+https://github.com/SimZonns
+https://github.com/Snapshot-version-control-system
+https://github.com/SNU-3DPrinting
+https://github.com/ScreenTeX
+https://github.com/ScriptKidd-toolkit
+https://github.com/RubbleRobot
+https://github.com/RNAssistant
+https://github.com/README-Desktop-LIBrary
+https://github.com/Ratiyo
+https://github.com/RailRam-TrainCollection
+https://github.com/PrestigePreview
+https://github.com/Numeric-Liberation-Front
+https://github.com/OuterVM
+https://github.com/OuterVM-Mouse
+https://github.com/PFOSS-initiative
+https://github.com/NexxFetch
+https://github.com/Medical-ethics
+https://github.com/Linux-Marketshare-Ping-Tool
+https://github.com/Laplight
+https://github.com/Keystroke-dev
+https://github.com/IGNORE-file
+https://github.com/Halloween-Assistant
 
--- Organizations NOT ran by @seanpm2001 (264)
+-- Organizations NOT ran by @seanpm2001 (266)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -796,13 +894,15 @@ https://github.com/common-workflow-language
 https://github.com/math-comp
 https://github.com/popcorn-official
 https://github.com/butterproject
+https://github.com/amuletml
+https://github.com/BOINC
 
--- Statistcs (as of 2022, Tuesday, March 29th)
+-- Statistcs (as of 2022, Wednesday, March 30th)
 -- Total 
--- Run by @seanpm2001: 523
--- Not run by @seanpm2001 : 264
--- Overall total: 787
--- Ratio: 66.45%/33.55%
+-- Run by @seanpm2001: 621
+-- Not run by @seanpm2001 : 266
+-- Overall total: 887
+-- Ratio: 70.01%/29.99%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -1772,11 +1872,109 @@ https://github.com/butterproject
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/seanpm2001-KhanAcademy
+https://github.com/seanpm2001-MHGames
+https://github.com/Seanpm2001-HyperHippo
+https://github.com/Seanpm2001-AirBnB
+https://github.com/Seanpm2001-AmazonCom
+https://github.com/Seanpm2001-Anime
+https://github.com/Seanpm2001-Apache
+https://github.com/Seanpm2001-Apache-License
+https://github.com/Seanpm2001-Appliances
+https://github.com/Seanpm2001-Applications
+https://github.com/Seanpm2001-Apps
+https://github.com/Seanpm2001-Automation
+https://github.com/Seanpm2001-Bluetooth
+https://github.com/Seanpm2001-Botany
+https://github.com/Seanpm2001-Browsers
+https://github.com/Seanpm2001-BSD
+https://github.com/Seanpm2001-Census
+https://github.com/Seanpm2001-Washington
+https://github.com/Seanpm2001-Clocktree
+https://github.com/Seanpm2001-GUI
+https://github.com/Seanpm2001-CodeQL-lang
+https://github.com/Seanpm2001-Concepts
+https://github.com/Seanpm2001-COVID-19
+https://github.com/Seanpm2001-CS-Class
+https://github.com/Seanpm2001-Currency
+https://github.com/Seanpm2001-Politics
+https://github.com/Seanpm2001-Daily-Desktop-Screenshots
+https://github.com/Seanpm2001-Discord
+https://github.com/Seanpm2001-Discussions
+https://github.com/Seanpm2001-Disney
+https://github.com/Seanpm2001-Dronemap
+https://github.com/Seanpm2001-EAGames
+https://github.com/Seanpm2001-Forks
+https://github.com/Seanpm2001-Gists
+https://github.com/Seanpm2001-Glu
+https://github.com/Seanpm2001-Godzilab
+https://github.com/Seanpm2001-GraphicDesign
+https://github.com/Seanpm2001-HalfBrick-games
+https://github.com/Seanpm2001-Holiday
+https://github.com/Seanpm2001-Holidays
+https://github.com/Seanpm2001-Ko-Fi
+https://github.com/Seanpm2001-LiberaPay
+https://github.com/seanpm2001-lifearchive
+https://github.com/seanpm2001-lifearchive-extras
+https://github.com/Seanpm2001-Malware
+https://github.com/Seanpm2001-Minecraft
+https://github.com/Seanpm2001-MinecraftPE
+https://github.com/Seanpm2001-Mojang
+https://github.com/Seanpm2001-Museum
+https://github.com/Seanpm2001-NewYearsTag
+https://github.com/Seanpm2001-OpenCollective
+https://github.com/Seanpm2001-Otechie
+https://github.com/Seanpm2001-Patreon
+https://github.com/Seanpm2001-PersonalKiosk
+https://github.com/Seanpm2001-Pharmacy
+https://github.com/Seanpm2001-PopCapGames
+https://github.com/Seanpm2001-Portals
+https://github.com/Seanpm2001-Privacy
+https://github.com/Seanpm2001-Scripts
+https://github.com/Seanpm2001-TeamFortress2
+https://github.com/Seanpm2001-tech-support
+https://github.com/Seanpm2001-Themes
+https://github.com/Seanpm2001-Tidelift
+https://github.com/Seanpm2001-Transportation-Technologies
+https://github.com/Seanpm2001-Tumblr
+https://github.com/Seanpm2001-Ubisoft
+https://github.com/Seanpm2001-Valve
+https://github.com/Seanpm2001-VoiceSoftware
+https://github.com/seanwallawalla-bots
+https://github.com/seanwallawalla-jokeprograms
+https://github.com/seanwallawalla-malware
+https://github.com/seanwallawalla-organization
+https://github.com/seanwallawalla-software
+https://github.com/seanwallawalla-trm
+https://github.com/Self-Care-Bot
+https://github.com/ShareBoxLIB
+https://github.com/SimZonns
+https://github.com/Snapshot-version-control-system
+https://github.com/SNU-3DPrinting
+https://github.com/ScreenTeX
+https://github.com/ScriptKidd-toolkit
+https://github.com/RubbleRobot
+https://github.com/RNAssistant
+https://github.com/README-Desktop-LIBrary
+https://github.com/Ratiyo
+https://github.com/RailRam-TrainCollection
+https://github.com/PrestigePreview
+https://github.com/Numeric-Liberation-Front
+https://github.com/OuterVM
+https://github.com/OuterVM-Mouse
+https://github.com/PFOSS-initiative
+https://github.com/NexxFetch
+https://github.com/Medical-ethics
+https://github.com/Linux-Marketshare-Ping-Tool
+https://github.com/Laplight
+https://github.com/Keystroke-dev
+https://github.com/IGNORE-file
+https://github.com/Halloween-Assistant
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/amuletml
+https://github.com/BOINC
 
 -- 2022 March 31st
 
@@ -1889,7 +2087,7 @@ https://github.com/butterproject
 -- None
 
 -- File info
--- File version: 10 (2022, Tuesday, March 29th at 4:22 pm PST)
+-- File version: 11 (2022, Wednesday, March 30th at 4:17 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 1,896
+-- Line count (including blank lines and compiler line): 2,094
 -- EOF (End of File)
