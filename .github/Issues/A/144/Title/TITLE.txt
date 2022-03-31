@@ -1,0 +1,1 @@
+[Chore] Add template: GOI_EMPTY_STRUCT to years 2020 and 2021 #144
