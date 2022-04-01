@@ -274,7 +274,11 @@ The ratio for today was 98:2
 
 [Click/tap here to see the follow log for 2022 March 31st](/Follows/2022/March/31/)
 
-Coming soon.
+**Day 11**
+
+I continued for an 11th day today, following 99 organizations. This projct will continue daily for at least 2 more days (I have noted that there aren't very many organizations of mine left, and it is going to become a difficult search mission soon) I did 1 follow for follow action today.
+
+The ratio for today was 86:13(99:1)
 
 </details> <!-- March 31st !-->
 
@@ -596,11 +600,19 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 11
 
-**V12 (Coming soon)**  
+**V12 (2022, Thursday, March 31st at 7:23 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
+_I considered adding in blank entries up to April 30th today, but decided not to._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 March 31st)
 
 - [ ] No other changes in version 12
 
@@ -684,6 +696,22 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 22
 
+**V23 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 23
+
+**V24 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 24
+
 </details>
 
 ***
@@ -694,9 +722,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Wednesday, March 30th at 4:25 pm PST)`
+**File version:** `12 (2022, Thursdday, March 31st at 7:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `726`
+**Line count (including blank lines and compiler line):** `754`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
