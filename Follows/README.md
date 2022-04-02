@@ -276,7 +276,7 @@ The ratio for today was 98:2
 
 **Day 11**
 
-I continued for an 11th day today, following 99 organizations. This projct will continue daily for at least 2 more days (I have noted that there aren't very many organizations of mine left, and it is going to become a difficult search mission soon) I did 1 follow for follow action today.
+I continued for an 11th day today, following 99 organizations. This project will continue daily for at least 2 more days (I have noted that there aren't very many organizations of mine left, and it is going to become a difficult search mission soon) I did 1 follow for follow action today.
 
 The ratio for today was 86:13(99:1)
 
@@ -296,7 +296,11 @@ The ratio for today was 86:13(99:1)
 
 [Click/tap here to see the follow log for 2022 April 1st](/Follows/2022/April/01/)
 
-Coming soon.
+**Day 12**
+
+I continued for a 12th day today, following 99 organizations, and doing 1 follow for follow action. Tomorrow, I will either wrap up this project for now, or wrap up this project for now with the need to do a set of difficult search missions. There are less than 50 of my own organizations to go.
+
+The ratio for today was 96:3(99:1)
 
 </details> <!-- April 1st !-->
 
@@ -616,11 +620,17 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 12
 
-**V13 (Coming soon)**  
+**V13 (2022, Friday, April 1st at 7:45 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 April 1st)
 
 - [ ] No other changes in version 13
 
@@ -712,6 +722,22 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 24
 
+**V25 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 25
+
+**V26 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 26
+
 </details>
 
 ***
@@ -722,9 +748,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Thursdday, March 31st at 7:23 pm PST)`
+**File version:** `13 (2022, Friday, April 1st at 7:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `754`
+**Line count (including blank lines and compiler line):** `780`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
