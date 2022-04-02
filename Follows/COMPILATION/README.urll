@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 March 31st (11 days)
+-- Range: 2022 March 21st to 2022 April 1st (12 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (707)
+-- Organizations ran by @seanpm2001 (803)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -713,8 +713,104 @@ https://github.com/SNU-FamilyTree
 https://github.com/SNU-FileExtensionHelp
 https://github.com/SNU-FilmPlaza
 https://github.com/SNU-FontLIBrary
+https://github.com/Seanpm2001-ABAP-lang
+https://github.com/Seanpm2001-AL-lang
+https://github.com/Seanpm2001-Bicep-lang
+https://github.com/Seanpm2001-Cool-lang
+https://github.com/Seanpm2001-Dafny-lang
+https://github.com/Seanpm2001-Astro-lang
+https://github.com/Seanpm2001-XS-lang
+https://github.com/Seanpm2001-OpenPolicyAgent-lang
+https://github.com/Seanpm2001-WDL-lang
+https://github.com/Seanpm2001-CommonWorkflowLanguage
+https://github.com/SNU-FontMill
+https://github.com/SNU-Fonts
+https://github.com/SNU-Government
+https://github.com/SNU-Health
+https://github.com/SNU-HistoryManagement
+https://github.com/SNU-HttpsStatusCodeList
+https://github.com/SNU-IdeaBoard
+https://github.com/SNU-IE-Engine
+https://github.com/SNU-Internet
+https://github.com/SNU-InternetFront
+https://github.com/SNU-InternetMuseum
+https://github.com/SNU-JavaScript-Math-Center
+https://github.com/SNU-Jobs
+https://github.com/SNU-KenThompsonMemorial
+https://github.com/SNU-Keyboard
+https://github.com/SNU-LeapDay
+https://github.com/SNU-LegalResourceCenter
+https://github.com/SNU-LegendsOfTheInternet
+https://github.com/SNU-LifeStories
+https://github.com/SNU-Lingual
+https://github.com/SNU-LoopG
+https://github.com/SNU-MalwareViru-RepoMode
+https://github.com/SNU-MartinLutherKingJrMemorial
+https://github.com/SNU-MascotCenter
+https://github.com/SNU-MemeGen
+https://github.com/SNU-Memes
+https://github.com/SNU-Messenger
+https://github.com/SNU-Metaverse
+https://github.com/SNU-Modes
+https://github.com/SNU-Museum
+https://github.com/SNU-News
+https://github.com/SNU-NewYears
+https://github.com/SNU-NFT
+https://github.com/SNU-NitterMode
+https://github.com/SNU-Organization
+https://github.com/SNU-OS-Killers
+https://github.com/SNU-OtherReferences
+https://github.com/SNU-P2P
+https://github.com/SNU-P2PSection
+https://github.com/SNU-PFOSSExchange
+https://github.com/SNU-Plans
+https://github.com/SNU-PlaybackSettings
+https://github.com/SNU-Policies
+https://github.com/SNU-Porn
+https://github.com/SNU-Privacy
+https://github.com/SNU-PrivacyInitiative
+https://github.com/SNU-ProfileBuilder
+https://github.com/SNU-ProjectTimeline
+https://github.com/SNU-ProtestToolKit
+https://github.com/SNU-Public
+https://github.com/SNU-PublicSnapshots
+https://github.com/SNU-PunParlor
+https://github.com/SNU-PuzzleCenter
+https://github.com/SNU-Questionarium
+https://github.com/SNU-RSS
+https://github.com/SNU-RulesOfTheInternet
+https://github.com/SNU-Scripts
+https://github.com/SNU-Search
+https://github.com/SNU-Security
+https://github.com/SNU-ServerEssentials
+https://github.com/SNU-SexEducation
+https://github.com/SNU-Shopping
+https://github.com/SNU-SignIn
+https://github.com/SNU-SiteLogo
+https://github.com/SNU-SlangDictionary
+https://github.com/SNU-SmellProject
+https://github.com/SNU-SnapshotTool
+https://github.com/SNU-Software-Center
+https://github.com/SNU-SoundSettings
+https://github.com/SNU-SpoofingCenter
+https://github.com/SNU-Sports
+https://github.com/SNU-StartAScript
+https://github.com/SNU-StoryBubbleWand
+https://github.com/SNU-Streams
+https://github.com/SNU-SuicidePrevention
+https://github.com/SNU-SuperSearch
+https://github.com/SNU-System
+https://github.com/SNU-TableTopGameHouse
+https://github.com/SNU-Terminal
+https://github.com/SNU-TerrorBay
+https://github.com/SNU-Test-References
+https://github.com/SNU-TextEngine
+https://github.com/SNU-Textures
+https://github.com/SNU-Themes
+https://github.com/SNU-TimeMachine
+https://github.com/SNU-ToBeImplemented
 
--- Organizations NOT ran by @seanpm2001 (279)
+-- Organizations NOT ran by @seanpm2001 (282)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -995,13 +1091,16 @@ https://github.com/preston-werner-ventures
 https://github.com/csound
 https://github.com/DarkMode
 https://github.com/lightmode
+https://github.com/void-linux
+https://github.com/graphql-dotnet
+https://github.com/pi-hole
 
--- Statistcs (as of 2022, Thursday, March 31st)
+-- Statistcs (as of 2022, Friday, April 1st)
 -- Total 
--- Run by @seanpm2001: 707
--- Not run by @seanpm2001 : 279
--- Overall total: 986
--- Ratio: 71.70%/28.30%
+-- Run by @seanpm2001: 803
+-- Not run by @seanpm2001 : 282
+-- Overall total: 1,095
+-- Ratio: 73.33%/26.67%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2186,11 +2285,108 @@ https://github.com/lightmode
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Seanpm2001-ABAP-lang
+https://github.com/Seanpm2001-AL-lang
+https://github.com/Seanpm2001-Bicep-lang
+https://github.com/Seanpm2001-Cool-lang
+https://github.com/Seanpm2001-Dafny-lang
+https://github.com/Seanpm2001-Astro-lang
+https://github.com/Seanpm2001-XS-lang
+https://github.com/Seanpm2001-OpenPolicyAgent-lang
+https://github.com/Seanpm2001-WDL-lang
+https://github.com/Seanpm2001-CommonWorkflowLanguage
+https://github.com/SNU-FontMill
+https://github.com/SNU-Fonts
+https://github.com/SNU-Government
+https://github.com/SNU-Health
+https://github.com/SNU-HistoryManagement
+https://github.com/SNU-HttpsStatusCodeList
+https://github.com/SNU-IdeaBoard
+https://github.com/SNU-IE-Engine
+https://github.com/SNU-Internet
+https://github.com/SNU-InternetFront
+https://github.com/SNU-InternetMuseum
+https://github.com/SNU-JavaScript-Math-Center
+https://github.com/SNU-Jobs
+https://github.com/SNU-KenThompsonMemorial
+https://github.com/SNU-Keyboard
+https://github.com/SNU-LeapDay
+https://github.com/SNU-LegalResourceCenter
+https://github.com/SNU-LegendsOfTheInternet
+https://github.com/SNU-LifeStories
+https://github.com/SNU-Lingual
+https://github.com/SNU-LoopG
+https://github.com/SNU-MalwareViru-RepoMode
+https://github.com/SNU-MartinLutherKingJrMemorial
+https://github.com/SNU-MascotCenter
+https://github.com/SNU-MemeGen
+https://github.com/SNU-Memes
+https://github.com/SNU-Messenger
+https://github.com/SNU-Metaverse
+https://github.com/SNU-Modes
+https://github.com/SNU-Museum
+https://github.com/SNU-News
+https://github.com/SNU-NewYears
+https://github.com/SNU-NFT
+https://github.com/SNU-NitterMode
+https://github.com/SNU-Organization
+https://github.com/SNU-OS-Killers
+https://github.com/SNU-OtherReferences
+https://github.com/SNU-P2P
+https://github.com/SNU-P2PSection
+https://github.com/SNU-PFOSSExchange
+https://github.com/SNU-Plans
+https://github.com/SNU-PlaybackSettings
+https://github.com/SNU-Policies
+https://github.com/SNU-Porn
+https://github.com/SNU-Privacy
+https://github.com/SNU-PrivacyInitiative
+https://github.com/SNU-ProfileBuilder
+https://github.com/SNU-ProjectTimeline
+https://github.com/SNU-ProtestToolKit
+https://github.com/SNU-Public
+https://github.com/SNU-PublicSnapshots
+https://github.com/SNU-PunParlor
+https://github.com/SNU-PuzzleCenter
+https://github.com/SNU-Questionarium
+https://github.com/SNU-RSS
+https://github.com/SNU-RulesOfTheInternet
+https://github.com/SNU-Scripts
+https://github.com/SNU-Search
+https://github.com/SNU-Security
+https://github.com/SNU-ServerEssentials
+https://github.com/SNU-SexEducation
+https://github.com/SNU-Shopping
+https://github.com/SNU-SignIn
+https://github.com/SNU-SiteLogo
+https://github.com/SNU-SlangDictionary
+https://github.com/SNU-SmellProject
+https://github.com/SNU-SnapshotTool
+https://github.com/SNU-Software-Center
+https://github.com/SNU-SoundSettings
+https://github.com/SNU-SpoofingCenter
+https://github.com/SNU-Sports
+https://github.com/SNU-StartAScript
+https://github.com/SNU-StoryBubbleWand
+https://github.com/SNU-Streams
+https://github.com/SNU-SuicidePrevention
+https://github.com/SNU-SuperSearch
+https://github.com/SNU-System
+https://github.com/SNU-TableTopGameHouse
+https://github.com/SNU-Terminal
+https://github.com/SNU-TerrorBay
+https://github.com/SNU-Test-References
+https://github.com/SNU-TextEngine
+https://github.com/SNU-Textures
+https://github.com/SNU-Themes
+https://github.com/SNU-TimeMachine
+https://github.com/SNU-ToBeImplemented
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/void-linux
+https://github.com/graphql-dotnet
+https://github.com/pi-hole
 
 -- 2022 April 2nd
 
@@ -2283,7 +2479,7 @@ https://github.com/lightmode
 -- None
 
 -- File info
--- File version: 12 (2022, Thursday, March 31st at 7:16 pm PST)
+-- File version: 13 (2022, Friday, April 1st at 7:37 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,290
+-- Line count (including blank lines and compiler line): 2,486
 -- EOF (End of File)
