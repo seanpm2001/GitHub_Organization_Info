@@ -31,13 +31,13 @@
 </details>
 !-->
 
-# GitHub organization: Seanpm2001-CommonWorkflowLanguage
+# GitHub organization: Seanpm2001-WDL-lang
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 ## Description
 
-For the archival and development of my projects written in the CommonWorkflowLanguage programming language, or containing CommonWorkflowLanguage source code.
+For the archival and development of my projects written in the WDL programming language, or containing WDL source code.
 
 </details>
 
@@ -63,7 +63,7 @@ WDL is a recognized language by GitHub.
 
 WDL stands for `Workflow Description Language`
 
-The current logo in use is in PNG format. This means that it is transparent, and it does not need background color fixes. I am using the official logo, which has transparency.
+The current logo in use is in PNG format. It is not transparent, and it does need background color fixes. I am using the official logo, which has no transparency.
 
 WDL programs have the `.wdl` file extension.
 
