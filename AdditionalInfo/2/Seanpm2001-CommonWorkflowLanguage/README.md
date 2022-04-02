@@ -23,7 +23,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse the logo for this organization</p></summary>
 
-![CommonWorkflowLanguageLogo.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-CommonWorkflowLanguage-lang/CommonWorkflowLanguageLogo.png)
+![CommonWorkflowLanguageLogo.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-CommonWorkflowLanguage/CommonWorkflowLanguageLogo.png)
 
 </details>
 
