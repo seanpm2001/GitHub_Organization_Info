@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 April 1st (12 days)
+-- Range: 2022 March 21st to 2022 April 2nd (13 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (803)
+-- Organizations ran by @seanpm2001 (831)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -810,7 +810,7 @@ https://github.com/SNU-Themes
 https://github.com/SNU-TimeMachine
 https://github.com/SNU-ToBeImplemented
 
--- Organizations NOT ran by @seanpm2001 (282)
+-- Organizations NOT ran by @seanpm2001 (283)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1094,13 +1094,14 @@ https://github.com/lightmode
 https://github.com/void-linux
 https://github.com/graphql-dotnet
 https://github.com/pi-hole
+https://github.com/ibus
 
--- Statistcs (as of 2022, Friday, April 1st)
+-- Statistcs (as of 2022, Saturday, April 2nd)
 -- Total 
--- Run by @seanpm2001: 803
--- Not run by @seanpm2001 : 282
--- Overall total: 1,095
--- Ratio: 73.33%/26.67%
+-- Run by @seanpm2001: 831
+-- Not run by @seanpm2001 : 283
+-- Overall total: 1,114
+-- Ratio: 74.60%/25.40%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2392,11 +2393,38 @@ https://github.com/pi-hole
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/SNU-Torrent
+https://github.com/SNU-TOS
+https://github.com/SNU-Translate
+https://github.com/SNU-TV
+https://github.com/SNU-TwitterMode
+https://github.com/SNU-TypographyDocs
+https://github.com/SNU-Universe
+https://github.com/SNU-UserFilters
+https://github.com/SNU-Users
+https://github.com/SNU-Valentines
+https://github.com/SNU-VDictionary
+https://github.com/SNU-VersionHistory
+https://github.com/SNU-Vexillology
+https://github.com/SNU-Video
+https://github.com/SNU-VideoTheater
+https://github.com/SNU-VMCenter
+https://github.com/SNU-VoicesVoIP
+https://github.com/SNU-VR
+https://github.com/SNU-WeatherVane
+https://github.com/SNU-WebVTT
+https://github.com/SNU-Wiki
+https://github.com/SNU-WLinkWBotW
+https://github.com/SNU-WorkInProgress
+https://github.com/SNU-WWW30
+https://github.com/SNU-YourSpace
+https://github.com/SNU-YouTubeMode
+https://github.com/SNU-ZalgoProject
+https://github.com/SNUNews-dev
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/ibus
 
 -- 2022 April 3rd
 
@@ -2479,7 +2507,7 @@ https://github.com/pi-hole
 -- None
 
 -- File info
--- File version: 13 (2022, Friday, April 1st at 7:37 pm PST)
+-- File version: 14 (2022, Saturday, April 2nd at 10:25 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,486
+-- Line count (including blank lines and compiler line): 2,514
 -- EOF (End of File)
