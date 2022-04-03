@@ -90,6 +90,46 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 > > > [01.0.1.4.10 - 2022 April 10th](#2022-April-10th)
 
+> > > [01.0.1.4.11 - 2022 April 11th](#2022-April-11th)
+
+> > > [01.0.1.4.12 - 2022 April 12th](#2022-April-12th)
+
+> > > [01.0.1.4.13 - 2022 April 13th](#2022-April-13th)
+
+> > > [01.0.1.4.14 - 2022 April 14th](#2022-April-14th)
+
+> > > [01.0.1.4.15 - 2022 April 15th](#2022-April-15th)
+
+> > > [01.0.1.4.16 - 2022 April 16th](#2022-April-16th)
+
+> > > [01.0.1.4.17 - 2022 April 17th](#2022-April-17th)
+
+> > > [01.0.1.4.18 - 2022 April 18th](#2022-April-18th)
+
+> > > [01.0.1.4.19 - 2022 April 19th](#2022-April-19th)
+
+> > > [01.0.1.4.20 - 2022 April 20th](#2022-April-20th)
+
+> > > [01.0.1.4.21 - 2022 April 21st](#2022-April-21st)
+
+> > > [01.0.1.4.22 - 2022 April 22nd](#2022-April-22nd)
+
+> > > [01.0.1.4.23 - 2022 April 23rd](#2022-April-23rd)
+
+> > > [01.0.1.4.24 - 2022 April 24th](#2022-April-24th)
+
+> > > [01.0.1.4.25 - 2022 April 25th](#2022-April-25th)
+
+> > > [01.0.1.4.26 - 2022 April 26th](#2022-April-26th)
+
+> > > [01.0.1.4.27 - 2022 April 27th](#2022-April-27th)
+
+> > > [01.0.1.4.28 - 2022 April 28th](#2022-April-28th)
+
+> > > [01.0.1.4.29 - 2022 April 29th](#2022-April-29th)
+
+> > > [01.0.1.4.30 - 2022 April 30th](#2022-April-30th)
+
 [02.0 - Core components](#Core-components)
 
 > [02.0.1 - COMPILATION.urll](#compilationurll)
@@ -310,7 +350,11 @@ The ratio for today was 96:3(99:1)
 
 [Click/tap here to see the follow log for 2022 April 2nd](/Follows/2022/April/02/)
 
-Coming soon.
+**Day 13**
+
+I continued for a 13th day today, following 29 organizations, and doing 1 follow for follow action. I wrapped up the project today, and now I am going to have a long period of time where I have to find the missing 19 organizations. This is a lot more than the GOI project documentation (which is only missing 2 entries) the project will continue, but it won't be consistent anymore.
+
+The ratio for today was 28:1(29:1)
 
 </details> <!-- April 2nd !-->
 
@@ -393,6 +437,206 @@ Coming soon.
 Coming soon.
 
 </details> <!-- April 10th !-->
+
+##### April 11th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 11th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 11th](/Follows/2022/April/11/)
+
+Coming soon.
+
+</details> <!-- April 11th !-->
+
+##### April 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 12th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 12th](/Follows/2022/April/12/)
+
+Coming soon.
+
+</details> <!-- April 12th !-->
+
+##### April 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 13th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 13th](/Follows/2022/April/13/)
+
+Coming soon.
+
+</details> <!-- April 13th !-->
+
+##### April 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 14th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 14th](/Follows/2022/April/14/)
+
+Coming soon.
+
+</details> <!-- April 14th !-->
+
+##### April 15th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 15th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 15th](/Follows/2022/April/15/)
+
+Coming soon.
+
+</details> <!-- April 15th !-->
+
+##### April 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 16th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 16th](/Follows/2022/April/16/)
+
+Coming soon.
+
+</details> <!-- April 16th !-->
+
+##### April 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 17th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 17th](/Follows/2022/April/17/)
+
+Coming soon.
+
+</details> <!-- April 17th !-->
+
+##### April 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 18th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 18th](/Follows/2022/April/18/)
+
+Coming soon.
+
+</details> <!-- April 18th !-->
+
+##### April 19th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 19th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 19th](/Follows/2022/April/19/)
+
+Coming soon.
+
+</details> <!-- April 19th !-->
+
+##### April 20th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 20th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 20th](/Follows/2022/April/20/)
+
+Coming soon.
+
+</details> <!-- April 20th !-->
+
+##### April 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 21st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 21st](/Follows/2022/April/21/)
+
+Coming soon.
+
+</details> <!-- April 21st !-->
+
+##### April 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 22nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 22nd](/Follows/2022/April/22/)
+
+Coming soon.
+
+</details> <!-- April 22nd !-->
+
+##### April 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 23rd](/Follows/2022/April/23/)
+
+Coming soon.
+
+</details> <!-- April 23rd !-->
+
+##### April 24th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 24th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 24th](/Follows/2022/April/24/)
+
+Coming soon.
+
+</details> <!-- April 24th !-->
+
+##### April 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 25th](/Follows/2022/April/25/)
+
+Coming soon.
+
+</details> <!-- April 25th !-->
+
+##### April 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 26th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 26th](/Follows/2022/April/26/)
+
+Coming soon.
+
+</details> <!-- April 26th !-->
+
+##### April 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 27th](/Follows/2022/April/27/)
+
+Coming soon.
+
+</details> <!-- April 27th !-->
+
+##### April 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 28th](/Follows/2022/April/28/)
+
+Coming soon.
+
+</details> <!-- April 28th !-->
+
+##### April 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 29th](/Follows/2022/April/29/)
+
+Coming soon.
+
+</details> <!-- April 29th !-->
+
+##### April 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 April 30th](/Follows/2022/April/30/)
+
+Coming soon.
+
+</details> <!-- April 30th !-->
 
 </details> <!-- 2022 April !-->
 
@@ -634,11 +878,21 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 13
 
-**V14 (Coming soon)**  
+**V14 (2022, Saturday, April 2nd at 10:52 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entry for today (2022 April 2nd)
+
+- [x] Added blank entries from 2022 April 11th to 2022 APril 30th
+
+- [x] Updated the index
 
 - [ ] No other changes in version 14
 
@@ -738,6 +992,22 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 26
 
+**V27 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 27
+
+**V28 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 28
+
 </details>
 
 ***
@@ -748,9 +1018,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2022, Friday, April 1st at 7:45 pm PST)`
+**File version:** `14 (2022, Saturday, April 2nd at 10:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `780`
+**Line count (including blank lines and compiler line):** `1,050`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
