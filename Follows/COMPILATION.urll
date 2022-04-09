@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 April 2nd (13 days)
+-- Range: 2022 March 21st to 2022 April 28th (19 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (831)
+-- Organizations ran by @seanpm2001 (841)
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -809,8 +809,18 @@ https://github.com/SNU-Textures
 https://github.com/SNU-Themes
 https://github.com/SNU-TimeMachine
 https://github.com/SNU-ToBeImplemented
+https://github.com/Kommunism-dev
+https://github.com/Polyworks-Squareoff
+https://github.com/Seanpm2001-Lean-lang
+https://github.com/Seanpm2001-Sage-lang
+https://github.com/AZWS-Encryption
+https://github.com/Green-Star-OS
+https://github.com/Pen-People
+https://github.com/Phoneticut
+https://github.com/DeciCube
+https://github.com/SlideXMagic
 
--- Organizations NOT ran by @seanpm2001 (283)
+-- Organizations NOT ran by @seanpm2001 (299)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1095,13 +1105,29 @@ https://github.com/void-linux
 https://github.com/graphql-dotnet
 https://github.com/pi-hole
 https://github.com/ibus
+https://github.com/repography
+https://github.com/Warzone2100
+https://github.com/neovim
+https://github.com/looker
+https://github.com/threejs
+https://github.com/archlinuxarm
+https://github.com/manjaro-pinephone
+https://github.com/pinephone
+https://github.com/postmarketOS
+https://github.com/lowRISC
+https://github.com/SerenityOS
+https://github.com/electron
+https://github.com/lua
+https://github.com/ppy
+https://github.com/ProtonMail
+https://github.com/Perl
 
--- Statistcs (as of 2022, Saturday, April 2nd)
+-- Statistcs (as of 2022, Friday, April 8th)
 -- Total 
--- Run by @seanpm2001: 831
--- Not run by @seanpm2001 : 283
--- Overall total: 1,114
--- Ratio: 74.60%/25.40%
+-- Run by @seanpm2001: 841
+-- Not run by @seanpm2001 : 299
+-- Overall total: 1,140
+-- Ratio: 73.77%/26.23%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2434,7 +2460,10 @@ https://github.com/ibus
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/repography
+https://github.com/Warzone2100
+https://github.com/neovim
+https://github.com/looker
 
 -- 2022 April 4th
 
@@ -2444,7 +2473,14 @@ https://github.com/ibus
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/threejs
+https://github.com/archlinuxarm
+https://github.com/manjaro-pinephone
+https://github.com/pinephone
+https://github.com/postmarketOS
+https://github.com/lowRISC
+https://github.com/SerenityOS
+https://github.com/electron
 
 -- 2022 April 5th
 
@@ -2464,7 +2500,8 @@ https://github.com/ibus
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/ppy
+https://github.com/ProtonMail
 
 -- 2022 April 7th
 
@@ -2480,11 +2517,20 @@ https://github.com/ibus
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Kommunism-dev
+https://github.com/Polyworks-Squareoff
+https://github.com/Seanpm2001-Lean-lang
+https://github.com/Seanpm2001-Sage-lang
+https://github.com/AZWS-Encryption
+https://github.com/Green-Star-OS
+https://github.com/Pen-People
+https://github.com/Phoneticut
+https://github.com/DeciCube
+https://github.com/SlideXMagic
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/Perl
 
 -- 2022 April 9th
 
@@ -2506,8 +2552,208 @@ https://github.com/ibus
 
 -- None
 
+-- 2022 April 11th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 12th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 13th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 14th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 15th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 16th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 17th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 18th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 19th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 20th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 21st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 22nd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 23rd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 24th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 25th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 26th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 27th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 28th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 29th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 April 30th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
 -- File info
--- File version: 14 (2022, Saturday, April 2nd at 10:25 pm PST)
+-- File version: 15 (2022, Saturday, April 9th at 4:14 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,514
+-- Line count (including blank lines and compiler line): 2,760
 -- EOF (End of File)
