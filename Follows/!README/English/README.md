@@ -364,7 +364,11 @@ The ratio for today was 28:1(29:1)
 
 [Click/tap here to see the follow log for 2022 April 3rd](/Follows/2022/April/03/)
 
-Coming soon.
+**Day 14**
+
+Today was the first day where I didn't follow any of my organizations. I am still discovering new ones, but this subproject has really died down at this point. I tried to find some of the missing 19 entries, but didn't even find .1
+
+The ratio for today was 0:4(4:96)
 
 </details> <!-- April 3rd !-->
 
@@ -374,7 +378,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 4th](/Follows/2022/April/04/)
 
-Coming soon.
+**Day 15**
+
+Today was the second day where I didn't follow any of my organizations. I followed some external organizations today.
+
+The ratio for today was 0:8(8:92)
 
 </details> <!-- April 4th !-->
 
@@ -384,7 +392,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 5th](/Follows/2022/April/05/)
 
-Coming soon.
+**Day 15**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 5th !-->
 
@@ -394,7 +406,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 6th](/Follows/2022/April/06/)
 
-Coming soon.
+**Day 16**
+
+I discovered and followed 3 organizations today.
+
+The ratio for today was 0:3(3:97)
 
 </details> <!-- April 6th !-->
 
@@ -404,7 +420,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 7th](/Follows/2022/April/07/)
 
-Coming soon.
+**Day 17**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 7th !-->
 
@@ -414,7 +434,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 8th](/Follows/2022/April/08/)
 
-Coming soon.
+**Day 18**
+
+I spent a ton of time today working on my GitHub organization weekly project. I followed 11 organizations today, but haven't made any updates to the sub-project in a while (The sub-project was updated on 2022 April 9th)
+
+The ratio for today was 10:1(11:89)
 
 </details> <!-- April 8th !-->
 
@@ -890,17 +914,23 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [x] Filled in the entry for today (2022 April 2nd)
 
-- [x] Added blank entries from 2022 April 11th to 2022 APril 30th
+- [x] Added blank entries from 2022 April 11th to 2022 April 30th
 
 - [x] Updated the index
 
 - [ ] No other changes in version 14
 
-**V15 (Coming soon)**  
+**V15 (2022, Saturday, April 9th at 4:28 pm PST)**  
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 April 3rd to 2022 April 8th (but not 2022 April 9th)
 
 - [ ] No other changes in version 15
 
@@ -1008,6 +1038,22 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 28
 
+**V29 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 29
+
+**V30 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 30
+
 </details>
 
 ***
@@ -1018,9 +1064,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Saturday, April 2nd at 10:52 pm PST)`
+**File version:** `15 (2022, Saturday, April 9th at 4:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,050`
+**Line count (including blank lines and compiler line):** `1,096`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
