@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, April.
 
 ( [<-- `Go back to 2022 March`](/NewOrgs/2022/03_March/README.md) | [`Current (2022 April)`](/NewOrgs/2022/04_April/) | [ --> Continue to `2022 May (coming soon)`](/NewOrgs/2022/05_May/README.md) )
 
-**This list was last updated on:** `Friday, 2022 April 1st at 5:17 pm`
+**This list was last updated on:** `Friday, 2022 April 8th at 11:00 pm PST`
 
 ### Index
 
@@ -134,16 +134,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Kommunism-dev`](https://github.com/Kommunism-dev/) |
+| 02 | [`PolyWorks SquareOff`](https://github.com/Polyworks-Squareoff/) |
+| 03 | [`Seanpm2001-Lean-lang`](https://github.com/Seanpm2001-Lean-lang/) |
+| 04 | [`Seanpm2001-Sage-lang`](https://github.com/Seanpm2001-Sage-lang/) |
+| 05 | [`AZWS Encryption`](https://github.com/AZWS-Encryption/) |
+| 06 | [`Green Star OS`](https://github.com/Green-Star-OS/) |
+| 07 | [`Pen People`](https://github.com/Pen-People/) |
+| 08 | [`Phoneticut`](https://github.com/Phoneticut/) |
+| 09 | [`DeciCube`](https://github.com/DeciCube/) |
+| 10 | [`SlideXMagic`](https://github.com/SlideXMagic/) |
 
 </details>
 
@@ -296,7 +296,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Friday, 2022 April 1st at 5:17 pm PST)`
+**File version:** `03 (Friday, 2022 April 8th at 11:00 pm PST)`
 
 **Line count (including blank lines and compiler line):** `328`
 
