@@ -39,6 +39,18 @@ Unfortunately, even with the possible fixes, I can't fork a repository to my mai
 
 Unfortunately, this issue is not easy to fix. I am considering using a third party to do forks, but I don't know if this will work with my needs.
 
+**Edit on 2022, Friday, April 15th**
+
+When I originally wrote the description for today, I forgot to list 2 important things I tried:
+
+* Disabling JavaScript (uBlock Origin)
+
+This did not help with the problem at all, but I did learn that GitHub can function surprisingly well without JavaScript.
+
+* Preventing images from loading (uBlock Origin)
+
+I prevented some images from loading, but not all the ones I wanted to block. This method did not help with the problem at all eithe, as Iwasn't able to block profile pictures, or media included in `README` files.
+
 </details>
 
 ***
@@ -73,9 +85,9 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, April 14th at 9:25 pm PST)`
+**File version:** `2 (2022, Friday, April 15th at 10:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `93`
+**Line count (including blank lines and compiler line):** `105`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
