@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, April.
 
 ( [<-- `Go back to 2022 March`](/NewOrgs/2022/03_March/README.md) | [`Current (2022 April)`](/NewOrgs/2022/04_April/) | [ --> Continue to `2022 May (coming soon)`](/NewOrgs/2022/05_May/README.md) )
 
-**This list was last updated on:** `Friday, 2022 April 8th at 11:00 pm PST`
+**This list was last updated on:** `Friday, 2022 April 15th at 10:43 pm PST`
 
 ### Index
 
@@ -177,16 +177,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Project-Aquarius`](https://github.com/Project-Aquarius/) |
+| 02 | [`AquariOS-dev`](https://github.com/AquariOS-dev/) |
+| 03 | [`The-Bandwidth-Band`](https://github.com/The-Bandwidth-Band/) |
+| 04 | [`SNU-Update-Log`](https://github.com/SNU-Update-Log/) |
+| 05 | [`SNU-Developer-Log`](https://github.com/SNU-Developer-Log/) |
+| 06 | [`DeciCube-Concept`](https://github.com/DeciCube-Concept/) |
+| 07 | [`SlideXMagic-LIBrary`](https://github.com/SlideXMagic-LIBrary/) |
+| 08 | [`r-seanpm2001`](https://github.com/r-seanpm2001/) |
+| 09 | [`DeskLocker`](https://github.com/Desklocker/) |
+| 10 | [`PetLand-Software`](https://github.com/PetLand-Software/) |
 
 </details>
 
@@ -296,7 +296,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Friday, 2022 April 8th at 11:00 pm PST)`
+**File version:** `04 (Friday, 2022 April 15th at 10:43 pm PST)`
 
 **Line count (including blank lines and compiler line):** `328`
 
