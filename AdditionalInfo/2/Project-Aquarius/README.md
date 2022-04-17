@@ -11,7 +11,7 @@ Project Aquarius i an open community of marine biology software and digital work
 
 ## More info
 
-[https://github.com/SlideXMagic](https://github.com/SlideXMagic/)
+[https://github.com/Project-Aquarius](https://github.com/Project-Aquarius/)
 
 Fixed description:
 
