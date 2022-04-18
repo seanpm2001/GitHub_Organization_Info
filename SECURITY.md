@@ -150,9 +150,11 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.48B    | :x: | Old version, not supported |
 | v1.1.49A    | :x: | Old version, not supported |
 | v1.1.49B    | :x: | Old version, not supported |
-| v1.1.50A    | :heavy_check_mark: | Current version, supported |
-| v1.1.50B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.49B & > 2022 April 8th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.50A    | :x: | Old version, not supported |
+| v1.1.50B    | :x: | Old version, not supported |
+| v1.1.51A    | :heavy_check_mark: | Current version, supported |
+| v1.1.51B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.50B & > 2022 April 15th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -188,9 +190,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Saturday, April 9th at 10:01 pm PST)`
+**File version:** `11 (2022, Sunday, April 17th at 10:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `460`
+**Line count (including blank lines and compiler line):** `492`
 
 **Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -366,11 +368,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 10
 
-**Version 11 (Coming soon)**
+**Version 11 (2022, Sunday April 17th at 10:53 pm PST)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 11
 
@@ -445,6 +451,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 20
+
+**Version 21 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 21
+
+**Version 22 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 22
 
 </details>
 
