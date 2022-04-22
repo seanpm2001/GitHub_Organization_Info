@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, April.
 
 ( [<-- `Go back to 2022 March`](/NewOrgs/2022/03_March/README.md) | [`Current (2022 April)`](/NewOrgs/2022/04_April/) | [ --> Continue to `2022 May (coming soon)`](/NewOrgs/2022/05_May/README.md) )
 
-**This list was last updated on:** `Friday, 2022 April 15th at 10:43 pm PST`
+**This list was last updated on:** `Friday, 2022 April 22nd at 4:10 pm PST`
 
 ### Index
 
@@ -220,16 +220,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Seanpm2001-WHATWG`](https://github.com/Seanpm2001-WHATWG/) |
+| 02 | [`Seanpm2001-Vexillology`](https://github.com/Seanpm2001-Vexillology/) |
+| 03 | [`Seanpm2001-Linting`](https://github.com/Seanpm2001-Linting/) |
+| 04 | [`Seanpm2001-GitLab`](https://github.com/Seanpm2001-GitLab/) |
+| 05 | [`Seanpm2001-BitBucket`](https://github.com/seanpm2001-BitBucket/) |
+| 06 | [`Seanpm2001-SourceForge`](https://github.com/seanpm2001-SourceForge/) |
+| 07 | [`Seanpm2001-Historian`](https://github.com/Seanpm2001-Historian/) |
+| 08 | [`Seanpm2001-Standards`](https://github.com/Seanpm2001-Standards/) |
+| 09 | [`Seanpm2001-UNIX`](https://github.com/Seanpm2001-UNIX/) |
+| 10 | [`Seanpm2001-IDE`](https://github.com/Seanpm2001-IDE/) |
 
 </details>
 
@@ -296,9 +296,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `04 (Friday, 2022 April 15th at 10:43 pm PST)`
+**File version:** `05 (Friday, 2022 April 22nd at 4:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `328`
+**Line count (including blank lines and compiler line):** `343`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -325,3 +325,18 @@ You have reached the end of this file.
 </details>
 
 ***
+
+<!-- Template
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+!-->
