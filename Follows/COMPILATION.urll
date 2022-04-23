@@ -1,10 +1,12 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 April 28th (19 days)
+-- Range: 2022 March 21st to 2022 April 22nd (32 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (841)
+-- Organizations ran by @seanpm2001 (861)
+
+-- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
 https://github.com/seanpm2001-software
 https://github.com/Seanpm2001-TOML-lang
@@ -819,8 +821,28 @@ https://github.com/Pen-People
 https://github.com/Phoneticut
 https://github.com/DeciCube
 https://github.com/SlideXMagic
+https://github.com/Project-Aquarius
+https://github.com/AquariOS-dev
+https://github.com/The-Bandwidth-Band
+https://github.com/SNU-Update-Log
+https://github.com/SNU-Developer-Log
+https://github.com/DeciCube-Concept
+https://github.com/SlideXMagic-LIBrary
+https://github.com/r-seanpm2001
+https://github.com/Desklocker
+https://github.com/PetLand-Software
+https://github.com/Seanpm2001-WHATWG
+https://github.com/Seanpm2001-Vexillology
+https://github.com/Seanpm2001-Linting
+https://github.com/Seanpm2001-GitLab
+https://github.com/seanpm2001-BitBucket
+https://github.com/seanpm2001-SourceForge
+https://github.com/Seanpm2001-Historian
+https://github.com/Seanpm2001-Standards
+https://github.com/Seanpm2001-UNIX
+https://github.com/Seanpm2001-IDE
 
--- Organizations NOT ran by @seanpm2001 (299)
+-- Organizations NOT ran by @seanpm2001 (309)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1121,13 +1143,23 @@ https://github.com/lua
 https://github.com/ppy
 https://github.com/ProtonMail
 https://github.com/Perl
+https://github.com/diaspora
+https://github.com/veg
+https://github.com/catseye
+https://github.com/w3c
+https://github.com/brightsign/
+https://github.com/AquariOS
+https://github.com/AquariOS-backup
+https://github.com/AOSiP
+https://github.com/pinterest
+https://github.com/snapframework
 
--- Statistcs (as of 2022, Friday, April 8th)
+-- Statistcs (as of 2022, Friday, April 22nd)
 -- Total 
--- Run by @seanpm2001: 841
--- Not run by @seanpm2001 : 299
--- Overall total: 1,140
--- Ratio: 73.77%/26.23%
+-- Run by @seanpm2001: 861
+-- Not run by @seanpm2001 : 309
+-- Overall total: 1,170
+-- Ratio: 73.59%/26.41%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2550,7 +2582,8 @@ https://github.com/Perl
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/diaspora
+https://github.com/veg
 
 -- 2022 April 11th
 
@@ -2570,7 +2603,8 @@ https://github.com/Perl
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/catseye
+https://github.com/w3c
 
 -- 2022 April 13th
 
@@ -2596,11 +2630,20 @@ https://github.com/Perl
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Project-Aquarius
+https://github.com/AquariOS-dev
+https://github.com/The-Bandwidth-Band
+https://github.com/SNU-Update-Log
+https://github.com/SNU-Developer-Log
+https://github.com/DeciCube-Concept
+https://github.com/SlideXMagic-LIBrary
+https://github.com/r-seanpm2001
+https://github.com/Desklocker
+https://github.com/PetLand-Software
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/brightsign/
 
 -- 2022 April 16th
 
@@ -2610,7 +2653,9 @@ https://github.com/Perl
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/AquariOS
+https://github.com/AquariOS-backup
+https://github.com/AOSiP
 
 -- 2022 April 17th
 
@@ -2650,7 +2695,7 @@ https://github.com/Perl
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/pinterest
 
 -- 2022 April 21st
 
@@ -2666,11 +2711,20 @@ https://github.com/Perl
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Seanpm2001-WHATWG
+https://github.com/Seanpm2001-Vexillology
+https://github.com/Seanpm2001-Linting
+https://github.com/Seanpm2001-GitLab
+https://github.com/seanpm2001-BitBucket
+https://github.com/seanpm2001-SourceForge
+https://github.com/Seanpm2001-Historian
+https://github.com/Seanpm2001-Standards
+https://github.com/Seanpm2001-UNIX
+https://github.com/Seanpm2001-IDE
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/snapframework
 
 -- 2022 April 23rd
 
@@ -2753,7 +2807,7 @@ https://github.com/Perl
 -- None
 
 -- File info
--- File version: 15 (2022, Saturday, April 9th at 4:14 pm PST)
+-- File version: 16 (2022, Friday, April 22nd at 9:23 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,760
+-- Line count (including blank lines and compiler line): 2,814
 -- EOF (End of File)
