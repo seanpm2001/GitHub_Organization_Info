@@ -448,7 +448,9 @@ The ratio for today was 10:1(11:89)
 
 [Click/tap here to see the follow log for 2022 April 9th](/Follows/2022/April/09/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 9th !-->
 
@@ -458,7 +460,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 10th](/Follows/2022/April/10/)
 
-Coming soon.
+I followed 2 organizations today, but did not update the main organization follow log.
+
+The ratio for today was 2:0(2:98)
 
 </details> <!-- April 10th !-->
 
@@ -468,7 +472,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 11th](/Follows/2022/April/11/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 11th !-->
 
@@ -478,7 +484,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 12th](/Follows/2022/April/12/)
 
-Coming soon.
+I followed 2 organizations today, but did not update the main organization follow log.
+
+The ratio for today was 2:0(2:98)
 
 </details> <!-- April 12th !-->
 
@@ -488,7 +496,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 13th](/Follows/2022/April/13/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 13th !-->
 
@@ -498,7 +508,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 14th](/Follows/2022/April/14/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 14th !-->
 
@@ -508,7 +520,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 15th](/Follows/2022/April/15/)
 
-Coming soon.
+Today was the day I created organizations, and partially documented it. I followed 11 organizations today, but did not update the main organization follow log. Of the 11 follows, only 1 didn't belong to me.
+
+The ratio for today was 10:1(11:89)
 
 </details> <!-- April 15th !-->
 
@@ -518,7 +532,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 16th](/Follows/2022/April/16/)
 
-Coming soon.
+I followed 3 organizations today, but did not update the main organization follow log.
+
+The ratio for today was 3:0(3:97)
 
 </details> <!-- April 16th !-->
 
@@ -528,7 +544,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 17th](/Follows/2022/April/17/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 17th !-->
 
@@ -538,7 +556,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 18th](/Follows/2022/April/18/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 18th !-->
 
@@ -548,7 +568,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 19th](/Follows/2022/April/19/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 19th !-->
 
@@ -558,7 +580,10 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 20th](/Follows/2022/April/20/)
 
-Coming soon.
+I only followed 1 organization today, but did not update the main organization follow log.
+
+The ratio for today was 1:0(1:99)
+
 
 </details> <!-- April 20th !-->
 
@@ -568,7 +593,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 21st](/Follows/2022/April/21/)
 
-Coming soon.
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 21st !-->
 
@@ -578,7 +605,9 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 22nd](/Follows/2022/April/22/)
 
-Coming soon.
+I updated my organization follow log again today, after a 13 day hiatus. It was difficult catching back up, as today was also the day I document and create organization projects.
+
+I followed 11 organizations today. Todays ratio was 10:1(11:89)
 
 </details> <!-- April 22nd !-->
 
@@ -934,11 +963,17 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 15
 
-**V16 (Coming soon)**  
+**V16 (2022, Friday, April 22nd at 9:38 pm PST)**
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 April 9th to 2022 April 22nd (I fell really far behind)
 
 - [ ] No other changes in version 16
 
@@ -1054,6 +1089,22 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 30
 
+**V31 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 31
+
+**V32 (Coming soon)**  
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 32
+
 </details>
 
 ***
@@ -1064,9 +1115,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Saturday, April 9th at 4:28 pm PST)`
+**File version:** `16 (2022, Friday, April 22nd at 9:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,096`
+**Line count (including blank lines and compiler line):** `1,147`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
