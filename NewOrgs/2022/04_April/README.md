@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, April.
 
 ( [<-- `Go back to 2022 March`](/NewOrgs/2022/03_March/README.md) | [`Current (2022 April)`](/NewOrgs/2022/04_April/) | [ --> Continue to `2022 May (coming soon)`](/NewOrgs/2022/05_May/README.md) )
 
-**This list was last updated on:** `Friday, 2022 April 22nd at 4:10 pm PST`
+**This list was last updated on:** `Friday, 2022 April 29th at 4:08 pm PST`
 
 ### Index
 
@@ -263,16 +263,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Seanpm2001-Religion`](https://github.com/Seanpm2001-Religion/) |
+| 02 | [`Seanpm2001-TempleOS`](https://github.com/Seanpm2001-TempleOS/) |
+| 03 | [`Seanpm2001-Addons`](https://github.com/Seanpm2001-Addons/) |
+| 04 | [`Seanpm2001-Plugins`](https://github.com/Seanpm2001-Plugins/) |
+| 05 | [`Seanpm2001-Wikimedia`](https://github.com/Seanpm2001-WikiMedia/) |
+| 06 | [`Seanpm2001-History`](https://github.com/Seanpm2001-History/) |
+| 07 | [`Seanpm2001-SDK`](https://github.com/Seanpm2001-SDK/) |
+| 08 | [`Kotlint-dev`](https://github.com/Kotlint-dev/) |
+| 09 | [`Seanpm2001-API`](https://github.com/Seanpm2001-API/) |
+| 10 | [`AcroSlideX`](https://github.com/AcroSlideX/) |
 
 </details>
 
@@ -296,7 +296,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `05 (Friday, 2022 April 22nd at 4:10 pm PST)`
+**File version:** `06 (Friday, 2022 April 29th at 4:08 pm PST)`
 
 **Line count (including blank lines and compiler line):** `343`
 
