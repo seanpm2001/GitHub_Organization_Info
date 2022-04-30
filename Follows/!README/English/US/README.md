@@ -130,6 +130,70 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 > > > [01.0.1.4.30 - 2022 April 30th](#2022-April-30th)
 
+> > [01.0.1.5 - 2022 May](#2022-May)
+
+> > > [01.0.1.5.01 - 2022 May 1st](#2022-May-1st)
+
+> > > [01.0.1.5.02 - 2022 May 2nd](#2022-May-2nd)
+
+> > > [01.0.1.5.03 - 2022 May 3rd](#2022-May-3rd)
+
+> > > [01.0.1.5.04 - 2022 May 4th](#2022-May-4th)
+
+> > > [01.0.1.5.05 - 2022 May 5th](#2022-May-5th)
+
+> > > [01.0.1.5.06 - 2022 May 6th](#2022-May-6th)
+
+> > > [01.0.1.5.07 - 2022 May 7th](#2022-May-7th)
+
+> > > [01.0.1.5.08 - 2022 May 8th](#2022-May-8th)
+
+> > > [01.0.1.5.09 - 2022 May 9th](#2022-May-9th)
+
+> > > [01.0.1.5.10 - 2022 May 10th](#2022-May-10th)
+
+> > > [01.0.1.5.11 - 2022 May 11th](#2022-May-11th)
+
+> > > [01.0.1.5.12 - 2022 May 12th](#2022-May-12th)
+
+> > > [01.0.1.5.13 - 2022 May 13th](#2022-May-13th)
+
+> > > [01.0.1.5.14 - 2022 May 14th](#2022-May-14th)
+
+> > > [01.0.1.5.15 - 2022 May 15th](#2022-May-15th)
+
+> > > [01.0.1.5.16 - 2022 May 16th](#2022-May-16th)
+
+> > > [01.0.1.5.17 - 2022 May 17th](#2022-May-17th)
+
+> > > [01.0.1.5.18 - 2022 May 18th](#2022-May-18th)
+
+> > > [01.0.1.5.19 - 2022 May 19th](#2022-May-19th)
+
+> > > [01.0.1.5.20 - 2022 May 20th](#2022-May-20th)
+
+> > > [01.0.1.5.21 - 2022 May 21st](#2022-May-21st)
+
+> > > [01.0.1.5.22 - 2022 May 22nd](#2022-May-22nd)
+
+> > > [01.0.1.5.23 - 2022 May 23rd](#2022-May-23rd)
+
+> > > [01.0.1.5.24 - 2022 May 24th](#2022-May-24th)
+
+> > > [01.0.1.5.25 - 2022 May 25th](#2022-May-25th)
+
+> > > [01.0.1.5.26 - 2022 May 26th](#2022-May-26th)
+
+> > > [01.0.1.5.27 - 2022 May 27th](#2022-May-27th)
+
+> > > [01.0.1.5.28 - 2022 May 28th](#2022-May-28th)
+
+> > > [01.0.1.5.29 - 2022 May 29th](#2022-May-29th)
+
+> > > [01.0.1.5.30 - 2022 May 30th](#2022-May-30th)
+
+> > > [01.0.1.5.31 - 2022 May 31st](#2022-May-31st)
+
 [02.0 - Core components](#Core-components)
 
 > [02.0.1 - COMPILATION.urll](#compilationurll)
@@ -448,6 +512,8 @@ The ratio for today was 10:1(11:89)
 
 [Click/tap here to see the follow log for 2022 April 9th](/Follows/2022/April/09/)
 
+**Day 19**
+
 I didn't follow any organizations today.
 
 The ratio for today was 0:0
@@ -459,6 +525,8 @@ The ratio for today was 0:0
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 10th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 10th](/Follows/2022/April/10/)
+
+**Day 20**
 
 I followed 2 organizations today, but did not update the main organization follow log.
 
@@ -472,6 +540,8 @@ The ratio for today was 2:0(2:98)
 
 [Click/tap here to see the follow log for 2022 April 11th](/Follows/2022/April/11/)
 
+**Day 21**
+
 I didn't follow any organizations today.
 
 The ratio for today was 0:0
@@ -483,6 +553,8 @@ The ratio for today was 0:0
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 12th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 12th](/Follows/2022/April/12/)
+
+**Day 22**
 
 I followed 2 organizations today, but did not update the main organization follow log.
 
@@ -496,6 +568,8 @@ The ratio for today was 2:0(2:98)
 
 [Click/tap here to see the follow log for 2022 April 13th](/Follows/2022/April/13/)
 
+**Day 23**
+
 I didn't follow any organizations today.
 
 The ratio for today was 0:0
@@ -507,6 +581,8 @@ The ratio for today was 0:0
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 14th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 14th](/Follows/2022/April/14/)
+
+**Day 24**
 
 I didn't follow any organizations today.
 
@@ -520,6 +596,8 @@ The ratio for today was 0:0
 
 [Click/tap here to see the follow log for 2022 April 15th](/Follows/2022/April/15/)
 
+**Day 25**
+
 Today was the day I created organizations, and partially documented it. I followed 11 organizations today, but did not update the main organization follow log. Of the 11 follows, only 1 didn't belong to me.
 
 The ratio for today was 10:1(11:89)
@@ -531,6 +609,8 @@ The ratio for today was 10:1(11:89)
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 16th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 16th](/Follows/2022/April/16/)
+
+**Day 26**
 
 I followed 3 organizations today, but did not update the main organization follow log.
 
@@ -544,6 +624,8 @@ The ratio for today was 3:0(3:97)
 
 [Click/tap here to see the follow log for 2022 April 17th](/Follows/2022/April/17/)
 
+**Day 27**
+
 I didn't follow any organizations today.
 
 The ratio for today was 0:0
@@ -555,6 +637,8 @@ The ratio for today was 0:0
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 18th entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 18th](/Follows/2022/April/18/)
+
+**Day 28**
 
 I didn't follow any organizations today.
 
@@ -568,6 +652,8 @@ The ratio for today was 0:0
 
 [Click/tap here to see the follow log for 2022 April 19th](/Follows/2022/April/19/)
 
+**Day 29**
+
 I didn't follow any organizations today.
 
 The ratio for today was 0:0
@@ -580,10 +666,11 @@ The ratio for today was 0:0
 
 [Click/tap here to see the follow log for 2022 April 20th](/Follows/2022/April/20/)
 
+**Day 30**
+
 I only followed 1 organization today, but did not update the main organization follow log.
 
 The ratio for today was 1:0(1:99)
-
 
 </details> <!-- April 20th !-->
 
@@ -592,6 +679,8 @@ The ratio for today was 1:0(1:99)
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 April 21st entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 April 21st](/Follows/2022/April/21/)
+
+**Day 31**
 
 I didn't follow any organizations today.
 
@@ -605,6 +694,8 @@ The ratio for today was 0:0
 
 [Click/tap here to see the follow log for 2022 April 22nd](/Follows/2022/April/22/)
 
+**Day 32**
+
 I updated my organization follow log again today, after a 13 day hiatus. It was difficult catching back up, as today was also the day I document and create organization projects.
 
 I followed 11 organizations today. Todays ratio was 10:1(11:89)
@@ -617,7 +708,11 @@ I followed 11 organizations today. Todays ratio was 10:1(11:89)
 
 [Click/tap here to see the follow log for 2022 April 23rd](/Follows/2022/April/23/)
 
-Coming soon.
+**Day 33**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 23rd !-->
 
@@ -627,7 +722,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 24th](/Follows/2022/April/24/)
 
-Coming soon.
+**Day 34**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 24th !-->
 
@@ -637,7 +736,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 25th](/Follows/2022/April/25/)
 
-Coming soon.
+**Day 35**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 25th !-->
 
@@ -647,7 +750,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 26th](/Follows/2022/April/26/)
 
-Coming soon.
+**Day 36**
+
+I followed 4 external organizations today, and updated the organization follow blog log.
+
+The ratio for today was 4:0(4:96)
 
 </details> <!-- April 26th !-->
 
@@ -657,7 +764,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 27th](/Follows/2022/April/27/)
 
-Coming soon.
+**Day 37**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 27th !-->
 
@@ -667,7 +778,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 28th](/Follows/2022/April/28/)
 
-Coming soon.
+**Day 38**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 28th !-->
 
@@ -677,7 +792,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 April 29th](/Follows/2022/April/29/)
 
-Coming soon.
+**Day 39**
+
+I did a big remodel to my organization follow blog log today, and added 15 new entries. This was the day of the week where I create new organizations.
+
+The ratio for today was 10:5(15:85)
 
 </details> <!-- April 29th !-->
 
@@ -692,6 +811,318 @@ Coming soon.
 </details> <!-- April 30th !-->
 
 </details> <!-- 2022 April !-->
+
+##### May 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 1st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 1st](/Follows/2022/May/01/)
+
+Coming soon
+
+</details> <!-- May 1st !-->
+
+##### May 2nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 2nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 2nd](/Follows/2022/May/02/)
+
+Comng soon
+
+</details> <!-- May 2nd !-->
+
+##### May 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 3rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 3rd](/Follows/2022/May/03/)
+
+Coming soon.
+
+</details> <!-- May 3rd !-->
+
+##### May 4th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 4th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 4th](/Follows/2022/May/04/)
+
+Coming soon.
+
+</details> <!-- May 4th !-->
+
+##### May 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 5th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 5th](/Follows/2022/May/05/)
+
+Coming soon.
+
+</details> <!-- May 5th !-->
+
+##### May 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 6th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 6th](/Follows/2022/May/06/)
+
+Coming soon.
+
+</details> <!-- May 6th !-->
+
+##### May 7th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 7th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 7th](/Follows/2022/May/07/)
+
+Coming soon.
+
+</details> <!-- May 7th !-->
+
+##### May 8th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 8th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 8th](/Follows/2022/May/08/)
+
+Coming soon.
+
+</details> <!-- May 8th !-->
+
+##### May 9th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 9th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 9th](/Follows/2022/May/09/)
+
+Coming soon.
+
+</details> <!-- May 9th !-->
+
+##### May 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 10th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 10th](/Follows/2022/May/10/)
+
+Coming soon.
+
+</details> <!-- May 10th !-->
+
+##### May 11th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 11th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 11th](/Follows/2022/May/11/)
+
+Coming soon.
+
+</details> <!-- May 11th !-->
+
+##### May 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 12th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 12th](/Follows/2022/May/12/)
+
+Coming soon.
+
+</details> <!-- May 12th !-->
+
+##### May 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 13th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 13th](/Follows/2022/May/13/)
+
+Coming soon.
+
+</details> <!-- May 13th !-->
+
+##### May 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 14th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 14th](/Follows/2022/May/14/)
+
+Coming soon.
+
+</details> <!-- May 14th !-->
+
+##### May 15th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 15th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 15th](/Follows/2022/May/15/)
+
+Coming soon.
+
+</details> <!-- May 15th !-->
+
+##### May 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 16th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 16th](/Follows/2022/May/16/)
+
+Coming soon.
+
+</details> <!-- May 16th !-->
+
+##### May 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 17th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 17th](/Follows/2022/May/17/)
+
+Coming soon.
+
+</details> <!-- May 17th !-->
+
+##### May 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 18th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 18th](/Follows/2022/May/18/)
+
+Coming soon.
+
+</details> <!-- May 18th !-->
+
+##### May 19th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 19th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 19th](/Follows/2022/May/19/)
+
+Coming soon.
+
+</details> <!-- May 19th !-->
+
+##### May 20th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 20th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 20th](/Follows/2022/May/20/)
+
+Coming soon.
+
+</details> <!-- May 20th !-->
+
+##### May 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 21st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 21st](/Follows/2022/May/21/)
+
+Coming soon.
+
+</details> <!-- May 21st !-->
+
+##### May 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 22nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 22nd](/Follows/2022/May/22/)
+
+Coming soon.
+
+</details> <!-- May 22nd !-->
+
+##### May 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 23rd](/Follows/2022/May/23/)
+
+Coming soon.
+
+</details> <!-- May 23rd !-->
+
+##### May 24th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 24th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 24th](/Follows/2022/May/24/)
+
+Coming soon.
+
+</details> <!-- May 24th !-->
+
+##### May 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 25th](/Follows/2022/May/25/)
+
+Coming soon.
+
+</details> <!-- May 25th !-->
+
+##### May 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 26th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 26th](/Follows/2022/May/26/)
+
+Coming soon.
+
+</details> <!-- May 26th !-->
+
+##### May 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 27th](/Follows/2022/May/27/)
+
+Coming soon.
+
+</details> <!-- May 27th !-->
+
+##### May 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 28th](/Follows/2022/May/28/)
+
+Coming soon.
+
+</details> <!-- May 28th !-->
+
+##### May 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 29th](/Follows/2022/May/29/)
+
+Coming soon.
+
+</details> <!-- May 29th !-->
+
+##### May 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 30th](/Follows/2022/May/30/)
+
+Coming soon.
+
+</details> <!-- May 30th !-->
+
+##### May 31st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 May 31st](/Follows/2022/May/31/)
+
+Coming soon.
+
+</details> <!-- May 31st !-->
+
+</details> <!-- 2022 May !-->
 
 </details> <!-- 2022 !-->
 
@@ -719,7 +1150,7 @@ The compilation file contains a link of every organization I have ever followed.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the change log section</b></p></summary>
 
-**V1 (2022, Monday, March 21st at 8:18 pm PST)**
+<details><summary><b>V1 (2022, Monday, March 21st at 8:18 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -735,7 +1166,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 1
 
-**V2 (2022, Tuesday, March 22nd at 8:25 pm PST)**
+</details>
+
+<details><summary><b>V2 (2022, Tuesday, March 22nd at 8:25 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -753,7 +1186,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 2
 
-**V3 (2022, Wednesday, March 23rd at 7:57 pm PST)**  
+</details>
+
+<details><summary><b>V3 (2022, Wednesday, March 23rd at 7:57 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -773,7 +1208,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 3
 
-**V4 (2022, Wednesday, March 23rd at 8:28 pm PST)**  
+</details>
+
+<details><summary><b>V4 (2022, Wednesday, March 23rd at 8:28 pm PST)</b></summary>  
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -789,7 +1226,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 4
 
-**V5 (2022, Thursday, March 24th at 3:17 pm PST)**  
+</details>
+
+<details><summary><b>V5 (2022, Thursday, March 24th at 3:17 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -805,7 +1244,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 5
 
-**V6 (2022, Friday, March 25th at 6:36 pm PST)**  
+</details>
+
+<details><summary><b>V6 (2022, Friday, March 25th at 6:36 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -821,7 +1262,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 6
 
-**V7 (2022, Saturday, March 26th at 5:31 pm PST)**  
+</details>
+
+<details><summary><b>V7 (2022, Saturday, March 26th at 5:31 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -843,7 +1286,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 7
 
-**V8 (2022, Sunday, March 27th at 5:50 pm PST)**  
+</details>
+
+<details><summary><b>V8 (2022, Sunday, March 27th at 5:50 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -859,7 +1304,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 8
 
-**V9 (2022, Monday, March 28th at 3:35 pm PST)**  
+</details>
+
+<details><summary><b>V9 (2022, Monday, March 28th at 3:35 pm PST)</b></summary>  
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -873,7 +1320,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 9
 
-**V10 (2022, Tuesday, March 29th at 4:30 pm PST)**  
+</details>
+
+<details><summary><b>V10 (2022, Tuesday, March 29th at 4:30 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -887,7 +1336,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 10
 
-**V11 (2022, Wednesday, March 30th at 4:25 pm PST)**  
+</details>
+
+<details><summary><b>V11 (2022, Wednesday, March 30th at 4:25 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -901,7 +1352,9 @@ The compilation file contains a link of every organization I have ever followed.
 
 - [ ] No other changes in version 11
 
-**V12 (2022, Thursday, March 31st at 7:23 pm PST)**  
+</details>
+
+<details><summary><b>V12 (2022, Thursday, March 31st at 7:23 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -917,7 +1370,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 12
 
-**V13 (2022, Friday, April 1st at 7:45 pm PST)**  
+</details>
+
+<details><summary><b>V13 (2022, Friday, April 1st at 7:45 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -931,7 +1386,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 13
 
-**V14 (2022, Saturday, April 2nd at 10:52 pm PST)**  
+</details>
+
+<details><summary><b>V14 (2022, Saturday, April 2nd at 10:52 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -949,7 +1406,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 14
 
-**V15 (2022, Saturday, April 9th at 4:28 pm PST)**  
+</details>
+
+<details><summary><b>V15 (2022, Saturday, April 9th at 4:28 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -963,7 +1422,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 15
 
-**V16 (2022, Friday, April 22nd at 9:38 pm PST)**
+</details>
+
+<details><summary><b>V16 (2022, Friday, April 22nd at 9:38 pm PST)</b></summary>
 
 ***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
@@ -977,15 +1438,37 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 16
 
-**V17 (Coming soon)**  
+</details>
+
+<details><summary><b>V17 (2022, Friday, April 29th at 5:30 pm PST)</b></summary>
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Added the 2022 May section
+
+- [x] Added a monthly template (source code comments only)
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- - [x] Converted all logs into dropdown logs
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 April 23rd to 2022 April 29th
+
+- [x] Added day counters from 2022 April 9th to 2022 April 29th
 
 - [ ] No other changes in version 17
 
-**V18 (Coming soon)**  
+</details>
+
+<details><summary><b>V18 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -993,7 +1476,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 18
 
-**V19 (Coming soon)**  
+</details>
+
+<details><summary><b>V19 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1001,7 +1486,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 19
 
-**V20 (Coming soon)**  
+</details>
+
+<details><summary><b>V20 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1009,7 +1496,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 20
 
-**V21 (Coming soon)**  
+</details>
+
+<details><summary><b>V21 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1017,7 +1506,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 21
 
-**V22 (Coming soon)**  
+</details>
+
+<details><summary><b>V22 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1025,7 +1516,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 22
 
-**V23 (Coming soon)**  
+</details>
+
+<details><summary><b>V23 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1033,7 +1526,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 23
 
-**V24 (Coming soon)**  
+</details>
+
+<details><summary><b>V24 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1041,7 +1536,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 24
 
-**V25 (Coming soon)**  
+</details>
+
+<details><summary><b>V25 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1049,7 +1546,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 25
 
-**V26 (Coming soon)**  
+</details>
+
+<details><summary><b>V26 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1057,7 +1556,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 26
 
-**V27 (Coming soon)**  
+</details>
+
+<details><summary><b>V27 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1065,7 +1566,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 27
 
-**V28 (Coming soon)**  
+</details>
+
+<details><summary><b>V28 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1073,7 +1576,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 28
 
-**V29 (Coming soon)**  
+</details>
+
+<details><summary><b>V29 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1081,7 +1586,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 29
 
-**V30 (Coming soon)**  
+</details>
+
+<details><summary><b>V30 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1089,7 +1596,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 30
 
-**V31 (Coming soon)**  
+</details>
+
+<details><summary><b>V31 (Coming soon)</b></summary>
 
 **Changes:**
 
@@ -1097,13 +1606,37 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 - [ ] No other changes in version 31
 
-**V32 (Coming soon)**  
+</details>
+
+<details><summary><b>V32 (Coming soon)</b></summary>
 
 **Changes:**
 
 - [ ] Coming soon
 
 - [ ] No other changes in version 32
+
+</details>
+
+<details><summary><b>V33 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 33
+
+</details>
+
+<details><summary><b>V34 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 34
+
+</details>
 
 </details>
 
@@ -1115,9 +1648,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Friday, April 22nd at 9:38 pm PST)`
+**File version:** `17 (2022, Friday, April 29th at 5:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,147`
+**Line count (including blank lines and compiler line):** `1,996`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1144,3 +1677,319 @@ You have reached the end of this file.
 </details>
 
 ***
+
+<!-- Monthly template (2022) !-->
+
+Monthly template (2022) unable to comment out, without defeating the purpose.
+
+##### Month 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 1st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 1st](/Follows/2022/Month/01/)
+
+Coming soon
+
+</details> <!-- Month 1st !-->
+
+##### Month 2nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 2nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 2nd](/Follows/2022/Month/02/)
+
+Comng soon
+
+</details> <!-- Month 2nd !-->
+
+##### Month 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 3rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 3rd](/Follows/2022/Month/03/)
+
+Coming soon.
+
+</details> <!-- Month 3rd !-->
+
+##### Month 4th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 4th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 4th](/Follows/2022/Month/04/)
+
+Coming soon.
+
+</details> <!-- Month 4th !-->
+
+##### Month 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 5th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 5th](/Follows/2022/Month/05/)
+
+Coming soon.
+
+</details> <!-- Month 5th !-->
+
+##### Month 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 6th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 6th](/Follows/2022/Month/06/)
+
+Coming soon.
+
+</details> <!-- Month 6th !-->
+
+##### Month 7th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 7th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 7th](/Follows/2022/Month/07/)
+
+Coming soon.
+
+</details> <!-- Month 7th !-->
+
+##### Month 8th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 8th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 8th](/Follows/2022/Month/08/)
+
+Coming soon.
+
+</details> <!-- Month 8th !-->
+
+##### Month 9th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 9th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 9th](/Follows/2022/Month/09/)
+
+Coming soon.
+
+</details> <!-- Month 9th !-->
+
+##### Month 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 10th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 10th](/Follows/2022/Month/10/)
+
+Coming soon.
+
+</details> <!-- Month 10th !-->
+
+##### Month 11th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 11th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 11th](/Follows/2022/Month/11/)
+
+Coming soon.
+
+</details> <!-- Month 11th !-->
+
+##### Month 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 12th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 12th](/Follows/2022/Month/12/)
+
+Coming soon.
+
+</details> <!-- Month 12th !-->
+
+##### Month 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 13th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 13th](/Follows/2022/Month/13/)
+
+Coming soon.
+
+</details> <!-- Month 13th !-->
+
+##### Month 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 14th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 14th](/Follows/2022/Month/14/)
+
+Coming soon.
+
+</details> <!-- Month 14th !-->
+
+##### Month 15th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 15th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 15th](/Follows/2022/Month/15/)
+
+Coming soon.
+
+</details> <!-- Month 15th !-->
+
+##### Month 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 16th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 16th](/Follows/2022/Month/16/)
+
+Coming soon.
+
+</details> <!-- Month 16th !-->
+
+##### Month 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 17th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 17th](/Follows/2022/Month/17/)
+
+Coming soon.
+
+</details> <!-- Month 17th !-->
+
+##### Month 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 18th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 18th](/Follows/2022/Month/18/)
+
+Coming soon.
+
+</details> <!-- Month 18th !-->
+
+##### Month 19th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 19th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 19th](/Follows/2022/Month/19/)
+
+Coming soon.
+
+</details> <!-- Month 19th !-->
+
+##### Month 20th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 20th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 20th](/Follows/2022/Month/20/)
+
+Coming soon.
+
+</details> <!-- Month 20th !-->
+
+##### Month 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 21st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 21st](/Follows/2022/Month/21/)
+
+Coming soon.
+
+</details> <!-- Month 21st !-->
+
+##### Month 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 22nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 22nd](/Follows/2022/Month/22/)
+
+Coming soon.
+
+</details> <!-- Month 22nd !-->
+
+##### Month 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 23rd](/Follows/2022/Month/23/)
+
+Coming soon.
+
+</details> <!-- Month 23rd !-->
+
+##### Month 24th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 24th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 24th](/Follows/2022/Month/24/)
+
+Coming soon.
+
+</details> <!-- Month 24th !-->
+
+##### Month 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 25th](/Follows/2022/Month/25/)
+
+Coming soon.
+
+</details> <!-- Month 25th !-->
+
+##### Month 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 26th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 26th](/Follows/2022/Month/26/)
+
+Coming soon.
+
+</details> <!-- Month 26th !-->
+
+##### Month 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 27th](/Follows/2022/Month/27/)
+
+Coming soon.
+
+</details> <!-- Month 27th !-->
+
+##### Month 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 28th](/Follows/2022/Month/28/)
+
+Coming soon.
+
+</details> <!-- Month 28th !-->
+
+##### Month 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 29th](/Follows/2022/Month/29/)
+
+Coming soon.
+
+</details> <!-- Month 29th !-->
+
+##### Month 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 30th](/Follows/2022/Month/30/)
+
+Coming soon.
+
+</details> <!-- Month 30th !-->
+
+##### Month 31st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 Month 31st](/Follows/2022/Month/31/)
+
+Coming soon.
+
+</details> <!-- Month 31st !-->
+
+</details> <!-- 2022 Month !-->
