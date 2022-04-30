@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 April 22nd (32 days)
+-- Range: 2022 March 21st to 2022 April 29th (39 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (861)
+-- Organizations ran by @seanpm2001 (871)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -841,8 +841,18 @@ https://github.com/Seanpm2001-Historian
 https://github.com/Seanpm2001-Standards
 https://github.com/Seanpm2001-UNIX
 https://github.com/Seanpm2001-IDE
+https://github.com/Seanpm2001-Religion
+https://github.com/Seanpm2001-TempleOS
+https://github.com/Seanpm2001-Addons
+https://github.com/Seanpm2001-Plugins
+https://github.com/Seanpm2001-WikiMedia
+https://github.com/Seanpm2001-History
+https://github.com/Seanpm2001-SDK
+https://github.com/Kotlint-dev
+https://github.com/Seanpm2001-API
+https://github.com/AcroSlideX
 
--- Organizations NOT ran by @seanpm2001 (309)
+-- Organizations NOT ran by @seanpm2001 (318)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1153,13 +1163,22 @@ https://github.com/AquariOS-backup
 https://github.com/AOSiP
 https://github.com/pinterest
 https://github.com/snapframework
+https://github.com/id-software
+https://github.com/tpf
+https://github.com/vim-syntastic
+https://github.com/licenses
+https://github.com/learn-anything
+https://github.com/ClickHouse
+https://github.com/turnoffthelights
+https://github.com/spdx
+https://github.com/clld
 
 -- Statistcs (as of 2022, Friday, April 22nd)
 -- Total 
--- Run by @seanpm2001: 861
--- Not run by @seanpm2001 : 309
--- Overall total: 1,170
--- Ratio: 73.59%/26.41%
+-- Run by @seanpm2001: 871
+-- Not run by @seanpm2001: 318
+-- Overall total: 1,189
+-- Ratio: 73.25%/26.75%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2764,7 +2783,10 @@ https://github.com/snapframework
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/id-software
+https://github.com/tpf
+https://github.com/vim-syntastic
+https://github.com/licenses
 
 -- 2022 April 27th
 
@@ -2790,11 +2812,24 @@ https://github.com/snapframework
 
 -- @seanpm2001 organizations
 
--- None
+https://github.com/Seanpm2001-Religion
+https://github.com/Seanpm2001-TempleOS
+https://github.com/Seanpm2001-Addons
+https://github.com/Seanpm2001-Plugins
+https://github.com/Seanpm2001-WikiMedia
+https://github.com/Seanpm2001-History
+https://github.com/Seanpm2001-SDK
+https://github.com/Kotlint-dev
+https://github.com/Seanpm2001-API
+https://github.com/AcroSlideX
 
 -- Non-@seanpm2001 organizations
 
--- None
+https://github.com/learn-anything
+https://github.com/ClickHouse
+https://github.com/turnoffthelights
+https://github.com/spdx
+https://github.com/clld
 
 -- 2022 April 30th
 
@@ -2807,7 +2842,7 @@ https://github.com/snapframework
 -- None
 
 -- File info
--- File version: 16 (2022, Friday, April 22nd at 9:23 pm PST)
+-- File version: 17 (2022, Friday, April 29th at 5:40 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,814
+-- Line count (including blank lines and compiler line): 2,849
 -- EOF (End of File)
