@@ -806,7 +806,11 @@ The ratio for today was 10:5(15:85)
 
 [Click/tap here to see the follow log for 2022 April 30th](/Follows/2022/April/30/)
 
-Coming soon.
+**Day 40**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- April 30th !-->
 
@@ -818,7 +822,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 1st](/Follows/2022/May/01/)
 
-Coming soon
+**Day 41**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 1st !-->
 
@@ -828,7 +836,11 @@ Coming soon
 
 [Click/tap here to see the follow log for 2022 May 2nd](/Follows/2022/May/02/)
 
-Comng soon
+**Day 42**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 2nd !-->
 
@@ -838,7 +850,11 @@ Comng soon
 
 [Click/tap here to see the follow log for 2022 May 3rd](/Follows/2022/May/03/)
 
-Coming soon.
+**Day 43**
+
+I came across 1 organization I originally forgot about (pallets) along with 2 new ones. They were followed today.
+
+The ratio for today was 0:3(3:97)
 
 </details> <!-- May 3rd !-->
 
@@ -848,7 +864,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 4th](/Follows/2022/May/04/)
 
-Coming soon.
+**Day 44**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 4th !-->
 
@@ -858,7 +878,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 5th](/Follows/2022/May/05/)
 
-Coming soon.
+**Day 45**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 5th !-->
 
@@ -868,7 +892,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 6th](/Follows/2022/May/06/)
 
-Coming soon.
+**Day 46**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today.
+
+The ratio for today was 10:0(10:90)
 
 </details> <!-- May 6th !-->
 
@@ -1114,7 +1142,7 @@ Coming soon.
 
 ##### May 31st
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 30th entry</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 31st entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 May 31st](/Follows/2022/May/31/)
 
@@ -1468,11 +1496,23 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V18 (Coming soon)</b></summary>
+<details><summary><b>V18 (2022, Friday, May 6th at 8:35 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- - [x] Converted all logs into dropdown logs
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 April 30th to 2022 May 6th
+
+- [x] Added day counters from 2022 April 30th to 2022 May 6th
 
 - [ ] No other changes in version 18
 
@@ -1638,6 +1678,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V35 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 35
+
+</details>
+
+<details><summary><b>V36 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 36
+
+</details>
+
 </details>
 
 ***
@@ -1648,9 +1708,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Friday, April 29th at 5:30 pm PST)`
+**File version:** `18 (2022, Friday, May 6th at 8:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,996`
+**Line count (including blank lines and compiler line):** `2,056`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1984,7 +2044,7 @@ Coming soon.
 
 ##### Month 31st
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 30th entry</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 Month 31st entry</b></p></summary>
 
 [Click/tap here to see the follow log for 2022 Month 31st](/Follows/2022/Month/31/)
 
