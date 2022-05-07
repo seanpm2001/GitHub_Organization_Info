@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 April 29th (39 days)
+-- Range: 2022 March 21st to 2022 May 6th (46 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (871)
+-- Organizations ran by @seanpm2001 (881)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -851,8 +851,18 @@ https://github.com/Seanpm2001-SDK
 https://github.com/Kotlint-dev
 https://github.com/Seanpm2001-API
 https://github.com/AcroSlideX
+https://github.com/SNU-Package-Manager
+https://github.com/SNU-Snapchat-Mode
+https://github.com/SNU-TikTok-Mode
+https://github.com/TapPetHotelOpen
+https://github.com/AcroSlide
+https://github.com/Scarlet-Oven
+https://github.com/Seanpm2001-Engines
+https://github.com/Seanpm2001-3D-Printing
+https://github.com/Seanpm2001-Vim-License
+https://github.com/Seanpm2001-FileSystems
 
--- Organizations NOT ran by @seanpm2001 (318)
+-- Organizations NOT ran by @seanpm2001 (321)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1172,13 +1182,16 @@ https://github.com/ClickHouse
 https://github.com/turnoffthelights
 https://github.com/spdx
 https://github.com/clld
+https://github.com/NHSDigital
+https://github.com/pallets
+https://github.com/fink
 
--- Statistcs (as of 2022, Friday, April 22nd)
+-- Statistcs (as of 2022, Friday, May 6th)
 -- Total 
--- Run by @seanpm2001: 871
--- Not run by @seanpm2001: 318
--- Overall total: 1,189
--- Ratio: 73.25%/26.75%
+-- Run by @seanpm2001: 881
+-- Not run by @seanpm2001: 321
+-- Overall total: 1,202
+-- Ratio: 73.29%/26.71%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2841,8 +2854,79 @@ https://github.com/clld
 
 -- None
 
+-- 2022 May 1st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 2nd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 3rd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/NHSDigital
+https://github.com/pallets
+https://github.com/fink
+
+-- 2022 May 4th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 5th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 6th
+
+-- @seanpm2001 organizations
+
+https://github.com/SNU-Package-Manager
+https://github.com/SNU-Snapchat-Mode
+https://github.com/SNU-TikTok-Mode
+https://github.com/TapPetHotelOpen
+https://github.com/AcroSlide
+https://github.com/Scarlet-Oven
+https://github.com/Seanpm2001-Engines
+https://github.com/Seanpm2001-3D-Printing
+https://github.com/Seanpm2001-Vim-License
+https://github.com/Seanpm2001-FileSystems
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
 -- File info
--- File version: 17 (2022, Friday, April 29th at 5:40 pm PST)
+-- File version: 18 (2022, Friday, May 6th at 8:20 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,849
+-- Line count (including blank lines and compiler line): 2,933
 -- EOF (End of File)
