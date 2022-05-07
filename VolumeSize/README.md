@@ -21,6 +21,10 @@ V126 - Can still fit on a single DVD-ROM `4 GB`
 
 V126 - Can still fit on a single Blu-Ray Disc `250 GB`
 
+V133 - Can no longer fit on a 12 cm  `900 MB` CD-ROM without modification
+
+V139 - Now over 1.0 gigabytes in size
+
 Any version: Can still fit on a single HDD `up to 16 TB`
 
 Any version: Is able to fit on a Solid State Drive larger than `10 GB`
@@ -29,6 +33,6 @@ Any version: Will ALWAYS without ANY DOUBT be able to fit on even a microblock o
 
 ***
 
-**File version:** `2 (2022, Friday, February 25th at 10:47 pm`
+**File version:** `3 (2022, Friday, May 6th at 5:29 pm`
 
 ***
