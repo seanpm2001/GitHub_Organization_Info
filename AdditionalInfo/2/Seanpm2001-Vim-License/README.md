@@ -1,7 +1,7 @@
 
 ***
 
-![Vim_PixelArt_Opaque.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Vim-License/3Vim_PixelArt_Opaque.png)
+![Vim_PixelArt_Opaque.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Vim-License/Vim_PixelArt_Opaque.png)
 
 # GitHub organization: Seanpm2001-Vim-License
 
