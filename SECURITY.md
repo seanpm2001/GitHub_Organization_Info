@@ -152,9 +152,15 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.49B    | :x: | Old version, not supported |
 | v1.1.50A    | :x: | Old version, not supported |
 | v1.1.50B    | :x: | Old version, not supported |
-| v1.1.51A    | :heavy_check_mark: | Current version, supported |
-| v1.1.51B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.50B & > 2022 April 15th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.51A    | :x: | Old version, not supported |
+| v1.1.51B    | :x: | Old version, not supported |
+| v1.1.52A    | :x: | Old version, not supported |
+| v1.1.52B    | :x: | Old version, not supported |
+| v1.1.53A    | :x: | Old version, not supported |
+| v1.1.53B    | :x: | Old version, not supported |
+| v1.1.54A    | :heavy_check_mark: | Current version, supported |
+| v1.1.54B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.53B & > 2022 May 5th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -190,9 +196,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Sunday, April 17th at 10:53 pm PST)`
+**File version:** `12 (2022, Saturday, May 7th at 5:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `492`
+**Line count (including blank lines and compiler line):** `512`
 
 **Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -370,6 +376,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Version 11 (2022, Sunday April 17th at 10:53 pm PST)**
 
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Updated the version history section
@@ -380,11 +388,17 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 11
 
-**Version 12 (Coming soon)**
+**Version 12 (2022, Sunday, May 7th at 5:10 pm PST)**
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 12
 
@@ -467,6 +481,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 22
+
+**Version 23 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 23
+
+**Version 24 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 24
 
 </details>
 
