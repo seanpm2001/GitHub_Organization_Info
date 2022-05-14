@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 May 6th (46 days)
+-- Range: 2022 March 21st to 2022 May 13th (53 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (881)
+-- Organizations ran by @seanpm2001 (891)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -861,8 +861,18 @@ https://github.com/Seanpm2001-Engines
 https://github.com/Seanpm2001-3D-Printing
 https://github.com/Seanpm2001-Vim-License
 https://github.com/Seanpm2001-FileSystems
+https://github.com/SankOS-dev
+https://github.com/JScribe-dev
+https://github.com/BathHouseOS
+https://github.com/ThroneOS-dev
+https://github.com/UriOS-dev
+https://github.com/MaprilOS
+https://github.com/BathOS-dev
+https://github.com/BathHouseOS-ControlPanel
+https://github.com/Nuclear-Ad-Bombs-Specification
+https://github.com/StealthGeo-Font
 
--- Organizations NOT ran by @seanpm2001 (321)
+-- Organizations NOT ran by @seanpm2001 (334)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1185,13 +1195,26 @@ https://github.com/clld
 https://github.com/NHSDigital
 https://github.com/pallets
 https://github.com/fink
+https://github.com/girlscript
+https://github.com/skyline-emu
+https://github.com/darlinghq
+https://github.com/gnustep
+https://github.com/9fans
+https://github.com/systemd
+https://github.com/recordmydesktop
+https://github.com/Xcode-Snippets
+https://github.com/GaloisInc
+https://github.com/aros-development-team
+https://github.com/aros-translation-team
+https://github.com/nytimes
+https://github.com/jscribe
 
--- Statistcs (as of 2022, Friday, May 6th)
+-- Statistcs (as of 2022, Friday, May 13th)
 -- Total 
--- Run by @seanpm2001: 881
--- Not run by @seanpm2001: 321
--- Overall total: 1,202
--- Ratio: 73.29%/26.71%
+-- Run by @seanpm2001: 891
+-- Not run by @seanpm2001: 334
+-- Overall total: 1,225
+-- Ratio: 72.73%/27.27%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -2925,8 +2948,100 @@ https://github.com/Seanpm2001-FileSystems
 
 -- None
 
+-- 2022 May 7th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 8th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 9th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/girlscript
+https://github.com/skyline-emu
+https://github.com/darlinghq
+https://github.com/gnustep
+https://github.com/9fans
+https://github.com/systemd
+https://github.com/recordmydesktop
+
+-- 2022 May 10th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 11th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 12th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/Xcode-Snippets
+https://github.com/GaloisInc
+https://github.com/aros-development-team
+https://github.com/aros-translation-team
+https://github.com/nytimes
+https://github.com/jscribe
+
+-- 2022 May 13th
+
+-- @seanpm2001 organizations
+
+https://github.com/SankOS-dev
+https://github.com/JScribe-dev
+https://github.com/BathHouseOS
+https://github.com/ThroneOS-dev
+https://github.com/UriOS-dev
+https://github.com/MaprilOS
+https://github.com/BathOS-dev
+https://github.com/BathHouseOS-ControlPanel
+https://github.com/Nuclear-Ad-Bombs-Specification
+https://github.com/StealthGeo-Font
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
+
 -- File info
--- File version: 18 (2022, Friday, May 6th at 8:20 pm PST)
+-- File version: 20 (2022, Saturday, May 14th at 4:36 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 2,933
+-- Line count (including blank lines and compiler line): 3,048
 -- EOF (End of File)
