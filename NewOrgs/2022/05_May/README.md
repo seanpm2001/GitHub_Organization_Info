@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, May.
 
 ( [<-- `Go back to 2022 April`](/NewOrgs/2022/04_April/README.md) | [`Current (2022 May)`](/NewOrgs/2022/05_May/) | [ --> Continue to `2022 June (coming soon)`](/NewOrgs/2022/06_June/README.md) )
 
-**This list was last updated on:** `Friday, 2022 May 6th at 5:13 pm PST`
+**This list was last updated on:** `Friday, 2022 May 13th at 7:21 pm PST`
 
 ### Index
 
@@ -154,16 +154,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`SankOS-dev`](https://github.com/SankOS-dev/) |
+| 02 | [`JScribe-dev`](https://github.com/JScribe-dev/) |
+| 03 | [`BathHouseOS`](https://github.com/BathHouseOS/) |
+| 04 | [`ThroneOS-dev`](https://github.com/ThroneOS-dev/) |
+| 05 | [`UriOS-dev`](https://github.com/UriOS-dev/) |
+| 06 | [`MaprilOS`](https://github.com/MaprilOS/) |
+| 07 | [`BathOS-dev`](https://github.com/BathOS-dev/) |
+| 08 | [`BathHouseOS-ControlPanel`](https://github.com/BathHouseOS-ControlPanel/) |
+| 09 | [`Nuclear-ad-bombs-specification`](https://github.com/Nuclear-Ad-Bombs-Specification/) |
+| 10 | [`StealthGeo-Font`](https://github.com/StealthGeo-Font/) |
 
 </details>
 
@@ -279,7 +279,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `01 (Friday, 2022 May 6th at 5:13 pm PST)`
+**File version:** `02 (Friday, 2022 May 13th at 7:21 pm PST)`
 
 **Line count (including blank lines and compiler line):** `326`
 
