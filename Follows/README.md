@@ -906,7 +906,11 @@ The ratio for today was 10:0(10:90)
 
 [Click/tap here to see the follow log for 2022 May 7th](/Follows/2022/May/07/)
 
-Coming soon.
+**Day 47**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 7th !-->
 
@@ -916,7 +920,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 8th](/Follows/2022/May/08/)
 
-Coming soon.
+**Day 48**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 8th !-->
 
@@ -926,7 +934,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 9th](/Follows/2022/May/09/)
 
-Coming soon.
+**Day 49**
+
+I followed 7 external organizations today.
+
+The ratio for today was 0:7(7:93)
 
 </details> <!-- May 9th !-->
 
@@ -936,7 +948,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 10th](/Follows/2022/May/10/)
 
-Coming soon.
+**Day 50**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 10th !-->
 
@@ -946,7 +962,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 11th](/Follows/2022/May/11/)
 
-Coming soon.
+**Day 51**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0
 
 </details> <!-- May 11th !-->
 
@@ -956,7 +976,13 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 12th](/Follows/2022/May/12/)
 
-Coming soon.
+**Day 52**
+
+I followed some organizations and users in preparation for tomorrow.
+
+The ratio for today was 0:6(6:94)
+
+The ratio for today was 0:0
 
 </details> <!-- May 12th !-->
 
@@ -966,7 +992,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 13th](/Follows/2022/May/13/)
 
-Coming soon.
+**Day 53**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today.
+
+The ratio for today was 10:0(10:90)
 
 </details> <!-- May 13th !-->
 
@@ -1518,11 +1548,23 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V19 (Coming soon)</b></summary>
+<details><summary><b>V19 (2022, Saturday, May 14th at 4:51 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 May 7th to 2022 May 13th
+
+- [x] Added day counters from 2022 May 7th to 2022 May 13th
+
+- [x] Converted the 2022 monthly template section into a dropdown comment block
 
 - [ ] No other changes in version 19
 
@@ -1698,6 +1740,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V37 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 37
+
+</details>
+
+<details><summary><b>V38 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 38
+
+</details>
+
 </details>
 
 ***
@@ -1708,9 +1770,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2022, Friday, May 6th at 8:35 pm PST)`
+**File version:** `19 (2022, Saturday, May 14th at 4:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,056`
+**Line count (including blank lines and compiler line):** `2,126`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1738,6 +1800,9 @@ You have reached the end of this file.
 
 ***
 
+<details><summary><p lang="en">Click/tap here to expand/collapse the 2022 monthly template</p></summary>
+
+```markdown
 <!-- Monthly template (2022) !-->
 
 Monthly template (2022) unable to comment out, without defeating the purpose.
@@ -2053,3 +2118,8 @@ Coming soon.
 </details> <!-- Month 31st !-->
 
 </details> <!-- 2022 Month !-->
+```
+
+</details>
+
+***
