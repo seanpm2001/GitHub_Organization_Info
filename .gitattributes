@@ -5,6 +5,10 @@
 # .gitattributes
 # and nothing else, no characters before, no characters after
 # Start of linguist script
+# Plain Text
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+*.txt linguist-language=plain-text
 # YAML
 *.yml linguist-detectable=true
 *.yml linguist-documentation=false
@@ -20,6 +24,14 @@
 *.urll linguist-detectable=true
 *.urll linguist-documentation=false
 *.urll linguist-language=URLL
+# URL
+*.url linguist-detectable=true
+*.url linguist-documentation=false
+*.url linguist-language=URL
+# Citation File Format (CFF)
+*.cff linguist-detectable=false
+*.cff linguist-documentation=false
+*.cff linguist-language=Citation-File-Format
 # ReStructuredText
 *.rst linguist-detectable=false
 *.rst linguist-documentation=false
@@ -76,6 +88,9 @@
 *.gemspec linguist-detectable=true
 *.gemspec linguist-documentation=false
 *.gemspec linguist-language=Ruby
+*.deps linguist-detectable=true
+*.deps linguist-documentation=false
+*.deps linguist-language=Ruby
 # HTML
 *.htm linguist-detectable=false
 *.htm linguist-documentation=false
@@ -126,6 +141,9 @@
 *.gitignore linguist-detectable=true
 *.gitignore linguist-documentation=false
 *.gitignore linguist-language=Gitignore
+*.gitmodules linguist-detectable=true
+*.gitmodules linguist-documentation=false
+*.gitmodules linguist-language=Gitmodules
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
@@ -143,6 +161,7 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Saturday, May 14th at 6:30 pm PST)
-# Line count (including blank lines and compiler line): 149
+# File version: 5 (2022, Saturday, May 14th at 7:01 pm PST)
+# I am still sprucing up this file. I keep forgetting to add things, so this is my 3rd update here today. Hopefully I don't have to make a 4th update today.
+# Line count (including blank lines and compiler line): 168
 # End of script
