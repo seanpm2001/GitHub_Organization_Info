@@ -8,54 +8,114 @@
 # YAML
 *.yml linguist-detectable=true
 *.yml linguist-documentation=false
+*.yml linguist-language=YAML
 *.yaml linguist-detectable=true
 *.yaml linguist-documentation=false
+*.yaml linguist-language=YAML
 # CSV (Comma Separated Values)
 *.csv linguist-detectable=true
 *.csv linguist-documentation=false
+*.csv linguist-language=CSV
+# URLL
+*.urll linguist-detectable=true
+*.urll linguist-documentation=false
+*.urll linguist-language=URLL
+# INI
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
+*.ini linguist-language=INI
+# Desktop
+*.desktop linguist-detectable=true
+*.desktop linguist-documentation=false
+*.desktop linguist-language=desktop
+# BibTeX
+*.bib linguist-detectable=true
+*.bib linguist-documentation=false
+*.bib linguist-language=BibTeX
+# TeX
+*.tex linguist-detectable=true
+*.tex linguist-documentation=false
+*.tex linguist-language=TeX
 # Ruby
 *.rb linguist-detectable=true
 *.rb linguist-documentation=false
+*.rb linguist-language=Ruby
+*.rake linguist-detectable=true
+*.rake linguist-documentation=false
+*.rake linguist-language=Ruby
+*.gem linguist-detectable=true
+*.gem linguist-documentation=false
+*.gem linguist-language=Ruby
+*.gemspec linguist-detectable=true
+*.gemspec linguist-documentation=false
+*.gemspec linguist-language=Ruby
 # HTML
 *.htm linguist-detectable=false
 *.htm linguist-documentation=false
+*.htm linguist-language=HTML
 *.html linguist-detectable=false
 *.html linguist-documentation=false
+*.html linguist-language=HTML
 *.mhtm linguist-detectable=false
 *.mhtm linguist-documentation=false
+*.mhtm linguist-language=HTML
 *.mhtml linguist-detectable=false
 *.mhtml linguist-documentation=false
+*.mhtm linguist-language=HTML
 *.xhtm linguist-detectable=false
 *.xhtm linguist-documentation=false
+*.xhtm linguist-language=HTML
 *.xhtml linguist-detectable=false
 *.xhtml linguist-documentation=false
+*.xhtml linguist-language=HTML
 # XML
 *.xml linguist-detectable=false
 *.xml linguist-documentation=false
+*.xml linguist-language=XML
 # SVG
 *.svg linguist-detectable=false
 *.svg linguist-documentation=false
+*.svg linguist-language=SVG
 # Makefile
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
-# Git (experimental)
+*.mk linguist-language=Makefile
+*.mak linguist-detectable=true
+*.mak linguist-documentation=false
+*.mak linguist-language=Makefile
+*.make linguist-detectable=true
+*.make linguist-documentation=false
+*.make linguist-language=Makefile
+*.makefile linguist-detectable=true
+*.makefile linguist-documentation=false
+*.makefile linguist-language=Makefile
+# Git
 *.editorconfig linguist-detectable=true
 *.editorconfig linguist-documentation=false
+*.editorconfig linguist-language=Editorconfig
 *.gitattributes linguist-detectable=true
 *.gitattributes linguist-documentation=false
+*.gitattributes linguist-language=Gitattributes
 *.gitignore linguist-detectable=true
 *.gitignore linguist-documentation=false
+*.gitignore linguist-language=Gitignore
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.md linguist-language=Markdown
 *.mkd linguist-detectable=false
 *.mkd linguist-documentation=false
+*.mkd linguist-language=Markdown
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.mdown linguist-language=Markdown
 *.markdown linguist-detectable=false
 *.markdown linguist-documentation=false
+*.markdown linguist-language=Markdown
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 2 (Sunday, 2021 September 5th at 3:09 pm)
-# Line count (including blank lines and compiler line): 62
+# File version: 3 (2022, Saturday, May 14th at 6:20 pm PST)
+# Line count (including blank lines and compiler line): 122
 # End of script
