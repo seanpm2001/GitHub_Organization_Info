@@ -20,6 +20,33 @@
 *.urll linguist-detectable=true
 *.urll linguist-documentation=false
 *.urll linguist-language=URLL
+# ReStructuredText
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+*.rst linguist-language=reStructuredText
+# MediaWiki WikiText
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
+*.wiki linguist-language=Wikitext
+# JSON (JavaScript Object Notation)
+*.json linguist-detectable=false
+*.json linguist-documentation=false
+*.json linguist-language=JSON
+# PNG
+*.png linguist-detectable=false
+*.png linguist-documentation=false
+*.png linguist-language=PNG
+# GIF
+*.gif linguist-detectable=false
+*.gif linguist-documentation=false
+*.gif linguist-language=GIF
+# JPG/JPEG
+*.jpg linguist-detectable=false
+*.jpg linguist-documentation=false
+*.jpg linguist-language=JPG
+*.jpeg linguist-detectable=false
+*.jpeg linguist-documentation=false
+*.jpeg linguist-language=JPEG
 # INI
 *.ini linguist-detectable=true
 *.ini linguist-documentation=false
@@ -116,6 +143,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (2022, Saturday, May 14th at 6:20 pm PST)
-# Line count (including blank lines and compiler line): 122
+# File version: 4 (2022, Saturday, May 14th at 6:30 pm PST)
+# Line count (including blank lines and compiler line): 149
 # End of script
