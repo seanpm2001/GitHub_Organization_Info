@@ -11,7 +11,7 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the rasterized logo for this project</b></summary>
 
-![Facebook_Logo1.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Facebook/Facebook_Logo1.jpeg)
+![FacebookLogo.jpeg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-Facebook/FacebookLogo.jpeg)
 
 </details>
 
