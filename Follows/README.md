@@ -982,8 +982,6 @@ I followed some organizations and users in preparation for tomorrow.
 
 The ratio for today was 0:6(6:94)
 
-The ratio for today was 0:0
-
 </details> <!-- May 12th !-->
 
 ##### May 13th
@@ -1006,7 +1004,11 @@ The ratio for today was 10:0(10:90)
 
 [Click/tap here to see the follow log for 2022 May 14th](/Follows/2022/May/14/)
 
-Coming soon.
+**Day 54**
+
+I followed some organizations and users today from project discovery.
+
+The ratio for today was 3:0(3:97)
 
 </details> <!-- May 14th !-->
 
@@ -1016,7 +1018,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 15th](/Follows/2022/May/15/)
 
-Coming soon.
+**Day 55**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 15th !-->
 
@@ -1026,7 +1032,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 16th](/Follows/2022/May/16/)
 
-Coming soon.
+**Day 56**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 16th !-->
 
@@ -1036,7 +1046,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 17th](/Follows/2022/May/17/)
 
-Coming soon.
+**Day 57**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 17th !-->
 
@@ -1046,7 +1060,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 18th](/Follows/2022/May/18/)
 
-Coming soon.
+**Day 58**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 18th !-->
 
@@ -1056,7 +1074,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 19th](/Follows/2022/May/19/)
 
-Coming soon.
+**Day 59**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 19th !-->
 
@@ -1066,7 +1088,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 20th](/Follows/2022/May/20/)
 
-Coming soon.
+**Day 60**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today. I also followed 2 in addition from project discovery.
+
+The ratio for today was 10:2(12:88)
 
 </details> <!-- May 20th !-->
 
@@ -1528,6 +1554,8 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 <details><summary><b>V18 (2022, Friday, May 6th at 8:35 pm PST)</b></summary>
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Updated the index
@@ -1550,6 +1578,8 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 <details><summary><b>V19 (2022, Saturday, May 14th at 4:51 pm PST)</b></summary>
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Updated the index
@@ -1570,11 +1600,21 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V20 (Coming soon)</b></summary>
+<details><summary><b>V20 (2022, Friday, May 20th at 8:45 pm PST)</b></summary>
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 May 14th to 2022 May 20th
 
 - [ ] No other changes in version 20
 
@@ -1760,6 +1800,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V39 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 39
+
+</details>
+
+<details><summary><b>V40 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 40
+
+</details>
+
 </details>
 
 ***
@@ -1770,9 +1830,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2022, Saturday, May 14th at 4:51 pm PST)`
+**File version:** `20 (2022, Friday, May 20th at 8:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,126`
+**Line count (including blank lines and compiler line):** `2,186`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
