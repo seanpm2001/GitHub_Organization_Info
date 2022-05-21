@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 May 13th (53 days)
+-- Range: 2022 March 21st to 2022 May 20th (60 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (891)
+-- Organizations ran by @seanpm2001 (901)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -871,8 +871,18 @@ https://github.com/BathOS-dev
 https://github.com/BathHouseOS-ControlPanel
 https://github.com/Nuclear-Ad-Bombs-Specification
 https://github.com/StealthGeo-Font
+https://github.com/Seanpm2001-Archives
+https://github.com/Seanpm2001-Legacy
+https://github.com/Seanpm2001-VirtualBox
+https://github.com/Seanpm2001-Encryption
+https://github.com/Seanpm2001-Sandbox
+https://github.com/Seanpm2001-IBM
+https://github.com/Seanpm2001-MS-DOS
+https://github.com/Seanpm2001-Facebook
+https://github.com/360Desktop
+https://github.com/VLCSV
 
--- Organizations NOT ran by @seanpm2001 (334)
+-- Organizations NOT ran by @seanpm2001 (339)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1208,13 +1218,18 @@ https://github.com/aros-development-team
 https://github.com/aros-translation-team
 https://github.com/nytimes
 https://github.com/jscribe
+https://github.com/readthedocs
+https://github.com/TheOdinProject
+https://github.com/getpelican
+https://github.com/rubygems
+https://github.com/PCGamingWiki
 
--- Statistcs (as of 2022, Friday, May 13th)
+-- Statistcs (as of 2022, Friday, May 20th)
 -- Total 
--- Run by @seanpm2001: 891
--- Not run by @seanpm2001: 334
--- Overall total: 1,225
--- Ratio: 72.73%/27.27%
+-- Run by @seanpm2001: 901
+-- Not run by @seanpm2001: 340
+-- Overall total: 1,241
+-- Ratio: 72.60%/27.40%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -3038,10 +3053,92 @@ https://github.com/StealthGeo-Font
 
 -- None
 
+-- 2022 May 14th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/readthedocs
+https://github.com/TheOdinProject
+https://github.com/getpelican
+
+-- 2022 May 15th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 16th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 17th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 18th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 19th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 20th
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-Archives
+https://github.com/Seanpm2001-Legacy
+https://github.com/Seanpm2001-VirtualBox
+https://github.com/Seanpm2001-Encryption
+https://github.com/Seanpm2001-Sandbox
+https://github.com/Seanpm2001-IBM
+https://github.com/Seanpm2001-MS-DOS
+https://github.com/Seanpm2001-Facebook
+https://github.com/360Desktop
+https://github.com/VLCSV
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/rubygems
+https://github.com/PCGamingWiki
+
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 20 (2022, Saturday, May 14th at 4:36 pm PST)
+-- File version: 21 (2022, Friday, May 20th at 8:31 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,048
+-- Line count (including blank lines and compiler line): 3,145
 -- EOF (End of File)
