@@ -12,7 +12,9 @@ This document will go over how to navigate this project.
 [AdditionalInfo](/AdditionalInfo/) - This directory houses separate pages, containing information for every organization owned by @seanpm2001. It is divided into groups of 500, although 2 currently aren't documented, as they can't be found.
 
 > [1](/AdditionalInfo/1/) - Houses organizations 1-500
+
 > [2](/AdditionalInfo/2/) - Houses organizations 501-1000
+
 > [3](/AdditionalInfo/3/) - Houses organizations 1001-1500
 
 [CSV](/CSV/) - This directory houses a searchable CSV (Comma Separated Values) database of all organizations. As of 2022, Saturday, May 21st, it has fallen a bit out of date, but it still includes info on over 800 organizations
@@ -71,6 +73,12 @@ Key terms for this area are:
 
 [.github_Repo](/.github_Repo/) - This directory is not to be confused with [.github](/.github) this directory houses information in the seanpm2001 [`.gitHub`](https://github.com/seanpm2001/.github/) repository 
 
+[Docs](/Docs/) - This directory holds key documentation for the project. This markdown document assumes you are already in the docs, unless you moved the file.
+
+The docs is separate from the Wiki. The docs are the place to start, the Wiki supplements it.
+
+Why not merge the Wiki into the docs? I like having a Wiki.
+
 [External](/External/) - This directory houses external data for this project, which includes:
 
 - [x] Release information
@@ -121,9 +129,9 @@ Key terms for this area are:
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, May 21st at 5:21 pm PST)`
+**File version:** `2 (2022, Sunday, May 22nd at 2:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `139`
+**Line count (including blank lines and compiler line):** `147`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
