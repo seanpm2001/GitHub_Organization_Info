@@ -1,13 +1,13 @@
 
 ***
 
-<details><summary><b lang="en">Click/tap here to expand/collapse the vectorized logo for this project</b></summary>
+<details open><summary><b lang="en">Click/tap here to expand/collapse the vectorized logo for this project</b></summary>
 
-![OpenStreetMap logo 2011.svg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-OpenStreetMap/OpenStreetMap logo 2011.svg)
+![OpenStreetMap logo 2011.svg failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-OpenStreetMap/OpenStreetMap%20logo%202011.svg)
 
 </details>
 
-<details open><summary><b lang="en">Click/tap here to expand/collapse the rasterized logo for this project</b></summary>
+<details><summary><b lang="en">Click/tap here to expand/collapse the rasterized logo for this project</b></summary>
 
 ![1024px-Public-images-osm_logo.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/Seanpm2001-OpenStreetMap/1024px-Public-images-osm_logo.png)
 
@@ -50,5 +50,17 @@ The development organization (GitHub) for OSM lies [`here`](https://github.com/o
 <!--
 There is no current home repository for this project.
 !-->
+
+***
+
+## File info
+
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `2 (2022, Friday, May 27th at 6:07 pm PST)`
+
+**Line count (including blank lines and compiler line):** `67`
+
+**Article language:** `English (US)`
 
 ***
