@@ -1102,6 +1102,12 @@ The ratio for today was 10:2(12:88)
 
 [Click/tap here to see the follow log for 2022 May 21st](/Follows/2022/May/21/)
 
+**Day 61**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
+
 Coming soon.
 
 </details> <!-- May 21st !-->
@@ -1112,7 +1118,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 22nd](/Follows/2022/May/22/)
 
-Coming soon.
+**Day 62**
+
+I followed a couple organizations I discovered at random today.
+
+The ratio today was 0:2(2:98)
 
 </details> <!-- May 22nd !-->
 
@@ -1122,7 +1132,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 23rd](/Follows/2022/May/23/)
 
-Coming soon.
+**Day 63**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 23rd !-->
 
@@ -1132,7 +1146,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 24th](/Follows/2022/May/24/)
 
-Coming soon.
+**Day 64**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 24th !-->
 
@@ -1142,7 +1160,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 25th](/Follows/2022/May/25/)
 
-Coming soon.
+**Day 65**
+
+I followed a couple organizations I discovered at random today.
+
+The ratio today was 0:2(2:98)
 
 </details> <!-- May 25th !-->
 
@@ -1152,7 +1174,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 26th](/Follows/2022/May/26/)
 
-Coming soon.
+**Day 66**
+
+I followed several organizations I discovered at random today.
+
+The ratio today was 0:6(6:94)
 
 </details> <!-- May 26th !-->
 
@@ -1162,7 +1188,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 May 27th](/Follows/2022/May/27/)
 
-Coming soon.
+**Day 67**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today. I also followed 8 in addition from project discovery.
+
+The ratio for today was 10:8(18:82)
 
 </details> <!-- May 27th !-->
 
@@ -1620,11 +1650,19 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V21 (Coming soon)</b></summary>
+<details><summary><b>V21 (2022, Friday, May 27th at 9:27 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 May 21st to 2022 May 27th
 
 - [ ] No other changes in version 21
 
@@ -1820,6 +1858,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V41 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 41
+
+</details>
+
+<details><summary><b>V42 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 42
+
+</details>
+
 </details>
 
 ***
@@ -1830,9 +1888,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Friday, May 20th at 8:45 pm PST)`
+**File version:** `21 (2022, Friday, May 27th at 9:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,186`
+**Line count (including blank lines and compiler line):** `2,244`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
