@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, May.
 
 ( [<-- `Go back to 2022 April`](/NewOrgs/2022/04_April/README.md) | [`Current (2022 May)`](/NewOrgs/2022/05_May/) | [ --> Continue to `2022 June (coming soon)`](/NewOrgs/2022/06_June/README.md) )
 
-**This list was last updated on:** `Friday, 2022 May 20th at 6:00 pm PST`
+**This list was last updated on:** `Friday, 2022 May 27th at 5:51 pm PST`
 
 ### Index
 
@@ -244,16 +244,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Seanpm2001-OpenStreetMap`](https://github.com/Seanpm2001-OpenStreetMap/) |
+| 02 | [`Seanpm2001-Actions`](https://github.com/Seanpm2001-Actions/) |
+| 03 | [`Seanpm2001-3D`](https://github.com/Seanpm2001-3D/) |
+| 04 | [`Seanpm2001-Vim`](https://github.com/Seanpm2001-Vim/) |
+| 05 | [`Seanpm2001-Dual-Licensed`](https://github.com/Seanpm2001-Dual-Licensed/) |
+| 06 | [`Seanpm2001-Coverage`](https://github.com/Seanpm2001-Coverage/) |
+| 07 | [`Seanpm2001-Desktop-Environments`](https://github.com/Seanpm2001-Desktop-Environments/) |
+| 08 | [`Seanpm2001-Simulators`](https://github.com/Seanpm2001-Simulators/) |
+| 09 | [`Seanpm2001-VLC-Media-Player`](https://github.com/Seanpm2001-VLC-Media-Player/) |
+| 10 | [`Seanpm2001-VersionControl`](https://github.com/Seanpm2001-VersionControl/) |
 
 </details>
 
@@ -283,7 +283,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Friday, 2022 May 20th at 6:00 pm PST)`
+**File version:** `04 (Friday, 2022 May 27th at 5:51 pm PST)`
 
 **Line count (including blank lines and compiler line):** `330`
 
