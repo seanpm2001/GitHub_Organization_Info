@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 May 20th (60 days)
+-- Range: 2022 March 21st to 2022 May 27th (67 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (901)
+-- Organizations ran by @seanpm2001 (911)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -881,8 +881,18 @@ https://github.com/Seanpm2001-MS-DOS
 https://github.com/Seanpm2001-Facebook
 https://github.com/360Desktop
 https://github.com/VLCSV
+https://github.com/Seanpm2001-OpenStreetMap
+https://github.com/Seanpm2001-Actions
+https://github.com/Seanpm2001-3D
+https://github.com/Seanpm2001-Vim
+https://github.com/Seanpm2001-Dual-Licensed
+https://github.com/Seanpm2001-Coverage
+https://github.com/Seanpm2001-Desktop-Environments
+https://github.com/Seanpm2001-Simulators
+https://github.com/Seanpm2001-VLC-Media-Player
+https://github.com/Seanpm2001-VersionControl
 
--- Organizations NOT ran by @seanpm2001 (339)
+-- Organizations NOT ran by @seanpm2001 (357)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1223,13 +1233,31 @@ https://github.com/TheOdinProject
 https://github.com/getpelican
 https://github.com/rubygems
 https://github.com/PCGamingWiki
+https://github.com/SteamLUG
+https://github.com/SteamDatabase
+https://github.com/apple-oss-distributions
+https://github.com/blazeos
+https://github.com/Gamers-Against-Weed
+https://github.com/livecode
+https://github.com/onelang
+https://github.com/plantuml
+https://github.com/massgravel
+https://github.com/CodingTrain
+https://github.com/ManageIQ
+https://github.com/DefinitelyTyped
+https://github.com/openssl
+https://github.com/mercedes-benz
+https://github.com/hydro-project
+https://github.com/vercel
+https://github.com/redux-form
+https://github.com/openstreetmap
 
--- Statistcs (as of 2022, Friday, May 20th)
+-- Statistics (as of 2022, Friday, May 27th)
 -- Total 
--- Run by @seanpm2001: 901
--- Not run by @seanpm2001: 340
--- Overall total: 1,241
--- Ratio: 72.60%/27.40%
+-- Run by @seanpm2001: 911
+-- Not run by @seanpm2001: 357
+-- Overall total: 1,268
+-- Ratio: 71.85%/28.15%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -3135,10 +3163,103 @@ https://github.com/VLCSV
 https://github.com/rubygems
 https://github.com/PCGamingWiki
 
+-- 2022 May 21st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 22nd
+
+-- @seanpm2001 organizations
+
+https://github.com/SteamLUG
+https://github.com/SteamDatabase
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 23rd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 24th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 25th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/apple-oss-distributions
+https://github.com/blazeos
+
+-- 2022 May 26th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/Gamers-Against-Weed
+https://github.com/livecode
+https://github.com/onelang
+https://github.com/plantuml
+https://github.com/massgravel
+https://github.com/CodingTrain
+
+-- 2022 May 27th
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-OpenStreetMap
+https://github.com/Seanpm2001-Actions
+https://github.com/Seanpm2001-3D
+https://github.com/Seanpm2001-Vim
+https://github.com/Seanpm2001-Dual-Licensed
+https://github.com/Seanpm2001-Coverage
+https://github.com/Seanpm2001-Desktop-Environments
+https://github.com/Seanpm2001-Simulators
+https://github.com/Seanpm2001-VLC-Media-Player
+https://github.com/Seanpm2001-VersionControl
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/ManageIQ
+https://github.com/DefinitelyTyped
+https://github.com/openssl
+https://github.com/mercedes-benz
+https://github.com/hydro-project
+https://github.com/vercel
+https://github.com/redux-form
+https://github.com/openstreetmap
+
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 21 (2022, Friday, May 20th at 8:31 pm PST)
+-- File version: 21 (2022, Friday, May 27th at 9:16 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,145
+-- Line count (including blank lines and compiler line): 3,266
 -- EOF (End of File)
