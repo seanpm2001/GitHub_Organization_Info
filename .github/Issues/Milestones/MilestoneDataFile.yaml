@@ -1,21 +1,71 @@
 # Start of script
 # GitHub issues/milestone data file
-milestonedatafile: "v1 (Wednesday, June 30th 2021 at 3:25 pm)"
+milestonedatafile: "V2 (2022, Tuesday, May 30th at 5:30 pm PST)"
 # Divider
-# Milestone 1 data as of Wednesday, June 30th 2021
+# Milestone 1 data as of 2022, Tuesday, May 30th
 milestone1Title: "2021 Goals" 
 milestone1Description: "For the completion of 2021 goals."
 milestone1DueDate: null/false
-milestone1IssueCount: 2
+milestone1IssueCount: 6
 milestone1IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/3
 milestone1IssueLink2: https://github.com/seanpm2001/GitHub_Organization_Info/issues/16
+milestone1IssueLink3: https://github.com/seanpm2001/GitHub_Organization_Info/issues/144
+milestone1IssueLink4: https://github.com/seanpm2001/GitHub_Organization_Info/issues/165
+milestone1IssueLink5: https://github.com/seanpm2001/GitHub_Organization_Info/issues/166
+milestone1IssueLink6: https://github.com/seanpm2001/GitHub_Organization_Info/issues/167
 milestone1CompletePercentage: 0%
+milestone1URL: https://github.com/seanpm2001/GitHub_Organization_Info/milestone/1
 # Divider
-# Milestone 2 data as of Wednesday, June 30th 2021
+# Milestone 2 data as of 2022, Tuesday, May 30th
 milestone2Title: "The missing organizations"
 milestone2Description: "For finding and documenting the 2 missing organizations (missing as of June 13th 2021)"
 milestone2DueDate: null/false
 milestone2IssueCount: 1
 milestone2IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/2
 milestone2CompletePercentage: 0%
+milestone2URL: https://github.com/seanpm2001/GitHub_Organization_Info/milestone/1
+# Divider
+# Milestone 3 data as of 2022, Tuesday, May 30th
+Milestone3Title: "2022 Goals"
+Milestone3Description: "For the completion of 2022 goals."
+Milestone3DueDate: null/false
+Milestone3IssueCount: 1
+Milestone3IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/159
+Milestone3CompletePercentage: 0%
+Milestone3URL: https://github.com/seanpm2001/GitHub_Organization_Info/milestone/3
+# Divider
+# Milestone 4 data as of 2022, Tuesday, May 30th
+Milestone4Title: "MyGOI"
+Milestone4Description: "For issues related to the MyGOI software piece."
+Milestone4DueDate: null/false
+Milestone4IssueCount: 1
+Milestone4IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/160
+Milestone4CompletePercentage: 0%
+Milestone4URL: https://github.com/seanpm2001/GitHub_Organization_Info/milestone/4
+# Divider
+# Milestone 5 data as of 2022, Tuesday, May 30th
+Milestone5Title: "Maintenance"
+Milestone5Description: "For issues regarding maintenance."
+Milestone5DueDate: null/false
+Milestone5IssueCount: 2
+Milestone5IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/123
+Milestone5IssueLink2: https://github.com/seanpm2001/GitHub_Organization_Info/issues/137
+Milestone5CompletePercentage: 0%
+Milestone5URL: https://github.com/seanpm2001/GitHub_Organization_Info/milestone/5
+# Divider
+# Template
+Milestone#Title:
+Milestone#Description:
+Milestone#DueDate:
+Milestone#IssueCount:
+Milestone#IssueLink1:
+Milestone#CompletePercentage:
+Milestone#URL:
+# Divider
+
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File version: 2 (2022, Tuesday, May 30th at 5:30 pm PST)
+# Line count (including blank lines and compiler line): 72
+
 # End of script
