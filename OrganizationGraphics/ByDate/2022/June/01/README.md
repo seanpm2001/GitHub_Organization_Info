@@ -75,17 +75,17 @@ This is a start, but it won't help at all for the organization part of things. I
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-**Orgs created today:** `0` [`[View]`](/NewOrgs/2022/04_April/README.md#2022-may-31st)
+**Orgs created today:** `0` [`[View]`](/NewOrgs/2022/04_April/README.md#2022-june-1st)
 
-**Generated photos from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/May/31/Generated/)
+**Generated photos from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/June/01/Generated/)
 
-**New photos in use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/May/31/Used/)
+**New photos in use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/June/01/Used/)
 
-**New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/May/31/Unused/)
+**New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/June/01/Unused/)
 
-**Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/May/31/Unused/Project_Files/)
+**Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2022/June/01/Unused/Project_Files/)
 
-**Total image files:** `0` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2022/May/31/)
+**Total image files:** `0` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2022/June/01/)
 
 <!-- TODO
 NTS: If there are no project files for a week, don't remove the counter, just blank it (set it to 0)
@@ -101,7 +101,7 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, June 1st at 9:30 pm PST)`
+**File version:** `2 (2022, Wednesday, June 1st at 9:33 pm PST)`
 
 **Line count (including blank lines and compiler line):** `121`
 
