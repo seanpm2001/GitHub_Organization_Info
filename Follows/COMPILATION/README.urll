@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 May 27th (67 days)
+-- Range: 2022 March 21st to 2022 June 3rd (74 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (911)
+-- Organizations ran by @seanpm2001 (921)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -891,8 +891,18 @@ https://github.com/Seanpm2001-Desktop-Environments
 https://github.com/Seanpm2001-Simulators
 https://github.com/Seanpm2001-VLC-Media-Player
 https://github.com/Seanpm2001-VersionControl
+https://github.com/Seanpm2001-ProtonMail
+https://github.com/FORTRAN-Fortress
+https://github.com/Seanpm2001-Learn
+https://github.com/3D-Webpage-Inspector
+https://github.com/SNU-Lobby
+https://github.com/Seanpm2001-MediaWiki
+https://github.com/Seanpm2001-Mozilla-License
+https://github.com/Seanpm2001-Eclipse-License
+https://github.com/BlueCalm-Theme
+https://github.com/Seanpm2001-VideoLAN
 
--- Organizations NOT ran by @seanpm2001 (357)
+-- Organizations NOT ran by @seanpm2001 (363)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1251,13 +1261,19 @@ https://github.com/hydro-project
 https://github.com/vercel
 https://github.com/redux-form
 https://github.com/openstreetmap
+https://github.com/bitnami
+https://github.com/nrwl
+https://github.com/AutoHotkey
+https://github.com/ArchiveTeam
+https://github.com/googlefonts
+https://github.com/sddm
 
--- Statistics (as of 2022, Friday, May 27th)
+-- Statistics (as of 2022, Friday, June 3rd)
 -- Total 
--- Run by @seanpm2001: 911
--- Not run by @seanpm2001: 357
--- Overall total: 1,268
--- Ratio: 71.85%/28.15%
+-- Run by @seanpm2001: 921
+-- Not run by @seanpm2001: 363
+-- Overall total: 1,284
+-- Ratio: 71.73%/28.27%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -3256,10 +3272,92 @@ https://github.com/vercel
 https://github.com/redux-form
 https://github.com/openstreetmap
 
+-- 2022 May 28th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 29th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 May 30th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/bitnami
+https://github.com/nrwl
+
+-- 2022 May 31st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/AutoHotkey
+https://github.com/ArchiveTeam
+https://github.com/googlefonts
+
+-- 2022 June 1st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/sddm
+
+-- 2022 June 2nd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 3rd
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-ProtonMail
+https://github.com/FORTRAN-Fortress
+https://github.com/Seanpm2001-Learn
+https://github.com/3D-Webpage-Inspector
+https://github.com/SNU-Lobby
+https://github.com/Seanpm2001-MediaWiki
+https://github.com/Seanpm2001-Mozilla-License
+https://github.com/Seanpm2001-Eclipse-License
+https://github.com/BlueCalm-Theme
+https://github.com/Seanpm2001-VideoLAN
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 21 (2022, Friday, May 27th at 9:16 pm PST)
+-- File version: 22 (2022, Friday, June 3rd at 4:54 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,266
+-- Line count (including blank lines and compiler line): 3,364
 -- EOF (End of File)
