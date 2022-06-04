@@ -164,9 +164,11 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.55B    | :x: | Old version, not supported |
 | v1.1.56A    | :x: | Old version, not supported |
 | v1.1.56B    | :x: | Old version, not supported |
-| v1.1.57A    | :heavy_check_mark: | Current version, supported |
-| v1.1.57B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.56B & > 2022 May 26th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.57A    | :x: | Old version, not supported |
+| v1.1.57B    | :x: | Old version, not supported |
+| v1.1.58A    | :heavy_check_mark: | Current version, supported |
+| v1.1.58B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.57B & > 2022 June 2nd  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -202,9 +204,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Friday, May 27th at 10:35 pm PST)`
+**File version:** `16 (2022, Friday, June 3rd at 7:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `648`
+**Line count (including blank lines and compiler line):** `676`
 
 **Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -484,11 +486,17 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b lang="en">Version 16 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 16 (2022, Friday, June 3rd at 7:15 pm PST)</b></summary>
+
+**This version was made by:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 16
 
@@ -625,6 +633,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 </details>
 
 <details><summary><b lang="en">Version 30 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 30
+
+</details>
+
+<details><summary><b lang="en">Version 31 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 29
+
+</details>
+
+<details><summary><b lang="en">Version 32 (Coming soon)</b></summary>
 
 > Changes:
 
