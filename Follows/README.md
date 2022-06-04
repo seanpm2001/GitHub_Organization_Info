@@ -194,6 +194,68 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 > > > [01.0.1.5.31 - 2022 May 31st](#2022-May-31st)
 
+> > [01.0.1.6 - 2022 June](#2022-June)
+
+> > > [01.0.1.6.01 - 2022 June 1st](#2022-June-1st)
+
+> > > [01.0.1.6.02 - 2022 June 2nd](#2022-June-2nd)
+
+> > > [01.0.1.6.03 - 2022 June 3rd](#2022-June-3rd)
+
+> > > [01.0.1.6.04 - 2022 June 4th](#2022-June-4th)
+
+> > > [01.0.1.6.05 - 2022 June 5th](#2022-June-5th)
+
+> > > [01.0.1.6.06 - 2022 June 6th](#2022-June-6th)
+
+> > > [01.0.1.6.07 - 2022 June 7th](#2022-June-7th)
+
+> > > [01.0.1.6.08 - 2022 June 8th](#2022-June-8th)
+
+> > > [01.0.1.6.09 - 2022 June 9th](#2022-June-9th)
+
+> > > [01.0.1.6.10 - 2022 June 10th](#2022-June-10th)
+
+> > > [01.0.1.6.11 - 2022 June 11th](#2022-June-11th)
+
+> > > [01.0.1.6.12 - 2022 June 12th](#2022-June-12th)
+
+> > > [01.0.1.6.13 - 2022 June 13th](#2022-June-13th)
+
+> > > [01.0.1.6.14 - 2022 June 14th](#2022-June-14th)
+
+> > > [01.0.1.6.15 - 2022 June 15th](#2022-June-15th)
+
+> > > [01.0.1.6.16 - 2022 June 16th](#2022-June-16th)
+
+> > > [01.0.1.6.17 - 2022 June 17th](#2022-June-17th)
+
+> > > [01.0.1.6.18 - 2022 June 18th](#2022-June-18th)
+
+> > > [01.0.1.6.19 - 2022 June 19th](#2022-June-19th)
+
+> > > [01.0.1.6.20 - 2022 June 20th](#2022-June-20th)
+
+> > > [01.0.1.6.21 - 2022 June 21st](#2022-June-21st)
+
+> > > [01.0.1.6.22 - 2022 June 22nd](#2022-June-22nd)
+
+> > > [01.0.1.6.23 - 2022 June 23rd](#2022-June-23rd)
+
+> > > [01.0.1.6.24 - 2022 June 24th](#2022-June-24th)
+
+> > > [01.0.1.6.25 - 2022 June 25th](#2022-June-25th)
+
+> > > [01.0.1.6.26 - 2022 June 26th](#2022-June-26th)
+
+> > > [01.0.1.6.27 - 2022 June 27th](#2022-June-27th)
+
+> > > [01.0.1.6.28 - 2022 June 28th](#2022-June-28th)
+
+> > > [01.0.1.6.29 - 2022 June 29th](#2022-June-29th)
+
+> > > [01.0.1.6.30 - 2022 June 30th](#2022-June-30th)
+
 [02.0 - Core components](#Core-components)
 
 > [02.0.1 - COMPILATION.urll](#compilationurll)
@@ -820,7 +882,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 1st entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 1st](/Follows/2022/May/01/)
+[Click/tap here to see the follow log for 2022 May 1st](/Follows/2022/05_May/01/)
 
 **Day 41**
 
@@ -834,7 +896,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 2nd entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 2nd](/Follows/2022/May/02/)
+[Click/tap here to see the follow log for 2022 May 2nd](/Follows/2022/05_May/02/)
 
 **Day 42**
 
@@ -848,7 +910,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 3rd entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 3rd](/Follows/2022/May/03/)
+[Click/tap here to see the follow log for 2022 May 3rd](/Follows/2022/05_May/03/)
 
 **Day 43**
 
@@ -862,7 +924,7 @@ The ratio for today was 0:3(3:97)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 4th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 4th](/Follows/2022/May/04/)
+[Click/tap here to see the follow log for 2022 May 4th](/Follows/2022/05_May/04/)
 
 **Day 44**
 
@@ -876,7 +938,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 5th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 5th](/Follows/2022/May/05/)
+[Click/tap here to see the follow log for 2022 May 5th](/Follows/2022/05_May/05/)
 
 **Day 45**
 
@@ -890,7 +952,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 6th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 6th](/Follows/2022/May/06/)
+[Click/tap here to see the follow log for 2022 May 6th](/Follows/2022/05_May/06/)
 
 **Day 46**
 
@@ -904,7 +966,7 @@ The ratio for today was 10:0(10:90)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 7th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 7th](/Follows/2022/May/07/)
+[Click/tap here to see the follow log for 2022 May 7th](/Follows/2022/05_May/07/)
 
 **Day 47**
 
@@ -918,7 +980,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 8th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 8th](/Follows/2022/May/08/)
+[Click/tap here to see the follow log for 2022 May 8th](/Follows/2022/05_May/08/)
 
 **Day 48**
 
@@ -932,7 +994,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 9th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 9th](/Follows/2022/May/09/)
+[Click/tap here to see the follow log for 2022 May 9th](/Follows/2022/05_May/09/)
 
 **Day 49**
 
@@ -946,7 +1008,7 @@ The ratio for today was 0:7(7:93)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 10th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 10th](/Follows/2022/May/10/)
+[Click/tap here to see the follow log for 2022 May 10th](/Follows/2022/05_May/10/)
 
 **Day 50**
 
@@ -960,7 +1022,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 11th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 11th](/Follows/2022/May/11/)
+[Click/tap here to see the follow log for 2022 May 11th](/Follows/2022/05_May/11/)
 
 **Day 51**
 
@@ -974,7 +1036,7 @@ The ratio for today was 0:0
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 12th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 12th](/Follows/2022/May/12/)
+[Click/tap here to see the follow log for 2022 May 12th](/Follows/2022/05_May/12/)
 
 **Day 52**
 
@@ -988,7 +1050,7 @@ The ratio for today was 0:6(6:94)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 13th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 13th](/Follows/2022/May/13/)
+[Click/tap here to see the follow log for 2022 May 13th](/Follows/2022/05_May/13/)
 
 **Day 53**
 
@@ -1002,7 +1064,7 @@ The ratio for today was 10:0(10:90)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 14th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 14th](/Follows/2022/May/14/)
+[Click/tap here to see the follow log for 2022 May 14th](/Follows/2022/05_May/14/)
 
 **Day 54**
 
@@ -1016,7 +1078,7 @@ The ratio for today was 3:0(3:97)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 15th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 15th](/Follows/2022/May/15/)
+[Click/tap here to see the follow log for 2022 May 15th](/Follows/2022/05_May/15/)
 
 **Day 55**
 
@@ -1030,7 +1092,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 16th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 16th](/Follows/2022/May/16/)
+[Click/tap here to see the follow log for 2022 May 16th](/Follows/2022/05_May/16/)
 
 **Day 56**
 
@@ -1044,7 +1106,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 17th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 17th](/Follows/2022/May/17/)
+[Click/tap here to see the follow log for 2022 May 17th](/Follows/2022/05_May/17/)
 
 **Day 57**
 
@@ -1058,7 +1120,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 18th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 18th](/Follows/2022/May/18/)
+[Click/tap here to see the follow log for 2022 May 18th](/Follows/2022/05_May/18/)
 
 **Day 58**
 
@@ -1072,7 +1134,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 19th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 19th](/Follows/2022/May/19/)
+[Click/tap here to see the follow log for 2022 May 19th](/Follows/2022/05_May/19/)
 
 **Day 59**
 
@@ -1086,7 +1148,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 20th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 20th](/Follows/2022/May/20/)
+[Click/tap here to see the follow log for 2022 May 20th](/Follows/2022/05_May/20/)
 
 **Day 60**
 
@@ -1100,7 +1162,7 @@ The ratio for today was 10:2(12:88)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 21st entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 21st](/Follows/2022/May/21/)
+[Click/tap here to see the follow log for 2022 May 21st](/Follows/2022/05_May/21/)
 
 **Day 61**
 
@@ -1116,7 +1178,7 @@ Coming soon.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 22nd entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 22nd](/Follows/2022/May/22/)
+[Click/tap here to see the follow log for 2022 May 22nd](/Follows/2022/05_May/22/)
 
 **Day 62**
 
@@ -1130,7 +1192,7 @@ The ratio today was 0:2(2:98)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 23rd entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 23rd](/Follows/2022/May/23/)
+[Click/tap here to see the follow log for 2022 May 23rd](/Follows/2022/05_May/23/)
 
 **Day 63**
 
@@ -1144,7 +1206,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 24th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 24th](/Follows/2022/May/24/)
+[Click/tap here to see the follow log for 2022 May 24th](/Follows/2022/05_May/24/)
 
 **Day 64**
 
@@ -1158,7 +1220,7 @@ The ratio today was 0:0(0:100)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 25th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 25th](/Follows/2022/May/25/)
+[Click/tap here to see the follow log for 2022 May 25th](/Follows/2022/05_May/25/)
 
 **Day 65**
 
@@ -1172,7 +1234,7 @@ The ratio today was 0:2(2:98)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 26th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 26th](/Follows/2022/May/26/)
+[Click/tap here to see the follow log for 2022 May 26th](/Follows/2022/05_May/26/)
 
 **Day 66**
 
@@ -1186,7 +1248,7 @@ The ratio today was 0:6(6:94)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 27th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 27th](/Follows/2022/May/27/)
+[Click/tap here to see the follow log for 2022 May 27th](/Follows/2022/05_May/27/)
 
 **Day 67**
 
@@ -1200,9 +1262,13 @@ The ratio for today was 10:8(18:82)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 28th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 28th](/Follows/2022/May/28/)
+[Click/tap here to see the follow log for 2022 May 28th](/Follows/2022/05_May/28/)
 
-Coming soon.
+**Day 68**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 28th !-->
 
@@ -1210,9 +1276,13 @@ Coming soon.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 29th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 29th](/Follows/2022/May/29/)
+[Click/tap here to see the follow log for 2022 May 29th](/Follows/2022/05_May/29/)
 
-Coming soon.
+**Day 69**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
 
 </details> <!-- May 29th !-->
 
@@ -1220,9 +1290,13 @@ Coming soon.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 30th entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 30th](/Follows/2022/May/30/)
+[Click/tap here to see the follow log for 2022 May 30th](/Follows/2022/05_May/30/)
 
-Coming soon.
+**Day 70**
+
+I followed a couple organizations I discovered at random today.
+
+The ratio today was 0:2(2:98)
 
 </details> <!-- May 30th !-->
 
@@ -1230,13 +1304,329 @@ Coming soon.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 May 31st entry</b></p></summary>
 
-[Click/tap here to see the follow log for 2022 May 31st](/Follows/2022/May/31/)
+[Click/tap here to see the follow log for 2022 May 31st](/Follows/2022/05_May/31/)
 
-Coming soon.
+**Day 71**
+
+I followed a few organizations I discovered at random today.
+
+The ratio today was 0:3(3:97)
 
 </details> <!-- May 31st !-->
 
 </details> <!-- 2022 May !-->
+
+##### June 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 1st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 1st](/Follows/2022/06_June/01/)
+
+**Day 72**
+
+I followed a single organization I discovered at random today.
+
+The ratio today was 0:1(1:99)
+
+</details> <!-- June 1st !-->
+
+##### June 2nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 2nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 2nd](/Follows/2022/06_June/02/)
+
+**Day 73**
+
+I didn't follow any organizations today.
+
+The ratio today was 0:0(0:100)
+
+</details> <!-- June 2nd !-->
+
+##### June 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 3rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 3rd](/Follows/2022/06_June/03/)
+
+**Day 74**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today. I did not follow any in addition today.
+
+The ratio for today was 10:0(10:90)
+
+</details> <!-- June 3rd !-->
+
+##### June 4th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 4th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 4th](/Follows/2022/06_June/04/)
+
+Coming soon.
+
+</details> <!-- June 4th !-->
+
+##### June 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 5th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 5th](/Follows/2022/06_June/05/)
+
+Coming soon.
+
+</details> <!-- June 5th !-->
+
+##### June 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 6th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 6th](/Follows/2022/06_June/06/)
+
+Coming soon.
+
+</details> <!-- June 6th !-->
+
+##### June 7th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 7th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 7th](/Follows/2022/06_June/07/)
+
+Coming soon.
+
+</details> <!-- June 7th !-->
+
+##### June 8th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 8th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 8th](/Follows/2022/06_June/08/)
+
+Coming soon.
+
+</details> <!-- June 8th !-->
+
+##### June 9th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 9th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 9th](/Follows/2022/06_June/09/)
+
+Coming soon.
+
+</details> <!-- June 9th !-->
+
+##### June 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 10th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 10th](/Follows/2022/06_June/10/)
+
+Coming soon.
+
+</details> <!-- June 10th !-->
+
+##### June 11th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 11th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 11th](/Follows/2022/06_June/11/)
+
+Coming soon.
+
+</details> <!-- June 11th !-->
+
+##### June 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 12th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 12th](/Follows/2022/06_June/12/)
+
+Coming soon.
+
+</details> <!-- June 12th !-->
+
+##### June 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 13th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 13th](/Follows/2022/06_June/13/)
+
+Coming soon.
+
+</details> <!-- June 13th !-->
+
+##### June 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 14th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 14th](/Follows/2022/06_June/14/)
+
+Coming soon.
+
+</details> <!-- June 14th !-->
+
+##### June 15th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 15th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 15th](/Follows/2022/06_June/15/)
+
+Coming soon.
+
+</details> <!-- June 15th !-->
+
+##### June 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 16th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 16th](/Follows/2022/06_June/16/)
+
+Coming soon.
+
+</details> <!-- June 16th !-->
+
+##### June 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 17th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 17th](/Follows/2022/06_June/17/)
+
+Coming soon.
+
+</details> <!-- June 17th !-->
+
+##### June 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 18th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 18th](/Follows/2022/06_June/18/)
+
+Coming soon.
+
+</details> <!-- June 18th !-->
+
+##### June 19th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 19th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 19th](/Follows/2022/06_June/19/)
+
+Coming soon.
+
+</details> <!-- June 19th !-->
+
+##### June 20th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 20th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 20th](/Follows/2022/06_June/20/)
+
+Coming soon.
+
+</details> <!-- June 20th !-->
+
+##### June 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 21st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 21st](/Follows/2022/06_June/21/)
+
+Coming soon.
+
+</details> <!-- June 21st !-->
+
+##### June 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 22nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 22nd](/Follows/2022/06_June/22/)
+
+Coming soon.
+
+</details> <!-- June 22nd !-->
+
+##### June 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 23rd](/Follows/2022/06_June/23/)
+
+Coming soon.
+
+</details> <!-- June 23rd !-->
+
+##### June 24th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 24th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 24th](/Follows/2022/06_June/24/)
+
+Coming soon.
+
+</details> <!-- June 24th !-->
+
+##### June 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 25th](/Follows/2022/06_June/25/)
+
+Coming soon.
+
+</details> <!-- June 25th !-->
+
+##### June 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 26th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 26th](/Follows/2022/06_June/26/)
+
+Coming soon.
+
+</details> <!-- June 26th !-->
+
+##### June 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 27th](/Follows/2022/06_June/27/)
+
+Coming soon.
+
+</details> <!-- June 27th !-->
+
+##### June 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 28th](/Follows/2022/06_June/28/)
+
+Coming soon.
+
+</details> <!-- June 28th !-->
+
+##### June 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 29th](/Follows/2022/06_June/29/)
+
+Coming soon.
+
+</details> <!-- June 29th !-->
+
+##### June 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 June 30th](/Follows/2022/06_June/30/)
+
+Coming soon.
+
+</details> <!-- June 30th !-->
 
 </details> <!-- 2022 !-->
 
@@ -1652,6 +2042,8 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 <details><summary><b>V21 (2022, Friday, May 27th at 9:27 pm PST)</b></summary>
 
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
+
 **Changes:**
 
 - [x] Updated the index
@@ -1668,11 +2060,25 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V22 (Coming soon)</b></summary>
+<details><summary><b>V22 (2022, Friday, June 3rd at 5:12 pm PST)</b></summary>
+
+***This version was created by [@seanpm2001](https://github.com/seanpm2001/)***
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 May 28th to 2022 June 3rd
+
+- [x] Fixed 31 dead links in 2022 May (the path for `/Follows/May/<Day>/` was supposed to be `/Follows/05_May/<Day>`)
+
+- [x] Added support for 2022 June
 
 - [ ] No other changes in version 22
 
@@ -1878,6 +2284,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V43 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 43
+
+</details>
+
+<details><summary><b>V44 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 44
+
+</details>
+
 </details>
 
 ***
@@ -1888,9 +2314,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Friday, May 27th at 9:27 pm PST)`
+**File version:** `22 (2022, Friday, June 3rd at 5:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,244`
+**Line count (including blank lines and compiler line):** `2,670`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
