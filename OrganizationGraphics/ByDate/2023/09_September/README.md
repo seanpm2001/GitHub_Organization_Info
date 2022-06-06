@@ -137,12 +137,6 @@ From: 2023 September (1-30)
 
 > For the 2023 September 30th entry.
 
-<!--
-📁 [//31/](/OrganizationGraphics/ByDate/2023/09_September/31/)
-!-->
-
-> For the 2023 September 31st entry.
-
 **Files**
 
 🗒️ [README.md](/OrganizationGraphics/ByDate/2023/09_September/README.md)
@@ -155,9 +149,9 @@ From: 2023 September (1-30)
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Monday, June 6th at 4:14 pm PST)`
+**File version:** `2 (2022, Monday, June 6th at 4:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `163`
+**Line count (including blank lines and compiler line):** `159`
 
 **Current article language:** `English (USA)`
 
