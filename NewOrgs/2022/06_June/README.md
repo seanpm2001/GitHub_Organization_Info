@@ -140,7 +140,18 @@ No data available for this day.
 
 ##### 2022 June 10th
 
-No data available for this day.
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`Seanpm2001-AutoDesk`](https://github.com/Seanpm2001-AutoDesk/) |
+| 02 | [`Seanpm2001-Kernel`](https://github.com/Seanpm2001-Kernel/) |
+| 03 | [`Seanpm2001-Email`](https://github.com/Seanpm2001-Email/) |
+| 04 | [`Seanpm2001-Calendar`](https://github.com/Seanpm2001-Calendar/) |
+| 05 | [`Seanpm2001-Stats`](https://github.com/Seanpm2001-Stats/) |
+| 06 | [`Seanpm2001-Oracle`](https://github.com/Seanpm2001-Oracle/) |
+| 07 | [`Seanpm2001-Engineering`](https://github.com/Seanpm2001-Engineering/) |
+| 08 | [`Vim-Autoscroller`](https://github.com/Vim-Autoscroller/) |
+| 09 | [`Seanpm2001-DOTNET`](https://github.com/Seanpm2001-DOTNET/) |
+| 10 | [`Seanpm2001-Unlicense`](https://github.com/Seanpm2001-Unlicense/) |
 
 ##### 2022 June 11th
 
@@ -238,9 +249,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `01 (Friday, 2022 June 3rd at 3:16 pm PST)`
+**File version:** `02 (Friday, 2022 June 10th at 4:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `285`
+**Line count (including blank lines and compiler line):** `296`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
