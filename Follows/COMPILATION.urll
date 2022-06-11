@@ -1,10 +1,10 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 June 3rd (74 days)
+-- Range: 2022 March 21st to 2022 June 10th (81 days)
 -- Compilation
 
--- Organizations ran by @seanpm2001 (921)
+-- Organizations ran by @seanpm2001 (931)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -901,8 +901,18 @@ https://github.com/Seanpm2001-Mozilla-License
 https://github.com/Seanpm2001-Eclipse-License
 https://github.com/BlueCalm-Theme
 https://github.com/Seanpm2001-VideoLAN
+https://github.com/Seanpm2001-AutoDesk
+https://github.com/Seanpm2001-Kernel
+https://github.com/Seanpm2001-Email
+https://github.com/Seanpm2001-Calendar
+https://github.com/Seanpm2001-Stats
+https://github.com/Seanpm2001-Oracle
+https://github.com/Seanpm2001-Engineering
+https://github.com/Vim-Autoscroller
+https://github.com/Seanpm2001-DOTNET
+https://github.com/Seanpm2001-Unlicense
 
--- Organizations NOT ran by @seanpm2001 (363)
+-- Organizations NOT ran by @seanpm2001 (373)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1267,13 +1277,23 @@ https://github.com/AutoHotkey
 https://github.com/ArchiveTeam
 https://github.com/googlefonts
 https://github.com/sddm
+https://github.com/rapid7
+https://github.com/PCSX2
+https://github.com/darktable-org
+https://github.com/mamedev
+https://github.com/spring-projects
+https://github.com/swoft-cloud
+https://github.com/swoole
+https://github.com/easylist
+https://github.com/IronLanguages
+https://github.com/dylan-lang
 
--- Statistics (as of 2022, Friday, June 3rd)
+-- Statistics (as of 2022, Friday, June 10th)
 -- Total 
--- Run by @seanpm2001: 921
--- Not run by @seanpm2001: 363
--- Overall total: 1,284
--- Ratio: 71.73%/28.27%
+-- Run by @seanpm2001: 931
+-- Not run by @seanpm2001: 373
+-- Overall total: 1,304
+-- Ratio: 71.39%/28.21%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -3354,10 +3374,98 @@ https://github.com/Seanpm2001-VideoLAN
 
 -- None
 
+-- 2022 June 4th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/rapid7
+
+-- 2022 June 5th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 6th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/PCSX2
+https://github.com/darktable-org
+https://github.com/mamedev
+
+-- 2022 June 7th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/spring-projects
+https://github.com/swoft-cloud
+https://github.com/swoole
+
+-- 2022 June 8th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 9th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 10th
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-AutoDesk
+https://github.com/Seanpm2001-Kernel
+https://github.com/Seanpm2001-Email
+https://github.com/Seanpm2001-Calendar
+https://github.com/Seanpm2001-Stats
+https://github.com/Seanpm2001-Oracle
+https://github.com/Seanpm2001-Engineering
+https://github.com/Vim-Autoscroller
+https://github.com/Seanpm2001-DOTNET
+https://github.com/Seanpm2001-Unlicense
+
+Other orgs
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/easylist
+https://github.com/IronLanguages
+https://github.com/dylan-lang
+
+-- None
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 22 (2022, Friday, June 3rd at 4:54 pm PST)
+-- File version: 23 (2022, Friday, June 10th at 8:32 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,364
+-- Line count (including blank lines and compiler line): 3,472
 -- EOF (End of File)
