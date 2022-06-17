@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, June.
 
 ( [<-- `Go back to 2022 May`](/NewOrgs/2022/05_May/README.md) | [`Current (2022 June)`](/NewOrgs/2022/06_June/) | [ --> Continue to `2022 July`](/NewOrgs/2022/07_July/README.md) )
 
-**This list was last updated on:** `Friday, 2022 June 3rd at 3:16 pm PST`
+**This list was last updated on:** `Friday, 2022 June 17th at 3:45 pm PST`
 
 ### Index
 
@@ -140,6 +140,8 @@ No data available for this day.
 
 ##### 2022 June 10th
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 | Creation order | Organization URL |
 |-----|-----|
 | 01 | [`Seanpm2001-AutoDesk`](https://github.com/Seanpm2001-AutoDesk/) |
@@ -152,6 +154,8 @@ No data available for this day.
 | 08 | [`Vim-Autoscroller`](https://github.com/Vim-Autoscroller/) |
 | 09 | [`Seanpm2001-DOTNET`](https://github.com/Seanpm2001-DOTNET/) |
 | 10 | [`Seanpm2001-Unlicense`](https://github.com/Seanpm2001-Unlicense/) |
+
+</details>
 
 ##### 2022 June 11th
 
@@ -179,7 +183,22 @@ No data available for this day.
 
 ##### 2022 June 17th
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`Seanpm2001-Legal`](https://github.com/Seanpm2001-Legal/) |
+| 02 | [`Seanpm2001-Licenses`](https://github.com/Seanpm2001-Licenses/) |
+| 03 | [`Seanspokane2015`](https://github.com/Seanspokane2015/) |
+| 04 | [`Oh-Hi-Markdown`](https://github.com/Oh-Hi-Markdown/) |
+| 05 | [`Seanpm2001-Statistics`](https://github.com/Seanpm2001-Statistics) |
+| 06 | [`Nuclear-Ad-Bombs`](https://github.com/Nuclear-Ad-Bombs/) |
+| 07 | [`StealthGeo`](https://github.com/StealthGeo/) |
+| 08 | [`Seanpm2001-BSD-License`](https://github.com/Seanpm2001-BSD-License/) |
+| 09 | [`Seanpm2001-CC-License`](https://github.com/Seanpm2001-CC-License/) |
+| 10 | [`BluPhoneOS`](https://github.com/BluPhoneOS/) |
+
+</details>
 
 ##### 2022 June 18th
 
@@ -207,7 +226,22 @@ No data available for this day.
 
 ##### 2022 June 24th
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+
+</details>
 
 ##### 2022 June 25th
 
@@ -249,9 +283,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Friday, 2022 June 10th at 4:33 pm PST)`
+**File version:** `03 (Friday, 2022 June 17th at 3:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `296`
+**Line count (including blank lines and compiler line):** `330`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
