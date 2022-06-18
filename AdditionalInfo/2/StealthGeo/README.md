@@ -19,7 +19,7 @@
 
 ## Description
 
-The alternative GitHub organization for the nuclear ad bomb specification, a theory on a new wave of highly destructive advertisements.
+The alternative GitHub organization for the stealth Geo Font specification, a font designed to be a mix of analog and digital, in a stealthy fashion.
 
 ## More info
 
@@ -53,9 +53,20 @@ There is no current home repository for this project.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, June 17th at 5:54 pm PST)`
+**File version:** `2 (2022, Friday, June 17th at 6:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `63`
+> V1 Changes:
+
+- [x] Started the file
+- [x] Added basic organization info
+- [x] Added the file info section
+
+> V2 Changes:
+
+- [x] Added a small changelog
+- [x] Fixed the description, it was set to the wrong orgaanization
+
+**Line count (including blank lines and compiler line):** `74`
 
 **Article language:** `English (USA)`
 
