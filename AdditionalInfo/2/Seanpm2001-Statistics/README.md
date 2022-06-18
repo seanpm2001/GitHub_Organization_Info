@@ -60,10 +60,47 @@ There is no current home repository for this project.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, June 17th at 5:40 pm PST)`
+**File version:** `2 (2022, Friday, June 17th at 6:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `70`
+**Line count (including blank lines and compiler line):** `107`
 
 **Article language:** `English (USA)`
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the changelog for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2022, Friday, June 17th at 5:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Referenced the organization icon (raster)
+<!-- [x] Referenced the organization icon (vector) !-->
+- [x] Added the organization description
+- [x] Added the `more info` section
+- [x] Added the `extra info` section
+- [x] Added the file info section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, June 17th at 6:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the file info section
+- [x] Added a changelog
+- [ ] No other changes in version 2
+
+</details>
+
+</details>
 
 ***
