@@ -7,7 +7,7 @@
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-No new organizations were created on 2022, Saturday, June 17th. There is no new data here.
+No new organizations were created on 2022, Saturday, June 18th. There is no new data here.
 
 <!-- I do not plan on creating any new organizations until I get more caught up, and have at least 6 hours of free time on any day (most likely, I will resume next Friday, March 4th) !-->
 
@@ -101,9 +101,9 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, June 18th at 3:24 pm PST)`
+**File version:** `2 (2022, Sunday, June 19th at 3:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `121`
+**Line count (including blank lines and compiler line):** `157`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -114,6 +114,42 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the changelog for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2022, Saturday, June 18th at 3:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the research notes section
+- [x] Added the statistics section
+- [x] Added the file info section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Sunday, June 19th at 3:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Fixed a date error the title section
+- [x] Updated the file info section
+- [x] Added the changelog
+- [ ] No other changes in version 2
+
+</details>
 
 </details>
 
