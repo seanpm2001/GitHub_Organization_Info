@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, June.
 
 ( [<-- `Go back to 2022 May`](/NewOrgs/2022/05_May/README.md) | [`Current (2022 June)`](/NewOrgs/2022/06_June/) | [ --> Continue to `2022 July`](/NewOrgs/2022/07_July/README.md) )
 
-**This list was last updated on:** `Friday, 2022 June 17th at 3:45 pm PST`
+**This list was last updated on:** `Friday, 2022 June 24th at 4:45 pm PST`
 
 ### Index
 
@@ -230,16 +230,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`Seanpm2001-W3C`](https://github.com/Seanpm2001-W3C/) |
+| 02 | [`Seanpm2001-Wikipedia`](https://github.com/Seanpm2001-Wikipedia/) |
+| 03 | [`Seanpm2001-GFDL-License`](https://github.com/Seanpm2001-GFDL-license/) |
+| 04 | [`Seanpm2001-AGPL-License`](https://github.com/Seanpm2001-AGPL-License/) |
+| 05 | [`Seanpm2001-Academic-Free-License`](https://github.com/Seanpm2001-Academic-Free-License/) |
+| 06 | [`Seanpm2001-LGPL-License`](https://github.com/Seanpm2001-LGPL-License/) |
+| 07 | [`Seanpm2001-WTFPL-License`](https://github.com/Seanpm2001-WTFPL-License/) |
+| 08 | [`360Desktop-development`](https://github.com/360Desktop-development/) |
+| 09 | [`Nuclear-ads`](https://github.com/Nuclear-ads) |
+| 10 | [`Seanpm2001-InternetArchive`](https://github.com/Seanpm2001-InternetArchive/) |
 
 </details>
 
@@ -283,7 +283,7 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Friday, 2022 June 17th at 3:45 pm PST)`
+**File version:** `04 (Friday, 2022 June 24th at 4:45 pm PST)`
 
 **Line count (including blank lines and compiler line):** `330`
 
