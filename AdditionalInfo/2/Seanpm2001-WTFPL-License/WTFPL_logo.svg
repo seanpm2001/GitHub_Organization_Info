@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xml:lang="zxx" version="1.1"
+  width="800px" height="580px" viewBox="0 0 297 215"
+  xmlns="http://www.w3.org/2000/svg"
+>
+<title>Logo of WTFPL</title>
+
+<desc>An official logo for the WTFPL (Do what the fuck you want to Public License).</desc>
+
+<metadata>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+	<rdf:Description rdf:about="">
+		<dc:title xml:lang="ja">WTFPLのロゴ</dc:title>
+		<dc:title xml:lang="x-default">Logo of WTFPL</dc:title>
+		<dc:creator rdf:resource="https://meta.wikimedia.org/?curid=10484470"/>
+		<dc:subject rdf:resource="https://www.wikidata.org/wiki/Q79719"/>
+		<dc:description xml:lang="ja" rdf:parseType="Resource">
+			<dc:format rdf:datatype="http://purl.org/dc/terms/IMT">text/x-wiki</dc:format>
+			<rdf:value><![CDATA[
+[[w:ja:WTFPL|WTFPL]]（どうとでも勝手にしやがれクソッタレ・公衆利用許諾書）の公式ロゴ。
+]]><!--  --></rdf:value>
+		</dc:description>
+		<dc:description xml:lang="x-default" rdf:parseType="Resource">
+			<dc:format rdf:datatype="http://purl.org/dc/terms/IMT">text/x-wiki</dc:format>
+			<rdf:value><![CDATA[
+An official logo for the [[w:WTFPL|]] (Do what the fuck you want to Public License).
+]]><!--  --></rdf:value>
+		</dc:description>
+		<dc:contributor rdf:resource="http://www.wtfpl.net/"/>
+		<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchemadate">2012-12-28</dc:date>
+		<dc:type rdf:datatype="http://purl.org/dc/terms/DCMIType">StillImage</dc:type>
+		<dc:format rdf:datatype="http://purl.org/dc/terms/IMT">image/svg+xml</dc:format>
+		<dc:source rdf:resource="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg"/>
+		<dc:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">zxx</dc:language>
+		<dc:rights>© 2012 WTFPL – Do What the Fuck You Want to Public License.</dc:rights>
+		<dc:rights rdf:resource="http://www.wtfpl.net/about/"/>
+	</rdf:Description>
+</rdf:RDF>
+</metadata>
+
+<path
+  d="M 108.40625,5.90625
+     C  52.306055,5.90625    6.84375,51.399805    6.84375,107.5
+         6.84375,163.60019  52.306055,209.09375 108.40625,209.09375
+       122.61329,209.09375 136.12775,206.14216  148.40625,200.875
+       160.68475,206.14216 174.19921,209.09375  188.40625,209.09375
+       244.50644,209.09375 290,163.60019        290,107.5
+       290,51.399805       244.50644,5.90625    188.40625,5.90625
+       174.19921,5.90625   160.68475,8.8578414  148.40625,14.125
+       136.12775,8.8578414 122.61329,5.90625    108.40625,5.90625    z
+     M 106.40625,37.8125
+     C 121.73587,37.8125   135.91647,42.733394  147.46875,51.0625
+       159.02103,42.733394 173.17038,37.8125    188.5,37.8125
+       227.32183,37.8125   258.8125,69.271923   258.8125,108.09375
+       258.8125,146.91558  227.32183,178.40625  188.5,178.40625
+       173.17274,178.40625 159.02006,173.48302  147.46875,165.15625
+       135.91744,173.48302 121.73351,178.40625  106.40625,178.40625
+        67.584423,178.40625 36.125,146.91558     36.125,108.09375
+        36.125,69.271923    67.584423,37.8125   106.40625,37.8125    z"
+/>
+<path
+  stroke-width="0.2"
+  d="m 116.82546,66.192973 -33.419525,0
+     c -22.54767,46.689617  -3.679505,78.469377  11.230018,85.067227
+        14.909527,6.59786   39.297897,10.78923   52.843627,-13.64071
+        11.127,20.91039     36.41018,22.12022    53.22181,14.37696
+        16.81163,-7.74327   33.12311,-43.11547   11.73047,-85.803477
+     l -33.99227,2.7e-5
+     c  11.50159,26.419492  11.73257,62.462       0.009,63.53264
+       -11.72378,1.07063   -15.09694,-2.84981   -13.76446,-44.285231
+     l -33.309,-0.149602
+     c   2.48911,40.900273  -5.08883,48.002003  -15.33865,43.514363
+       -10.24982,-4.48763   -9.79468,-28.13042    0.78918,-62.612197 z"
+/>
+</svg>
