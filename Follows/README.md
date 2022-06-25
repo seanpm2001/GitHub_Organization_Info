@@ -1560,7 +1560,11 @@ The ratio for today was 10:0(10:90)
 
 [Click/tap here to see the follow log for 2022 June 18th](/Follows/2022/06_June/18/)
 
-Coming soon.
+**Day 89**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 18th !-->
 
@@ -1570,7 +1574,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 19th](/Follows/2022/06_June/19/)
 
-Coming soon.
+**Day 90**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 19th !-->
 
@@ -1580,7 +1588,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 20th](/Follows/2022/06_June/20/)
 
-Coming soon.
+**Day 91**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 20th !-->
 
@@ -1590,7 +1602,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 21st](/Follows/2022/06_June/21/)
 
-Coming soon.
+**Day 92**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 21st !-->
 
@@ -1600,7 +1616,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 22nd](/Follows/2022/06_June/22/)
 
-Coming soon.
+**Day 93**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 22nd !-->
 
@@ -1610,7 +1630,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 23rd](/Follows/2022/06_June/23/)
 
-Coming soon.
+**Day 94**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 23rd !-->
 
@@ -1620,7 +1644,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 24th](/Follows/2022/06_June/24/)
 
-Coming soon.
+**Day 95**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today. I didn't follow any in addition today. I haven't followed any external organizations in 7 days, as I haven't been discovering any new ones.
+
+The ratio for today was 10:0(10:90)
 
 </details> <!-- June 24th !-->
 
@@ -2176,11 +2204,19 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V25 (Coming soon)</b></summary>
+<details><summary><b>V25 (2022, Friday, June 24th at 5:32 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 June 18th to 2022 June 24th
 
 - [ ] No other changes in version 25
 
@@ -2416,6 +2452,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V49 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 49
+
+</details>
+
+<details><summary><b>V50 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 50
+
+</details>
+
 </details>
 
 ***
@@ -2426,11 +2482,11 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Friday, June 17th at 4:05 pm PST)`
+**File version:** `25 (2022, Friday, June 24th at 5:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,782`
+**Line count (including blank lines and compiler line):** `2,838`
 
-**Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
 **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
