@@ -1,12 +1,12 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 June 17th (88 days) (last checked on 2022, Friday, June 17th with this link:
+-- Range: 2022 March 21st to 2022 June 24th (95 days) (last checked on 2022, Friday, June 17th with this link:
 https://duckduckgo.com/?t=ffab&q=days+since+march+21st+2022&ia=answer
 --- )
 -- Compilation
 
--- Organizations ran by @seanpm2001 (942)
+-- Organizations ran by @seanpm2001 (952)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -924,6 +924,16 @@ https://github.com/StealthGeo
 https://github.com/Seanpm2001-BSD-License
 https://github.com/Seanpm2001-CC-License
 https://github.com/BluPhoneOS
+https://github.com/Seanpm2001-W3C
+https://github.com/Seanpm2001-Wikipedia
+https://github.com/Seanpm2001-GFDL-license
+https://github.com/Seanpm2001-AGPL-License
+https://github.com/Seanpm2001-Academic-Free-License
+https://github.com/Seanpm2001-LGPL-License
+https://github.com/Seanpm2001-WTFPL-License
+https://github.com/360Desktop-development
+https://github.com/Nuclear-ads
+https://github.com/Seanpm2001-InternetArchive
 
 -- Organizations NOT ran by @seanpm2001 (384)
 
@@ -1311,12 +1321,12 @@ https://github.com/red
 https://github.com/PowerShell
 https://github.com/sphinx-doc
 
--- Statistics (as of 2022, Friday, June 17th)
+-- Statistics (as of 2022, Friday, June 24th)
 -- Total:
--- Run by @seanpm2001: 942
+-- Run by @seanpm2001: 952
 -- Not run by @seanpm2001: 384
--- Overall total: 1,326
--- Ratio: 71.04%/28.96%
+-- Overall total: 1,336
+-- Ratio: 71.25%/28.75%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -3567,11 +3577,89 @@ https://github.com/BluPhoneOS
 
 -- None
 
+-- 2022 June 18th
+
+-- @seanpm2001 organizations
+
 -- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 19th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 20th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 21st
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 22nd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 23rd
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 24th
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-W3C
+https://github.com/Seanpm2001-Wikipedia
+https://github.com/Seanpm2001-GFDL-license
+https://github.com/Seanpm2001-AGPL-License
+https://github.com/Seanpm2001-Academic-Free-License
+https://github.com/Seanpm2001-LGPL-License
+https://github.com/Seanpm2001-WTFPL-License
+https://github.com/360Desktop-development
+https://github.com/Nuclear-ads
+https://github.com/Seanpm2001-InternetArchive
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 24 (2022, Friday, June 17th at 3:56 pm PST)
+-- File version: 25 (2022, Friday, June 24th at 5:12 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,578
+-- Line count (including blank lines and compiler line): 3,666
 -- EOF (End of File)
