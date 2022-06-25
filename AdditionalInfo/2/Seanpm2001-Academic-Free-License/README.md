@@ -19,7 +19,7 @@
 
 ## Description
 
-My GitHub organization for my projects licensed under one of the GNU Affero General Public License (Academic-Free-License) software licenses.
+My GitHub organization for my projects licensed under one of the Academic Free License (AFL) software licenses.
 
 ## More info
 
@@ -63,9 +63,9 @@ There is no current home repository for this project.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, June 24th at 6:32 pm PST)`
+**File version:** `2 (2022, Friday, June 24th at 6:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `100`
+**Line count (including blank lines and compiler line):** `113`
 
 **Article language:** `English (USA)`
 
@@ -89,8 +89,21 @@ There is no current home repository for this project.
 - [x] Added the `more info` section
 - [x] Added the `extra info` section
 - [x] Added the `file info` section
-- [x] Added the `file history` segtction
+- [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, June 24th at 6:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Fixed the organization description
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
