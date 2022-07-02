@@ -256,6 +256,70 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 > > > [01.0.1.6.30 - 2022 June 30th](#2022-June-30th)
 
+> > [01.0.1.7 - 2022 July](#2022-July)
+
+> > > [01.0.1.7.01 - 2022 July 1st](#2022-July-1st)
+
+> > > [01.0.1.7.02 - 2022 July 2nd](#2022-July-2nd)
+
+> > > [01.0.1.7.03 - 2022 July 3rd](#2022-July-3rd)
+
+> > > [01.0.1.7.04 - 2022 July 4th](#2022-July-4th)
+
+> > > [01.0.1.7.05 - 2022 July 5th](#2022-July-5th)
+
+> > > [01.0.1.7.06 - 2022 July 6th](#2022-July-6th)
+
+> > > [01.0.1.7.07 - 2022 July 7th](#2022-July-7th)
+
+> > > [01.0.1.7.08 - 2022 July 8th](#2022-July-8th)
+
+> > > [01.0.1.7.09 - 2022 July 9th](#2022-July-9th)
+
+> > > [01.0.1.7.10 - 2022 July 10th](#2022-July-10th)
+
+> > > [01.0.1.7.11 - 2022 July 11th](#2022-July-11th)
+
+> > > [01.0.1.7.12 - 2022 July 12th](#2022-July-12th)
+
+> > > [01.0.1.7.13 - 2022 July 13th](#2022-July-13th)
+
+> > > [01.0.1.7.14 - 2022 July 14th](#2022-July-14th)
+
+> > > [01.0.1.7.15 - 2022 July 15th](#2022-July-15th)
+
+> > > [01.0.1.7.16 - 2022 July 16th](#2022-July-16th)
+
+> > > [01.0.1.7.17 - 2022 July 17th](#2022-July-17th)
+
+> > > [01.0.1.7.18 - 2022 July 18th](#2022-July-18th)
+
+> > > [01.0.1.7.19 - 2022 July 19th](#2022-July-19th)
+
+> > > [01.0.1.7.20 - 2022 July 20th](#2022-July-20th)
+
+> > > [01.0.1.7.21 - 2022 July 21st](#2022-July-21st)
+
+> > > [01.0.1.7.22 - 2022 July 22nd](#2022-July-22nd)
+
+> > > [01.0.1.7.23 - 2022 July 23rd](#2022-July-23rd)
+
+> > > [01.0.1.7.24 - 2022 July 24th](#2022-July-24th)
+
+> > > [01.0.1.7.25 - 2022 July 25th](#2022-July-25th)
+
+> > > [01.0.1.7.26 - 2022 July 26th](#2022-July-26th)
+
+> > > [01.0.1.7.27 - 2022 July 27th](#2022-July-27th)
+
+> > > [01.0.1.7.28 - 2022 July 28th](#2022-July-28th)
+
+> > > [01.0.1.7.29 - 2022 July 29th](#2022-July-29th)
+
+> > > [01.0.1.7.30 - 2022 July 30th](#2022-July-30th)
+
+> > > [01.0.1.7.31 - 2022 July 31st](#2022-July-31st)
+
 [02.0 - Core components](#Core-components)
 
 > [02.0.1 - COMPILATION.urll](#compilationurll)
@@ -1658,7 +1722,11 @@ The ratio for today was 10:0(10:90)
 
 [Click/tap here to see the follow log for 2022 June 25th](/Follows/2022/06_June/25/)
 
-Coming soon.
+**Day 96**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 25th !-->
 
@@ -1668,7 +1736,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 26th](/Follows/2022/06_June/26/)
 
-Coming soon.
+**Day 97**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 26th !-->
 
@@ -1678,7 +1750,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 27th](/Follows/2022/06_June/27/)
 
-Coming soon.
+**Day 98**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 27th !-->
 
@@ -1688,7 +1764,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 28th](/Follows/2022/06_June/28/)
 
-Coming soon.
+**Day 99**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 28th !-->
 
@@ -1698,7 +1778,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 29th](/Follows/2022/06_June/29/)
 
-Coming soon.
+**Day 100**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- June 29th !-->
 
@@ -1708,9 +1792,329 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 June 30th](/Follows/2022/06_June/30/)
 
-Coming soon.
+**Day 101**
+
+I followed 1 external organization today (/desktop) it was one I came across in the past before the follow feature was added.
+
+The ratio for today was 1:0(1:99)
 
 </details> <!-- June 30th !-->
+
+##### July 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 1st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 1st](/Follows/2022/July/01/)
+
+**Day 102**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today by default. I followed 2 in addition today.
+
+The ratio for today was 10:2(12:88)
+
+</details> <!-- July 1st !-->
+
+##### July 2nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 2nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 2nd](/Follows/2022/July/02/)
+
+Comng soon
+
+</details> <!-- July 2nd !-->
+
+##### July 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 3rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 3rd](/Follows/2022/July/03/)
+
+Coming soon.
+
+</details> <!-- July 3rd !-->
+
+##### July 4th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 4th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 4th](/Follows/2022/July/04/)
+
+Coming soon.
+
+</details> <!-- July 4th !-->
+
+##### July 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 5th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 5th](/Follows/2022/July/05/)
+
+Coming soon.
+
+</details> <!-- July 5th !-->
+
+##### July 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 6th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 6th](/Follows/2022/July/06/)
+
+Coming soon.
+
+</details> <!-- July 6th !-->
+
+##### July 7th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 7th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 7th](/Follows/2022/July/07/)
+
+Coming soon.
+
+</details> <!-- July 7th !-->
+
+##### July 8th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 8th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 8th](/Follows/2022/July/08/)
+
+Coming soon.
+
+</details> <!-- July 8th !-->
+
+##### July 9th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 9th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 9th](/Follows/2022/July/09/)
+
+Coming soon.
+
+</details> <!-- July 9th !-->
+
+##### July 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 10th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 10th](/Follows/2022/July/10/)
+
+Coming soon.
+
+</details> <!-- July 10th !-->
+
+##### July 11th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 11th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 11th](/Follows/2022/July/11/)
+
+Coming soon.
+
+</details> <!-- July 11th !-->
+
+##### July 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 12th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 12th](/Follows/2022/July/12/)
+
+Coming soon.
+
+</details> <!-- July 12th !-->
+
+##### July 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 13th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 13th](/Follows/2022/July/13/)
+
+Coming soon.
+
+</details> <!-- July 13th !-->
+
+##### July 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 14th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 14th](/Follows/2022/July/14/)
+
+Coming soon.
+
+</details> <!-- July 14th !-->
+
+##### July 15th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 15th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 15th](/Follows/2022/July/15/)
+
+Coming soon.
+
+</details> <!-- July 15th !-->
+
+##### July 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 16th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 16th](/Follows/2022/July/16/)
+
+Coming soon.
+
+</details> <!-- July 16th !-->
+
+##### July 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 17th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 17th](/Follows/2022/July/17/)
+
+Coming soon.
+
+</details> <!-- July 17th !-->
+
+##### July 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 18th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 18th](/Follows/2022/July/18/)
+
+Coming soon.
+
+</details> <!-- July 18th !-->
+
+##### July 19th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 19th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 19th](/Follows/2022/July/19/)
+
+Coming soon.
+
+</details> <!-- July 19th !-->
+
+##### July 20th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 20th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 20th](/Follows/2022/July/20/)
+
+Coming soon.
+
+</details> <!-- July 20th !-->
+
+##### July 21st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 21st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 21st](/Follows/2022/July/21/)
+
+Coming soon.
+
+</details> <!-- July 21st !-->
+
+##### July 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 22nd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 22nd](/Follows/2022/July/22/)
+
+Coming soon.
+
+</details> <!-- July 22nd !-->
+
+##### July 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 23rd entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 23rd](/Follows/2022/July/23/)
+
+Coming soon.
+
+</details> <!-- July 23rd !-->
+
+##### July 24th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 24th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 24th](/Follows/2022/July/24/)
+
+Coming soon.
+
+</details> <!-- July 24th !-->
+
+##### July 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 25th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 25th](/Follows/2022/July/25/)
+
+Coming soon.
+
+</details> <!-- July 25th !-->
+
+##### July 26th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 26th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 26th](/Follows/2022/July/26/)
+
+Coming soon.
+
+</details> <!-- July 26th !-->
+
+##### July 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 27th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 27th](/Follows/2022/July/27/)
+
+Coming soon.
+
+</details> <!-- July 27th !-->
+
+##### July 28th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 28th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 28th](/Follows/2022/July/28/)
+
+Coming soon.
+
+</details> <!-- July 28th !-->
+
+##### July 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 29th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 29th](/Follows/2022/July/29/)
+
+Coming soon.
+
+</details> <!-- July 29th !-->
+
+##### July 30th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 30th entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 30th](/Follows/2022/July/30/)
+
+Coming soon.
+
+</details> <!-- July 30th !-->
+
+##### July 31st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 31st entry</b></p></summary>
+
+[Click/tap here to see the follow log for 2022 July 31st](/Follows/2022/July/31/)
+
+Coming soon.
+
+</details> <!-- July 31st !-->
+
+</details> <!-- 2022 July !-->
 
 </details> <!-- 2022 !-->
 
@@ -2222,11 +2626,21 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V26 (Coming soon)</b></summary>
+<details><summary><b>V26 (2022, Friday, July 1st at 9:05 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the index
+
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 June 25th to 2022 July 1st
+
+- [x] Added blank entries from July 2nd to July 31st
 
 - [ ] No other changes in version 26
 
@@ -2472,6 +2886,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V51 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 51
+
+</details>
+
+<details><summary><b>V52 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 52
+
+</details>
+
 </details>
 
 ***
@@ -2482,9 +2916,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Friday, June 24th at 5:32 pm PST)`
+**File version:** `26 (2022, Friday, July 1st at 9:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,838`
+**Line count (including blank lines and compiler line):** `3,272`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
