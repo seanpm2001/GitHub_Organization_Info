@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, July.
 
 ( [<-- `Go back to 2022 June`](/NewOrgs/2022/06_June/README.md) | [`Current (2022 July)`](/NewOrgs/2022/07_July/) | [ --> Continue to `2022 August`](/NewOrgs/2022/08_August/README.md) )
 
-**This list was last updated on:** `Friday, 2022 June 3rd at 3:19 pm PST`
+**This list was last updated on:** `Friday, 2022 July 1st at 6:12 pm PST`
 
 ### Index
 
@@ -87,7 +87,22 @@ This list showcases my new GitHub organizations from 2022, July.
 
 ##### 2022 July 1st
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`Seanpm2001-Meta`](https://github.com/Seanpm2001-Meta/) |
+| 02 | [`WichCraft-dev`](https://github.com/WichCraft-dev/) |
+| 03 | [`FloweredNotch`](https://github.com/FloweredNotch/) |
+| 04 | [`MalNotch`](https://github.com/MalNotch/) |
+| 05 | [`Notchware`](https://github.com/Notchware/) |
+| 06 | [`Seanpm2001-UnitedStatesofAmerica`](https://github.com/Seanpm2001-UnitedStatesofAmerica/) |
+| 07 | [`Seanpm2001-Ukraine`](https://github.com/Seanpm2001-Ukraine/) |
+| 08 | [`Ukraine-History-Simulator`](https://github.com/Ukraine-History-Simulator/) |
+| 09 | [`WacOS_OnESTEP`](https://github.com/WacOS-OnESTEP/) |
+| 10 | [`WacOS_OpenGS`](https://github.com/WacOS-OpenGS/) |
+
+</details>
 
 ##### 2022 July 2nd
 
@@ -115,7 +130,22 @@ No data available for this day.
 
 ##### 2022 July 8th
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+
+</details>
 
 ##### 2022 July 9th
 
@@ -143,7 +173,22 @@ No data available for this day.
 
 ##### 2022 July 15th
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+
+</details>
 
 ##### 2022 July 16th
 
@@ -171,7 +216,22 @@ No data available for this day.
 
 ##### 2022 July 22nd
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+
+</details>
 
 ##### 2022 July 23rd
 
@@ -199,7 +259,22 @@ No data available for this day.
 
 ##### 2022 July 29th
 
-No data available for this day.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+| Creation order | Organization URL |
+|-----|-----|
+| 01 | [`<coming-soon>`](https://www.example.com) |
+| 02 | [`<coming-soon>`](https://www.example.com) |
+| 03 | [`<coming-soon>`](https://www.example.com) |
+| 04 | [`<coming-soon>`](https://www.example.com) |
+| 05 | [`<coming-soon>`](https://www.example.com) |
+| 06 | [`<coming-soon>`](https://www.example.com) |
+| 07 | [`<coming-soon>`](https://www.example.com) |
+| 08 | [`<coming-soon>`](https://www.example.com) |
+| 09 | [`<coming-soon>`](https://www.example.com) |
+| 10 | [`<coming-soon>`](https://www.example.com) |
+
+</details>
 
 ##### 2022 July 30th
 
@@ -219,9 +294,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `01 (Friday, 2022 June 3rd at 3:19 pm PST)`
+**File version:** `02 (Friday, 2022 July 1st at 6:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `266`
+**Line count (including blank lines and compiler line):** `381`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -232,6 +307,46 @@ No data available for this day.
 _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 **You July need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2022, Friday, June 3rd at 3:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `index` section
+- [x] Added the 31 entry slots for the month section
+- [x] Added the `file info` section
+- [x] Added the `Footer` section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, July 1st at 6:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the 2022 July section
+- - [x] Filled in data for 2022 July 1st
+- - [x] Added templates for July 8th, July 15th, July 22nd, and July 29th
+- [x] Updated the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 1
+
+</details>
 
 </details>
 
