@@ -1,12 +1,12 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 June 24th (95 days) (last checked on 2022, Friday, June 17th with this link:
+-- Range: 2022 March 21st to 2022 July 1st (102 days) (last checked on 2022, Friday, June 17th with this link:
 https://duckduckgo.com/?t=ffab&q=days+since+march+21st+2022&ia=answer
 --- )
 -- Compilation
 
--- Organizations ran by @seanpm2001 (952)
+-- Organizations ran by @seanpm2001 (962)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -934,8 +934,18 @@ https://github.com/Seanpm2001-WTFPL-License
 https://github.com/360Desktop-development
 https://github.com/Nuclear-ads
 https://github.com/Seanpm2001-InternetArchive
+https://github.com/Seanpm2001-Meta
+https://github.com/WichCraft-dev
+https://github.com/FloweredNotch
+https://github.com/MalNotch
+https://github.com/Notchware
+https://github.com/Seanpm2001-UnitedStatesofAmerica
+https://github.com/Seanpm2001-Ukraine
+https://github.com/Ukraine-History-Simulator
+https://github.com/WacOS-OnESTEP
+https://github.com/WacOS-OpenGS
 
--- Organizations NOT ran by @seanpm2001 (384)
+-- Organizations NOT ran by @seanpm2001 (387)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1320,13 +1330,16 @@ https://github.com/joomla
 https://github.com/red
 https://github.com/PowerShell
 https://github.com/sphinx-doc
+https://github.com/Desktop
+https://github.com/cucumber
+https://github.com/Wichcraft
 
--- Statistics (as of 2022, Friday, June 24th)
+-- Statistics (as of 2022, Friday, July 1st)
 -- Total:
--- Run by @seanpm2001: 952
--- Not run by @seanpm2001: 384
--- Overall total: 1,336
--- Ratio: 71.25%/28.75%
+-- Run by @seanpm2001: 962
+-- Not run by @seanpm2001: 387
+-- Overall total: 1,349
+-- Ratio: 71.31%/28.69%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -1538,6 +1551,7 @@ https://github.com/TouchPetsDogs2Rewritten
 https://github.com/Seanpm2001-Yacc-lang
 https://github.com/Seanpm2001-V-lang
 https://github.com/Seanpm2001-Agda-lang
+
 
 -- Non-@seanpm2001 organizations
 
@@ -3656,10 +3670,90 @@ https://github.com/Seanpm2001-InternetArchive
 
 -- None
 
+-- 2022 June 25th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 26th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 27th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 28th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 29th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 June 30th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/Desktop
+
+-- 2022 July 1st
+
+-- @seanpm2001 organizations
+
+https://github.com/Seanpm2001-Meta
+https://github.com/WichCraft-dev
+https://github.com/FloweredNotch
+https://github.com/MalNotch
+https://github.com/Notchware
+https://github.com/Seanpm2001-UnitedStatesofAmerica
+https://github.com/Seanpm2001-Ukraine
+https://github.com/Ukraine-History-Simulator
+https://github.com/WacOS-OnESTEP
+https://github.com/WacOS-OpenGS
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/cucumber
+https://github.com/Wichcraft
+
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 25 (2022, Friday, June 24th at 5:14 pm PST)
+-- File version: 26 (2022, Friday, July 1st at 8:56 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,666
+-- Line count (including blank lines and compiler line): 3,760
 -- EOF (End of File)
