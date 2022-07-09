@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, July.
 
 ( [<-- `Go back to 2022 June`](/NewOrgs/2022/06_June/README.md) | [`Current (2022 July)`](/NewOrgs/2022/07_July/) | [ --> Continue to `2022 August`](/NewOrgs/2022/08_August/README.md) )
 
-**This list was last updated on:** `Friday, 2022 July 1st at 6:12 pm PST`
+**This list was last updated on:** `Friday, 2022 July 1st at 7:23 pm PST`
 
 ### Index
 
@@ -134,16 +134,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`WhyWatchOS`](https://github.com/WhyWatchOS/) |
+| 02 | [`WacOS-wOS`](https://github.com/WacOS-wOS/) |
+| 03 | [`WhyPhoneOS`](https://github.com/WhyPhoneOS/) |
+| 04 | [`Wac-OS-X`](https://github.com/Wac-OS-X/) |
+| 05 | [`Wac-OS-X-Public-Beta`](https://github.com/Wac-OS-X-Public-Beta/) |
+| 06 | [`WOAHS-X`](https://github.com/WOAHS-X/) |
+| 07 | [`WacOS-DOS-Mode`](https://github.com/WacOS-DOS-Mode/) |
+| 08 | [`WacOS-BaSYS`](https://github.com/WacOS-BaSYS/) |
+| 09 | [`WacTVOS`](https://github.com/WacTVOS/) |
+| 10 | [`WhyPadOS`](https://github.com/WhyPadOS/) |
 
 </details>
 
@@ -294,9 +294,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `02 (Friday, 2022 July 1st at 6:12 pm PST)`
+**File version:** `03 (Friday, 2022 July 8th at 7:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `381`
+**Line count (including blank lines and compiler line):** `398`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -342,6 +342,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the 2022 July section
 - - [x] Filled in data for 2022 July 1st
 - - [x] Added templates for July 8th, July 15th, July 22nd, and July 29th
+- [x] Updated the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 1
+
+</details>
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Friday, July 8th at 7:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the 2022 July section
+- - [x] Filled in data for 2022 July 8th
 - [x] Updated the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
