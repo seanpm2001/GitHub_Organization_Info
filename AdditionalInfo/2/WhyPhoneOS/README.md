@@ -11,7 +11,7 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the rasterized logo for this project</b></summary>
 
-![wOS_Logo_1280px_V1_HighCompression.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/WhyPhoneOS/wOS_Logo_1280px_V1_HighCompression.png)
+![WhyPhoneOS_Logo1_1280px_V1_HighCompression.png failed to load. The file may be missing or corrupt. Check the file path for errors first.](/AdditionalInfo/2/WhyPhoneOS/WhyPhoneOS_Logo1_1280px_V1_HighCompression.png)
 
 </details>
 
@@ -49,9 +49,9 @@ There is no current home repository for this project.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, July 8th at 8:06 pm PST)`
+**File version:** `2 (2022, Friday, July 8th at 8:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `83`
+**Line count (including blank lines and compiler line):** `98`
 
 **Article language:** `English (USA)`
 
@@ -76,6 +76,19 @@ There is no current home repository for this project.
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, July 8th at 8:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Fixed the broken image link
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
