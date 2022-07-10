@@ -1820,7 +1820,11 @@ The ratio for today was 10:2(12:88)
 
 [Click/tap here to see the follow log for 2022 July 2nd](/Follows/2022/July/02/)
 
-Comng soon
+**Day 103**
+
+I followed 8 external orgs today.
+
+The ratio for today was 8:0(8:92)
 
 </details> <!-- July 2nd !-->
 
@@ -1830,7 +1834,11 @@ Comng soon
 
 [Click/tap here to see the follow log for 2022 July 3rd](/Follows/2022/July/03/)
 
-Coming soon.
+**Day 104**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- July 3rd !-->
 
@@ -1840,7 +1848,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 4th](/Follows/2022/July/04/)
 
-Coming soon.
+**Day 105**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- July 4th !-->
 
@@ -1850,7 +1862,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 5th](/Follows/2022/July/05/)
 
-Coming soon.
+**Day 106**
+
+I followed VirusTotal today, not for the Anti-virus, but for the YARA programming language.
+
+The ratio for today was 1:0(1:99)
 
 </details> <!-- July 5th !-->
 
@@ -1860,7 +1876,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 6th](/Follows/2022/July/06/)
 
-Coming soon.
+**Day 107**
+
+I followed the SLSA Framework organization today, as they are the newest Google Golang action provider for GitHub.
+
+The ratio for today was 1:0(1:99)
 
 </details> <!-- July 6th !-->
 
@@ -1870,7 +1890,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 7th](/Follows/2022/July/07/)
 
-Coming soon.
+**Day 108**
+
+I followed 4 organizations today.
+
+The ratio for today was 4:0(4:96)
 
 </details> <!-- July 7th !-->
 
@@ -1880,7 +1904,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 8th](/Follows/2022/July/08/)
 
-Coming soon.
+**Day 109**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today by default. I followed 1 in addition today.
+
+The ratio for today was 10:1(11:89)
 
 </details> <!-- July 8th !-->
 
@@ -2646,11 +2674,17 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V27 (Coming soon)</b></summary>
+<details><summary><b>V27 (2022, Saturday, July 9th at 7:10 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 July 2nd to 2022 July 8th
 
 - [ ] No other changes in version 27
 
@@ -2906,6 +2940,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V53 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 53
+
+</details>
+
+<details><summary><b>V54 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 54
+
+</details>
+
 </details>
 
 ***
@@ -2916,9 +2970,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2022, Friday, July 1st at 9:05 pm PST)`
+**File version:** `27 (2022, Saturday, July 9th at 7:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,272`
+**Line count (including blank lines and compiler line):** `3,326`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
