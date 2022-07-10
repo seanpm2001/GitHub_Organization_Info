@@ -174,9 +174,11 @@ This project is a model project and it shouldn't be much of a problem security-w
 | v1.1.60B    | :x: | Old version, not supported |
 | v1.1.61A    | :x: | Old version, not supported |
 | v1.1.61B    | :x: | Old version, not supported |
-| v1.1.62A    | :heavy_check_mark: | Current version, supported |
-| v1.1.62B    | :heavy_check_mark: | Current version, supported |
-| < V1.1.61B & > 2022 June 30th  | :heavy_check_mark: | Current version set, supported |
+| v1.1.62A    | :x: | Old version, not supported |
+| v1.1.62B    | :x: | Old version, not supported |
+| v1.1.63A    | :heavy_check_mark: | Current version, supported |
+| v1.1.63B    | :heavy_check_mark: | Current version, supported |
+| < V1.1.62B & > 2022 July 8th  | :heavy_check_mark: | Current version set, supported |
 | v???????    | :question: | NOT YET RELEASED |
 | v???????    | :question: | NOT YET RELEASED |
 
@@ -212,9 +214,9 @@ Please make sure to read key project documentation before reporting a security p
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Friday, July 1st at 10:03 pm PST)`
+**File version:** `21 (2022, Saturday, July 9th at 8:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `786`
+**Line count (including blank lines and compiler line):** `812`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -572,11 +574,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b lang="en">Version 21 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 21 (2022, Saturday, July 9th at 8:50 pm PST)</b></summary>
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 21
 
@@ -769,6 +775,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 40
+
+</details>
+
+<details><summary><b lang="en">Version 41 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 41
+
+</details>
+
+<details><summary><b lang="en">Version 42 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 42
 
 </details>
 
