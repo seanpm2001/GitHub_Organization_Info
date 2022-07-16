@@ -9,7 +9,7 @@ This list showcases my new GitHub organizations from 2022, July.
 
 ( [<-- `Go back to 2022 June`](/NewOrgs/2022/06_June/README.md) | [`Current (2022 July)`](/NewOrgs/2022/07_July/) | [ --> Continue to `2022 August`](/NewOrgs/2022/08_August/README.md) )
 
-**This list was last updated on:** `Friday, 2022 July 1st at 7:23 pm PST`
+**This list was last updated on:** `Friday, 2022 July 15th at 7:05 pm PST`
 
 ### Index
 
@@ -177,16 +177,16 @@ No data available for this day.
 
 | Creation order | Organization URL |
 |-----|-----|
-| 01 | [`<coming-soon>`](https://www.example.com) |
-| 02 | [`<coming-soon>`](https://www.example.com) |
-| 03 | [`<coming-soon>`](https://www.example.com) |
-| 04 | [`<coming-soon>`](https://www.example.com) |
-| 05 | [`<coming-soon>`](https://www.example.com) |
-| 06 | [`<coming-soon>`](https://www.example.com) |
-| 07 | [`<coming-soon>`](https://www.example.com) |
-| 08 | [`<coming-soon>`](https://www.example.com) |
-| 09 | [`<coming-soon>`](https://www.example.com) |
-| 10 | [`<coming-soon>`](https://www.example.com) |
+| 01 | [`OpenGS-OS`](https://github.com/OpenGS-OS/) |
+| 02 | [`MEDOS-Floppy`](https://github.com/MEDOS-Floppy/) |
+| 03 | [`MEDOS-Dev`](https://github.com/MEDOS-Dev/) |
+| 04 | [`MEDOS-HDD`](https://github.com/MEDOS-HDD/) |
+| 05 | [`MEDOS-SSD`](https://github.com/MEDOS-SSD/) |
+| 06 | [`Wac-OS`](https://github.com/Wac-OS/) |
+| 07 | [`WacPaint`](https://github.com/WacPaint/) |
+| 08 | [`WacWrite`](https://github.com/WacWrite/) |
+| 09 | [`WacOS-TV`](https://github.com/WacOS-TV/) |
+| 10 | [`BaSYS-dev`](https://github.com/BaSYS-dev/) |
 
 </details>
 
@@ -294,9 +294,9 @@ No data available for this day.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `03 (Friday, 2022 July 8th at 7:23 pm PST)`
+**File version:** `04 (Friday, 2022 July 15th at 7:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `398`
+**Line count (including blank lines and compiler line):** `411`
 
 **Current article language:** `English (EN_US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -348,8 +348,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-</details>
-
 <details><summary><p lang="en"><b>Version 3 (2022, Friday, July 8th at 7:23 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -359,6 +357,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the title section
 - [x] Updated the 2022 July section
 - - [x] Filled in data for 2022 July 8th
+- [x] Updated the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Friday, July 15th at 7:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the 2022 July section
+- - [x] Filled in data for 2022 July 15th
 - [x] Updated the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
