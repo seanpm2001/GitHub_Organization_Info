@@ -1,12 +1,12 @@
 --URLL-version=2;
 -- COMPILATION.urll
 -- A compilation of all the GitHub organizations I am following, ever since the feature got added on 2022 March 21st
--- Range: 2022 March 21st to 2022 July 8th (109 days) (last checked on 2022, Friday, June 17th with this link:
+-- Range: 2022 March 21st to 2022 July 15th (116 days) (last checked on 2022, Friday, June 17th with this link:
 https://duckduckgo.com/?t=ffab&q=days+since+march+21st+2022&ia=answer
 -- )
 -- Compilation
 
--- Organizations ran by @seanpm2001 (972)
+-- Organizations ran by @seanpm2001 (982)
 
 -- Note: it may seem off (since it is not the exact organization count) as several entries are missing/not found
 
@@ -954,8 +954,18 @@ https://github.com/WacOS-DOS-Mode
 https://github.com/WacOS-BaSYS
 https://github.com/WacTVOS
 https://github.com/WhyPadOS
+https://github.com/OpenGS-OS
+https://github.com/MEDOS-Floppy
+https://github.com/MEDOS-Dev
+https://github.com/MEDOS-HDD
+https://github.com/MEDOS-SSD
+https://github.com/Wac-OS
+https://github.com/WacPaint
+https://github.com/WacWrite
+https://github.com/WacOS-TV
+https://github.com/BaSYS-dev
 
--- Organizations NOT ran by @seanpm2001 (402)
+-- Organizations NOT ran by @seanpm2001 (412)
 
 https://github.com/ballerina-platform
 https://github.com/toml-lang
@@ -1358,13 +1368,23 @@ https://github.com/earthly
 https://github.com/openjournals
 https://github.com/executablebooks
 https://github.com/citation-style-language
+https://github.com/the-infocom-files
+https://github.com/ooc-lang
+https://github.com/darkreader
+https://github.com/beanshell
+https://github.com/nasa
+https://github.com/scummvm
+https://github.com/pwning
+https://github.com/MakerHub/
+https://github.com/open-goal
+https://github.com/gitGNU
 
--- Statistics (as of 2022, Friday, July 8th)
+-- Statistics (as of 2022, Friday, July 15th)
 -- Total:
--- Run by @seanpm2001: 972
--- Not run by @seanpm2001: 402
--- Overall total: 1,374
--- Ratio: 70.74%/29.26%
+-- Run by @seanpm2001: 982
+-- Not run by @seanpm2001: 412
+-- Overall total: 1,394
+-- Ratio: 70.44%/29.56%
 -- Ratio calculation source: GNOME Calculator
 -- Other calculation source: Separate list files, mental math
 
@@ -1576,7 +1596,6 @@ https://github.com/TouchPetsDogs2Rewritten
 https://github.com/Seanpm2001-Yacc-lang
 https://github.com/Seanpm2001-V-lang
 https://github.com/Seanpm2001-Agda-lang
-
 
 -- Non-@seanpm2001 organizations
 
@@ -3862,14 +3881,96 @@ https://github.com/WhyPadOS
 
 -- Non-@seanpm2001 organizations
 
+https://github.com/citation-style-language
+
+-- 2022 July 9th
+
+-- @seanpm2001 organizations
+
 -- None
 
-https://github.com/citation-style-language
+-- Non-@seanpm2001 organizations
+
+https://github.com/the-infocom-files
+
+-- 2022 July 10th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 July 11th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/ooc-lang
+https://github.com/darkreader
+https://github.com/beanshell
+https://github.com/nasa
+
+-- 2022 July 12th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/scummvm
+https://github.com/pwning
+
+-- 2022 July 13th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+-- None
+
+-- 2022 July 14th
+
+-- @seanpm2001 organizations
+
+-- None
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/MakerHub
+
+-- 2022 July 15th
+
+-- @seanpm2001 organizations
+
+https://github.com/OpenGS-OS
+https://github.com/MEDOS-Floppy
+https://github.com/MEDOS-Dev
+https://github.com/MEDOS-HDD
+https://github.com/MEDOS-SSD
+https://github.com/Wac-OS
+https://github.com/WacPaint
+https://github.com/WacWrite
+https://github.com/WacOS-TV
+https://github.com/BaSYS-dev
+
+-- Non-@seanpm2001 organizations
+
+https://github.com/open-goal
+https://github.com/gitGNU
 
 -- %\__/\/\/\/\/\ DIVIDER /\/\/\/\/\__/& --
 
 -- File info
--- File version: 27 (2022, Saturday, July 9th at 6:42 pm PST)
+-- File version: 28 (2022, Friday, July 15th at 10:33 pm PST)
 -- File type: URLL source file (*.urll)
--- Line count (including blank lines and compiler line): 3,876
+-- Line count (including blank lines and compiler line): 3,977
 -- EOF (End of File)
