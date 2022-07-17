@@ -1,11 +1,427 @@
 
 seanpm2001/GitHub_Organization_Info [ChangeLog]
 
-V18 - 2022, Saturday, July 9th at 8:42 pm PST
+V19 - 2022, Saturday, July 16th at 7:05 pm PST
 
-A catalog of the first 164/165 versions, and their changes
+A catalog of the first 166/167 versions, and their changes
 
-Line count: 11,537
+Line count: 11,953
+
+***
+
+# Version 1.1.64B - 2022 Friday, July 15th
+
+## V1.1.64B
+
+### Changes:
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the lead section</p></summary>
+
+This is the Hundred-sixty-sixth release of this project. It contains the basic data for 1,000 organizations, related notes, and images. It is missing data for 2 organizations. This is the actual 166th release. I made a mistake with the 44th release, and upon fixing it, it created a duplicate release. This notice is getting kind of dated (old) but it explains why this is V166 and not V167. I intend to keep it until it makes a large enough dent. For now, I just plan to keep this notice as long as possible.
+
+This release is coming 1 day late (on 2022, Saturday, July 16th) as I didn't have enough time yesterday, there wasn't too much left, but I spent too much time on other projects to finish this one on the same day.
+
+This is the twenty-fourth set of releases for the year of 2022, as I made time to work on this project on 2022 Friday, July 15th. I have plans to continue for a minimum of 11 more consecutive weeks. The number hasn't gone down, as more entries are still being added on an almost-daily basis. I will return again on 2022, Friday, July 22nd.
+
+I received my first external fork on this project on 2022 March 18th, and now the fork count can't be relied upon for getting the organization count. Luckily, I have plenty of other indicators and measures for this. I was hoping I could get to 1000 before this happened, but it's fine. There has been another external fork on 2022 April 1st as well (total forks not by me, as of this release: 2)
+
+On Monday, 2022 April 11th, GitHub released an update with bad performance that redirects project forks to a page I cannot access (it only times out and gives me a unicorn error) I cannot fork any repositories at the moment, including this one. I am working on making a tool to automate forks, so I don't have to spend time with it. I feel this will save me time. 
+
+See below for more changes.
+
+</details>
+
+### Changes
+
+This is version 166, the B variant of version 165 to 166. It includes the following changes:
+
+<details open><summary><p>Click/tap here to expand/collapse the list of changes in this release</p></summary>
+
+- [x] Updated discussion data
+
+- [x] Updated release data
+
+- [x] Archived release and discussion data
+
+<!--
+- [x] Added new compilation data
+!-->
+
+<!--
+- - [x] Added new GitHub setup compilation data (foldered and unfoldered)
+!-->
+
+<!--
+- - [x] Added the usual compilation data for this week
+!-->
+
+<!--
+- [x] Added the GitHub profile image category
+!-->
+
+<!--
+- [x] Updated the compilation directory for additional organization info
+!-->
+
+<!--
+- [x] Added the commons image directory under additionalInfo that shows organization photos used more than once
+!-->
+
+<!--
+- [x] Added the GitHub profile directory for @seanpm2001, showing a graphical list of all organizations as displayed on the GitHub profile
+!-->
+
+<!--
+- [X] Archived 4 new issues
+!-->
+
+<!--
+- [x] Updated security info
+!-->
+
+<!--
+- [x] Updated the main `README.md` file
+!-->
+
+<!--
+- [x] Updated the changelog, both in plain text and markdown formats
+!-->
+
+<!--
+- [x] Maintenance updates to the `Follows` directory, for GitHub Organization follow data (the ability to follow organizations was added on 2022 March 21st)
+!-->
+
+<!--
+- [x] Archived milestone data
+!-->
+
+<!--
+- [x] Added template filling data to entries from 2021 September to 2021 December under `/OrganizationGraphics/`
+!-->
+
+<!--
+- [x] Updated gem files
+!-->
+
+<!--
+- [x] Updated the `.gitattributes` file
+!-->
+
+<!--
+- [x] Added the `ACRONYMS.md` file to list acronyms used on this project
+!-->
+
+<!--
+- [x] Deleted 8 `IGNORE.md` files
+!-->
+
+<!--
+- [x] Deleted 7 `IGNORE.md` files
+!-->
+
+<!-- 
+- [x] Deleted 4 `IGNORE.md` files
+!-->
+
+- [x] Deleted 3 `IGNORE.md` files
+
+<!--
+- [x] Began adding support for 2022 data
+!-->
+
+<!--
+- [x] Updated Git navigation data
+!-->
+
+<!--
+- [x] Added data up to 2022 July 15th (10 new organizations documented)
+!-->
+
+<!--
+- [x] Added 4 image files to the GitHub Organization follows directory (follow and unfollow buttons, in light and dark modes)
+!-->
+
+<!--
+- [x] Uploaded 2 org setup images
+!-->
+
+- [ ] No other changes in this release
+
+</details>
+
+### Technical and statistics
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the technical notes and statistics section</p></summary>
+
+**Size:** `3.7 Gigabytes (uncompressed size)` _As of V165 (previous release)_
+
+**V1.1.51A and later:** _I cannot calculate the exact size. Uncollapse the following block, and read the second entry for more info._
+
+<!-- **V1.1.60A and later:** _I cannot calculate the size. Uncollapse the following block, and read the second entry for more info._ !-->
+
+**V1.1.60B and later:** _I cannot calculate the size until publishing the release. Uncollapse the following block, and read the second entry for more info._
+
+**Update:** _I am able to calculate the size using GNOME Disk Usage Analyzer, but I am being lazy at the moment._
+
+> **Edit:** _I tried not being lazy today, but found that GNOME Disk Usage Analyzer doesn't help give the exact size either._
+
+<details><summary><p lang="en">Click/tap here to expand/collapse older size notes</p></summary>
+
+1. _Why is this release so much larger? **(V1.1.48A)** A large image file (8.137 megabytes) was used more than 2 times, and there was a significant increase in documentation, along with other large image files, and clones of the changelog and security log._
+
+2. _I can no longer document the exact size of the project **(V1.1.51A)** the project has exceeded 1000 Megabytes in size, and I can't cover the size down to the exact megabyte anymore, as I don't have any Linux software to do this yet._
+
+3. _The total size reached 1.1 gigabytes on V141_
+
+4. _The total size reached 1.2 gigabytes on V149_
+
+5. _The total size reached 1.3 gigabytes on V155_
+
+6. The V1.1.60 release brought the project up past 2 gigabytes in size, but during preparation on this day, I was given an error when trying to load the archive
+
+- 1. Update1: I can still extract the files AFTER I publish the release, but not before publishing. Data will be incomplete
+
+7. _The total size reached 3.0 gigabytes on V157_
+
+8. _The total size reached 3.2 gigabytes on V159_
+
+9. _The total size reached 3.3 gigabytes on V161_
+
+10. _The total size reached 3.6 gigabytes on V163_
+
+11. _The total size reached 3.7 gigabytes on V165_
+
+12. _The repository reached 50,000+ files on V165_
+
+</details>
+
+**File count:** `50,237 files and folders` _As of V165 (previous release)_
+
+**Languages:** `Ruby` `YAML (YAML Ain't Markup Language)` `Markdown` `XML (eXtensible Markup Language)` `Makefile (GNU Make)` `SVG (Scalable Vector Graphics)` `GIT IGNORE` `GIT ATTRIBUTES` `EDITORCONFIG` `Plain Text` `English (US)` `CSV (Comma Separated Values)`
+
+**Type:** `Information portal database.`
+
+**Commit count:** `9,744`
+
+**Commits in last release:** `9,733`
+
+**Commit change:** `11`
+
+**Release notes page file type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**Release notes language:** `English (En_USA) / Markdown (CommonMark) / HTML5 (HyperText Markup Language 5.3)`
+
+**Release notes line count (including blank lines and compiler line):** `219`
+
+***Released on 2022, Saturday, July 16th at 6:50 pm PST***
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+# Version 1.1.64A - 2022 Friday, July 15th
+
+## V1.1.64A
+
+### Changes:
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the lead section</p></summary>
+
+This is the Hundred-sixty-fifth release of this project. It contains the basic data for 1,000 organizations, related notes, and images. It is missing data for 2 organizations. This is the actual 165th release. I made a mistake with the 44th release, and upon fixing it, it created a duplicate release. This notice is getting kind of dated (old) but it explains why this is V165 and not V166. I intend to keep it until it makes a large enough dent. For now, I just plan to keep this notice as long as possible.
+
+This release is coming 1 day late (on 2022, Saturday, July 16th) as I didn't have enough time yesterday, there wasn't too much left, but I spent too much time on other projects to finish this one on the same day.
+
+This is the twenty-fourth set of releases for the year of 2022, as I made time to work on this project on 2022 Friday, July 15th. I have plans to continue for a minimum of 11 more consecutive weeks. The number hasn't gone down, as more entries are still being added on an almost-daily basis. I will return again on 2022, Friday, July 22nd.
+
+I received my first external fork on this project on 2022 March 18th, and now the fork count can't be relied upon for getting the organization count. Luckily, I have plenty of other indicators and measures for this. I was hoping I could get to 1000 before this happened, but it's fine. There has been another external fork on 2022 April 1st as well (total forks not by me, as of this release: 2)
+
+On Monday, 2022 April 11th, GitHub released an update with bad performance that redirects project forks to a page I cannot access (it only times out and gives me a unicorn error) I cannot fork any repositories at the moment, including this one. I am working on making a tool to automate forks, so I don't have to spend time with it. I feel this will save me time. 
+
+See below for more changes.
+
+</details>
+
+### Changes
+
+This is version 165, the A variant of version 165 to 166. It includes the following changes:
+
+<details open><summary><p>Click/tap here to expand/collapse the list of changes in this release</p></summary>
+
+- [x] Updated discussion data
+
+- [x] Updated release data
+
+- [x] Archived release and discussion data
+
+<!--
+- [x] Added new compilation data
+!-->
+
+- - [x] Added new GitHub setup compilation data (foldered and unfoldered)
+
+- - [x] Added the usual compilation data for this week
+
+<!--
+- [x] Added the GitHub profile image category
+!-->
+
+- [x] Updated the compilation directory for additional organization info
+
+<!--
+- [x] Added the commons image directory under additionalInfo that shows organization photos used more than once
+!-->
+
+<!--
+- [x] Added the GitHub profile directory for @seanpm2001, showing a graphical list of all organizations as displayed on the GitHub profile
+!-->
+
+<!--
+- [X] Archived 4 new issues
+!-->
+
+- [x] Updated security info
+
+<!--
+- [x] Updated the main `README.md` file
+!-->
+
+- [x] Updated the changelog, both in plain text and markdown formats
+
+- [x] Maintenance updates to the `Follows` directory, for GitHub Organization follow data (the ability to follow organizations was added on 2022 March 21st)
+
+<!--
+- [x] Archived milestone data
+!-->
+
+<!--
+- [x] Added template filling data to entries from 2021 September to 2021 December under `/OrganizationGraphics/`
+!-->
+
+<!--
+- [x] Updated gem files
+!-->
+
+<!--
+- [x] Updated the `.gitattributes` file
+!-->
+
+<!--
+- [x] Added the `ACRONYMS.md` file to list acronyms used on this project
+!-->
+
+<!--
+- [x] Deleted 8 `IGNORE.md` files
+!-->
+
+<!--
+- [x] Deleted 7 `IGNORE.md` files
+!-->
+
+<!-- 
+- [x] Deleted 4 `IGNORE.md` files
+!-->
+
+<!--
+- [x] Deleted 3 `IGNORE.md` files
+!-->
+
+<!--
+- [x] Began adding support for 2022 data
+!-->
+
+<!--
+- [x] Updated Git navigation data
+!-->
+
+- [x] Added data up to 2022 July 15th (10 new organizations documented)
+
+<!--
+- [x] Added 4 image files to the GitHub Organization follows directory (follow and unfollow buttons, in light and dark modes)
+!-->
+
+<!--
+- [x] Uploaded 2 org setup images
+!-->
+
+- [ ] No other changes in this release
+
+</details>
+
+### Technical and statistics
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the technical notes and statistics section</p></summary>
+
+**Size:** `3.6 Gigabytes (uncompressed size)` _As of V164 (previous release)_
+
+**V1.1.51A and later:** _I cannot calculate the exact size. Uncollapse the following block, and read the second entry for more info._
+
+<!-- **V1.1.60A and later:** _I cannot calculate the size. Uncollapse the following block, and read the second entry for more info._ !-->
+
+**V1.1.60B and later:** _I cannot calculate the size until publishing the release. Uncollapse the following block, and read the second entry for more info._
+
+**Update:** _I am able to calculate the size using GNOME Disk Usage Analyzer, but I am being lazy at the moment._
+
+> **Edit:** _I tried not being lazy today, but found that GNOME Disk Usage Analyzer doesn't help give the exact size either._
+
+<details><summary><p lang="en">Click/tap here to expand/collapse older size notes</p></summary>
+
+1. _Why is this release so much larger? **(V1.1.48A)** A large image file (8.137 megabytes) was used more than 2 times, and there was a significant increase in documentation, along with other large image files, and clones of the changelog and security log._
+
+2. _I can no longer document the exact size of the project **(V1.1.51A)** the project has exceeded 1000 Megabytes in size, and I can't cover the size down to the exact megabyte anymore, as I don't have any Linux software to do this yet._
+
+3. _The total size reached 1.1 gigabytes on V141_
+
+4. _The total size reached 1.2 gigabytes on V149_
+
+5. _The total size reached 1.3 gigabytes on V155_
+
+6. The V1.1.60 release brought the project up past 2 gigabytes in size, but during preparation on this day, I was given an error when trying to load the archive
+
+- 1. Update1: I can still extract the files AFTER I publish the release, but not before publishing. Data will be incomplete
+
+7. _The total size reached 3.0 gigabytes on V157_
+
+8. _The total size reached 3.2 gigabytes on V159_
+
+9. _The total size reached 3.3 gigabytes on V161_
+
+10. _The total size reached 3.6 gigabytes on V163_
+
+</details>
+
+**File count:** `49,517 files and folders` _As of V164 (previous release)_
+
+**Languages:** `Ruby` `YAML (YAML Ain't Markup Language)` `Markdown` `XML (eXtensible Markup Language)` `Makefile (GNU Make)` `SVG (Scalable Vector Graphics)` `GIT IGNORE` `GIT ATTRIBUTES` `EDITORCONFIG` `Plain Text` `English (US)` `CSV (Comma Separated Values)`
+
+**Type:** `Information portal database.`
+
+**Commit count:** `9,733`
+
+**Commits in last release:** `9,601`
+
+**Commit change:** `132`
+
+**Release notes page file type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**Release notes language:** `English (En_USA) / Markdown (CommonMark) / HTML5 (HyperText Markup Language 5.3)`
+
+**Release notes line count (including blank lines and compiler line):** `203`
+
+***Released on 2022, Saturday, July 16th at 6:37 pm PST***
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
 
 ***
 
