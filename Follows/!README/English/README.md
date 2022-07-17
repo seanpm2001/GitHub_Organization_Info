@@ -1918,7 +1918,11 @@ The ratio for today was 10:1(11:89)
 
 [Click/tap here to see the follow log for 2022 July 9th](/Follows/2022/July/09/)
 
-Coming soon.
+**Day 110**
+
+I followed 1 organization today that is providing Z-Machine source code, specifically from a platform known as Infocom.
+
+The ratio for today was 0:1(1:99)
 
 </details> <!-- July 9th !-->
 
@@ -1928,7 +1932,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 10th](/Follows/2022/July/10/)
 
-Coming soon.
+**Day 111**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- July 10th !-->
 
@@ -1938,7 +1946,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 11th](/Follows/2022/July/11/)
 
-Coming soon.
+**Day 112**
+
+I followed 4 organizations today. One of them was long overdue (NASA) the other 3 were recently discovered (darkreader, beanshell, and the Ooc programming language)
+
+The ratio for today was 0:4(4:96)
 
 </details> <!-- July 11th !-->
 
@@ -1948,7 +1960,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 12th](/Follows/2022/July/12/)
 
-Coming soon.
+**Day 113**
+
+I followed 2 organizations today, one a hacker group, and another a Linux program that seems interesting (ScummVM)
+
+The ratio for today was 0:2(2:98)
 
 </details> <!-- July 12th !-->
 
@@ -1958,7 +1974,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 13th](/Follows/2022/July/13/)
 
-Coming soon.
+**Day 114**
+
+I didn't follow any organizations today.
+
+The ratio for today was 0:0(0:100)
 
 </details> <!-- July 13th !-->
 
@@ -1968,7 +1988,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 14th](/Follows/2022/July/14/)
 
-Coming soon.
+**Day 115**
+
+I followed 1 organization today, MakerHub, the creator of the LabVIEW programming language.
+
+The ratio for today was 0:1(1:99)
 
 </details> <!-- July 14th !-->
 
@@ -1978,7 +2002,11 @@ Coming soon.
 
 [Click/tap here to see the follow log for 2022 July 15th](/Follows/2022/July/15/)
 
-Coming soon.
+**Day 116**
+
+Today was the day of the week where I create organizations. I follow the ones I create, so 10 were followed today by default. I followed 2 in addition today, one of them is considered very important (GNU) while the other is just a recently discovered, lesser organization.
+
+The ratio for today was 10:2(12:88)
 
 </details> <!-- July 15th !-->
 
@@ -2690,11 +2718,17 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
-<details><summary><b>V28 (Coming soon)</b></summary>
+<details><summary><b>V28 (2022, Saturday, July 16th at 6:28 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the changelog
+
+- - [x] Filled in this weeks entry
+
+- [x] Updated the file info section
+
+- [x] Filled in the entries for 2022 July 9th to 2022 July 15th
 
 - [ ] No other changes in version 28
 
@@ -2960,6 +2994,26 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 </details>
 
+<details><summary><b>V55 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 55
+
+</details>
+
+<details><summary><b>V56 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 56
+
+</details>
+
 </details>
 
 ***
@@ -2970,9 +3024,9 @@ _I considered adding in blank entries up to April 30th today, but decided not to
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2022, Saturday, July 9th at 7:10 pm PST)`
+**File version:** `28 (2022, Saturday, July 16th at 6:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,326`
+**Line count (including blank lines and compiler line):** `3,380`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
