@@ -1,0 +1,12 @@
+Delete notes for 2022 August 7th
+
+Pictures have been provided that have the necessary details to recreate these organizations properly in the future.
+Things are going to become more complex when I get higher up the list, as I will have to deal with:
+- constant multi-page organizations
+- GitHub Pages data (no longer a problem, as of 2022, Sunday, August 7th)
+- Snapcraft package data (no longer a problem, as of 2022, Sunday, August 7th)
+
+On 2022, Sunday, August 7th, I took care of GitHub Pages and Snapcraft package data beforehand, so these won't be an issue. Multi-page organizations will still be a problem.
+Some personal notes from backing up GitHub Pages and Snapcraft data today:
+- DeGoogle-your-life.github.io didn't have a development branch, don't worry future self, you didn't forget anything here
+- TouchPetsDogs2Rewritten-Snap is a complete duplicate of its successor. I have checked. There is no need to worry.
