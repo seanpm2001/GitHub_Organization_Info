@@ -1,0 +1,14 @@
+| Date | # of Organizations deleted today | # of organizations deleted total | Percentage of total |  Total % |
+|---|---|---|---|---|
+| Day 1, 2022, Friday, August 5th | 140 | 140 | 14.0% | 14.0% |
+| Day 2, 2022, Saturday, August 6th | 80 | 220 | 08.0% | 22.0% |
+| Day 3, 2022, Sunday, August 7th | 60 | 280 | 06.0% | 28.0% |
+| Day 4, 2022, Monday, August 8th | 80 | 360 | 08.0% | 36.0% |
+| Day 5, Coming soon | :x: | :x: | :x: | :x: |
+| Day 6, Coming soon | :x: | :x: | :x: | :x: |
+| Day 7, Coming soon | :x: | :x: | :x: | :x: |
+| Day 8, Coming soon | :x: | :x: | :x: | :x: |
+| Day 9, Coming soon | :x: | :x: | :x: | :x: |
+| Day 10, Coming soon | :x: | :x: | :x: | :x: |
+| Day 11, Coming soon | :x: | :x: | :x: | :x: |
+| Day 12, Coming soon | :x: | :x: | :x: | :x: |
