@@ -14,6 +14,16 @@ https://github.com/Seanpm2001-ShaderLab-lang
 https://github.com/Seanpm2001-Mustache-lang
 ```
 
+## 2022 August 8th
+
+3 more organizations that were created but never followed were discovered on 2022 August 8th
+
+```urll
+https://github.com/Seanpm2001-IssueHunt
+https://github.com/HT-Messenger
+https://github.com/Computing-longevity
+```
+
 ***
 
 ### File info
@@ -22,9 +32,9 @@ https://github.com/Seanpm2001-Mustache-lang
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Sunday, August 7th at 4:19 pm PST)`
+**File version:** `2 (2022, Monday, August 8th at 5:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `65`
+**Line count (including blank lines and compiler line):** `88`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -52,10 +62,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [x] Started the file
 - [x] Added the title section
-- [x] Added the `222 August 7th` section
+- [x] Added the `2022 August 7th` section
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 8th at 5:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added the `2022 August 8th` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
