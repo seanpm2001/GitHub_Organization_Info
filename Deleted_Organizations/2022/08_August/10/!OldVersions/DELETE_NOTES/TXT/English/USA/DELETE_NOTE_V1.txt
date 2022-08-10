@@ -1,0 +1,39 @@
+Delete notes for 2022 August 10th
+
+Pictures have been provided that have the necessary details to recreate these organizations properly in the future.
+Things are going to become more complex when I get higher up the list, as I will have to deal with:
+- constant multi-page organizations
+
+Yesterday (2022, August 9th) I tackled highly developed/sophisticated organizations, which took more time and resources to document. As of over an hour after deletion, seanpm2001-all and seanwallawalla-forks return a 404 page, but still show up with their icons on my profile. I did the same on 2022 August 10th.
+
+seanwallawalla-software was originally not listed in my deleted organization list, after going back through the list after completing todays work, I found I deleted 81 organizations, instead of the target 80. I will do 79 tomorrow, instead of 80.
+
+As of 2022, Wednesday, August 10th at 4:58 pm PST, seanpm2001-all, and seanwallawalla-forks are still present on the list, despite being deleted over 24 hours ago, and returning a 404 page when visiting them.
+
+Here were some of my key targets today:
+
+Seanpm2001-lifearchive ✅️
+snu-development ✅️
+Myrick-family-archive ✅️
+Seanpm2001-Gaming ✅️
+Seanpm2001-Android ✅️
+Seanpm2001-Apple ✅️
+seanwallawalla-software ✅️
+seanpm2001-lifearchive-extras ✅️
+seanpm2001-software ✅️
+Seanpm2001-privacy ✅️
+WacOS-dev ✅️
+DeGoogle-your-life ✅️
+SNU-2D ✅️
+Code-distancing ✅️
+Seanpm2001-education ✅️
+Seanpm2001-Linux ✅️
+Seanpm2001-Python ✅️
+Seanpm2001-CLI ✅️
+Seanpm2001-C-lang ✅️
+Seanpm2001-CPP-lang ✅️
+Seanpm2001-Markdown-lang ✅️
+Seanpm2001-Ruby-lang ✅️
+Seanpm2001-Google ✅️
+Year-of-the-Linux-desktop ✅️
+Candroid ✅️
