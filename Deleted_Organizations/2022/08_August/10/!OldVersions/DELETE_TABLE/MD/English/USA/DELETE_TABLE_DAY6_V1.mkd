@@ -1,0 +1,23 @@
+| Date (yyyy/ww/mm/dd) | # of Organizations deleted today | # of organizations deleted total | Percentage of total (daily) |  Total % of organizations deleted |
+|---|---|---|---|---|
+| **Day 1:** _2022, Friday, August 5th_ | `140` | `140` | `14.0%` | `14.0%` |
+| **Day 2:** _2022, Saturday, August 6th_ | `80` | `220` | `08.0%` | `22.0%` |
+| **Day 3:** _2022, Sunday, August 7th_ | `60` | `280` | `06.0%` | `28.0%` |
+| **Day 4:** _2022, Monday, August 8th_ | `80` | `360` | `08.0%` | `36.0%` |
+| **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
+| **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
+| **Day 7:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
+
+<!-- Notes
+Day 6: I accidentally deleted 1 extra organization today.
+!-->
+
+<!-- File info
+Table version: 6.0, day 6 (2022, Wednesday, August 10th at 5:00 pm PST)
+Type: Markdown document (*.md *.mkd *.mdown *.markdown)
+!-->
