@@ -19,24 +19,37 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 | **Day 4:** _2022, Monday, August 8th_ | `80` | `360` | `08.0%` | `36.0%` |
 | **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
 | **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
-| **Day 7:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
 | **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
+<!-- Notes
+Day 6: I accidentally deleted 1 extra organization today.
+!-->
+
+<!-- File info
+Table version: 7.0, day 7 (2022, Thursday, August 11th at 6:03 pm PST)
+Type: Markdown document (*.md *.mkd *.mdown *.markdown)
+!-->
+
 ### Notes
+
+**Day 1:** _The 140 organizations deleted today don't have in-depth screenshots, as the organizations were empty, and already had screenshot documentation of themselves._
+
+**Day 2:** _80 organizations were deleted today, in-depth screenshots started today as well._
+
+**Day 3:** _I had a difficult time today, and was only able to delete 60 organizations._
 
 **Day 4:** _I now plan to delete 80 organizations per day consistently until I finish deleting all of them._
 
+**Day 5:** _I continued with the plan of deleting 80 per day today. `seanpm2001-all` and `seanwallawalla-forks` were deleted, but still persist on my profile, despite the fact that any user (even me) that visits them gets a 404 error._
+
 **Day 6:** _I accidentally deleted 1 extra organization today._
 
-
-<!-- File info
-Table version: 6.0, day 6 (2022, Wednesday, August 10th at 5:00 pm PST)
-Type: Markdown document (*.md *.mkd *.mdown *.markdown)
-!-->
+**Day 7:** _I deleted 79 organizations today, instead of 80, to even out yesterdays mistake. I will continue to delete organizations 80 at a time tomorrow._
 
 ***
 
@@ -46,9 +59,9 @@ Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Wednesday, August 10th at 5:05 pm PST)`
+**File version:** `3 (2022, Thursday, August 11th at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `104`
+**Line count (including blank lines and compiler line):** `132`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -95,6 +108,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 3 (2022, Thursday, August 11th at 6:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `progress` section
+- - [x] Updated the `notes` subsection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
