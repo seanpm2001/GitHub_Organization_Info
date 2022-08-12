@@ -70,7 +70,7 @@ https://github.com/GitHubby-development
 https://github.com/Seanpm2001-JavaScript-lang
 ```
 
-</details> <!-- 2022 August 1th !-->
+</details> <!-- 2022 August 10th !-->
 
 [`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/10/README.urll)
 
@@ -87,6 +87,22 @@ https://github.com/Seanpm2001-Lisp-lang
 </details> <!-- 2022 August 11th !-->
 
 [`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/11/README.urll)
+
+</details>
+
+## 2022 August 12th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 August 12th list entry</b></p></summary>
+
+Only 1 organization that was created but never followed was discovered on 2022 August 12th:
+
+```urll
+https://github.com/Seanpm2001-Liquid-lang
+```
+
+</details> <!-- 2022 August 12th !-->
+
+[`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/12/README.urll)
 
 </details>
 
@@ -115,6 +131,7 @@ https://github.com/Seanpm2001-JokePrograms
 https://github.com/GitHubby-development
 https://github.com/Seanpm2001-JavaScript-lang
 https://github.com/Seanpm2001-Lisp-lang
+https://github.com/Seanpm2001-Liquid-lang
 ```
 
 </details>
@@ -127,9 +144,9 @@ https://github.com/Seanpm2001-Lisp-lang
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Thursday, August 11th at 6:30 pm PST)`
+**File version:** `6 (2022, Friday, August 12th at 4:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `243`
+**Line count (including blank lines and compiler line):** `277`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -234,6 +251,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2022, Friday, August 12th at 4:31 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/Follows/NeverFollowed/!OldVersions/README/English/USA/README_V6.md)
+
+> Changes:
+
+- [x] Utilized dropdowns for every section
+- [x] Added the `2022 August 12th` section
+- [x] Updated the `Compilation` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 6
 
 </details>
 
