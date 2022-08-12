@@ -20,7 +20,7 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 | **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
 | **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
 | **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
-| **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
 | **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
@@ -31,7 +31,7 @@ Day 6: I accidentally deleted 1 extra organization today.
 !-->
 
 <!-- File info
-Table version: 7.0, day 7 (2022, Thursday, August 11th at 6:03 pm PST)
+Table version: 8.0, day 8 (2022, Friday, August 12th at 4:17 pm PST)
 Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 !-->
 
@@ -51,6 +51,8 @@ Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 
 **Day 7:** _I deleted 79 organizations today, instead of 80, to even out yesterdays mistake. I will continue to delete organizations 80 at a time tomorrow._
 
+**Dya 8:** _I went back to deleting 80 organizations per day today. I expect to finish in 4 days. Today, I also have noted that my "what's left" screenshot contains an error (Firefox has been wrapping my username across a whole line of the list) it is possible to be fixed in the future with data and image manipulation._
+
 ***
 
 ### File info
@@ -59,9 +61,9 @@ Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Thursday, August 11th at 6:20 pm PST)`
+**File version:** `4 (2022, Friday, August 12th at 4:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `132`
+**Line count (including blank lines and compiler line):** `147`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -111,7 +113,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-
 <details><summary><p lang="en"><b>Version 3 (2022, Thursday, August 11th at 6:20 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -123,6 +124,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Friday, August 12th at 4:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `progress` section
+- - [x] Updated the `notes` subsection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 4
 
 </details>
 
