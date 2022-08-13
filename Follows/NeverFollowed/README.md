@@ -106,6 +106,22 @@ https://github.com/Seanpm2001-Liquid-lang
 
 </details>
 
+## 2022 August 13th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 August 13th list entry</b></p></summary>
+
+Yet again today, only 1 organization that was created but never followed was discovered on 2022 August 13th:
+
+```urll
+https://github.com/Seanpm2001-forkbombs
+```
+
+</details> <!-- 2022 August 13th !-->
+
+[`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/13/README.urll)
+
+</details>
+
 ***
 
 ## Compilation
@@ -132,7 +148,10 @@ https://github.com/GitHubby-development
 https://github.com/Seanpm2001-JavaScript-lang
 https://github.com/Seanpm2001-Lisp-lang
 https://github.com/Seanpm2001-Liquid-lang
+https://github.com/Seanpm2001-forkbombs
 ```
+
+**Total:** `18`
 
 </details>
 
@@ -144,9 +163,9 @@ https://github.com/Seanpm2001-Liquid-lang
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Friday, August 12th at 4:31 pm PST)`
+**File version:** `7 (2022, Saturday, August 13th at 3:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `277`
+**Line count (including blank lines and compiler line):** `314`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -268,6 +287,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Saturday, August 13th at 3:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/Follows/NeverFollowed/!OldVersions/README/English/USA/README_V7.md)
+
+> Changes:
+
+- [x] Added the `2022 August 13th` section
+- [x] Updated the `Compilation` section
+- - [x] Added 1 new entry
+- - [x] Added a counter
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 7
 
 </details>
 
