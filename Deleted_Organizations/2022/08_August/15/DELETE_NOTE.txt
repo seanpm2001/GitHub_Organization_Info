@@ -1,0 +1,30 @@
+
+---
+Delete notes for 2022, Monday, August 15th
+---
+
+Pictures have been provided that have the necessary details to recreate these organizations properly in the future.
+The complexity is gone. What I have left is easy. It has never really been too complex, as I enjoy doing this.
+
+Today, I deleted 80 more organizations, ending with only 80 to go. I will likely finish tomorrow.
+I likely won't have my main account back the same day as I delete the last remaining organization.
+
+As of 2022, Monday, August 15th at 2:50 pm PST, seanpm2001-all, and seanwallawalla-forks are still present on the list,
+despite being deleted over 144 hours ago, and returning a 404 page when visiting them.
+This has been a problem since 2022, Monday, August 9th.
+
+I went through and deleted 80 SNU organizations today. There would be only 1 unique icon left if seanpm2001-all and
+seanwallawalla-forks would have deleted by now.
+
+3 days ago, I have noted that my "what's left" screenshot contains an error (Firefox has been wrapping my username across a whole
+line of the list) it is possible to be fixed in the future with data and image manipulation.
+I still got the screenshot of this category for 2022, Saturday, August 13th, despite the error.
+The screenshot for 2022, Sunday, August 14th did not contain the error. The same is true for the 2022, Monday, August 15th
+screenshots.
+
+---
+File info
+File type: Plain text document (*.txt)
+File version: 1 (2022, Monday, August 15th at 2:50 pm PST)
+Line count (including blank lines and compiler line): 31
+---
