@@ -120,6 +120,21 @@ https://github.com/Seanpm2001-forkbombs
 
 [`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/13/README.urll)
 
+## 2022 August 14th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 August 14th list entry</b></p></summary>
+
+Today, 2 organizations that were created but never followed were discovered on 2022 August 14th:
+
+```urll
+https://github.com/The-offline-experience
+https://github.com/uDonate
+```
+
+</details> <!-- 2022 August 14th !-->
+
+[`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/14/README.urll)
+
 </details>
 
 ***
@@ -149,9 +164,11 @@ https://github.com/Seanpm2001-JavaScript-lang
 https://github.com/Seanpm2001-Lisp-lang
 https://github.com/Seanpm2001-Liquid-lang
 https://github.com/Seanpm2001-forkbombs
+https://github.com/The-offline-experience
+https://github.com/uDonate
 ```
 
-**Total:** `18`
+**Total:** `20`
 
 </details>
 
@@ -163,9 +180,9 @@ https://github.com/Seanpm2001-forkbombs
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Saturday, August 13th at 3:48 pm PST)`
+**File version:** `8 (2022, Sunday, August 14th at 5:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `314`
+**Line count (including blank lines and compiler line):** `349`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -305,6 +322,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2022, Sunday, August 14th at 5:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/Follows/NeverFollowed/!OldVersions/README/English/USA/README_V8.md)
+
+> Changes:
+
+- [x] Added the `2022 August 14th` section
+- [x] Updated the `Compilation` section
+- - [x] Added 2 new entries
+- - [x] Updated the counter
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 8
 
 </details>
 
