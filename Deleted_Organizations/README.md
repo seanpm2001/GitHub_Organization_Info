@@ -33,7 +33,7 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 | **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
 | **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
 | **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
-| **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 10:** _2022, Sunday, August 14th_ | `80` | `840` | `08.0%` | `84.0%` |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
@@ -63,9 +63,11 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 
 **Day 9:** _I suffered significant losses today, some of my most important organizations had to be deleted. There were some really special ones today._
 
+**Day 10:** _I finished deleting all non-SNU organizations today. My 'What's left' screenshot also contained no errors today, as the image wasn't wrapped due to how small the selection was._
+
 **Additional log:**
 
-The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Saturday, August 13th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 96 hours.
+The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
 
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
@@ -81,11 +83,11 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File info**
 
-**Table version:** `9.0, day 9 (2022, Saturday, August 13th at 3:34 pm PST)`
+**Table version:** `10.0, day 10 (2022, Sunday, August 14th at 5:08 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `82`
+**Line count (including blank lines and compiler line):** `84`
 
 </details>
 
@@ -99,9 +101,9 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Saturday, August 13th at 3:41 pm PST)`
+**File version:** `6 (2022, Sunday, August 14th at 5:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `200`
+**Line count (including blank lines and compiler line):** `217`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -191,6 +193,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2022, Sunday, August 14th at 5:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `progress` section
+- - [x] Updated the `notes` subsection
+- - [x] Updated the table to version 10
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 6
 
 </details>
 
