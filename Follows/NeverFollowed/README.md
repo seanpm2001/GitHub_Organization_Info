@@ -151,6 +151,20 @@ No entries for 2022 August 15th
 
 [`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/15/README.urll)
 
+## 2022 August 16th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 August 16th list entry</b></p></summary>
+
+No organizations that were created but never followed were discovered on 2022 August 16th. There will be no more discoveries in this area:
+
+```plain-text
+No entries for 2022 August 16th
+```
+
+</details> <!-- 2022 August 16th !-->
+
+[`View this entry separately`](/Follows/NeverFollowed/Discoveries/2022/08_August/16/README.urll)
+
 </details>
 
 ***
@@ -196,9 +210,9 @@ https://github.com/uDonate
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Monday, August 15th at 3:57 pm PST)`
+**File version:** `10 (2022, Tuesday, August 16th at 3:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `380`
+**Line count (including blank lines and compiler line):** `409`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -371,6 +385,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version 10 (2022, Tuesday, August 16th at 3:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/Follows/NeverFollowed/!OldVersions/README/English/USA/README_V10.md)
+
+> Changes:
+
+- [x] Added the `2022 August 16th` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 10
 
 </details>
 
