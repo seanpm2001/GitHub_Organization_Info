@@ -7,7 +7,7 @@ On 2022, Tuesday, July 19th, I was flagged on GitHub, but didn't get a response 
 
 Originally, I became hopeless, as despite having such a huge loss, GitHub denied my request to have them delete all my organizations for me, and now I have to do it manually. This later turned out to be a good thing, as I needed to salvage the data. The option to delete organizations myself wasn't visible until after the response, originally, it said to contact them about deleting each individual organization.
 
-Work is being done to ensure they can be recreated exactly. The deletion process started on August 5th, and is ongoing. It is expected to be finished by 2022, August 16th, but I likely won't get my account back on the same day.
+Work is being done to ensure they can be recreated exactly. The deletion process started on August 5th, and is now finished, as of 2022, Tuesday, August 16th. I likely won't get my account back on the same day as completion.
 
 ## Progress
 
@@ -39,7 +39,7 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 | **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
 | **Day 10:** _2022, Sunday, August 14th_ | `80` | `840` | `08.0%` | `84.0%` |
 | **Day 11:** _2022, Monday, August 15th_ | `80` | `920` | `08.0%` | `92.0%` |
-| **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 12:** _2022, Tuesday, August 16th_ | `80` | `1,000` | `08.0%` | `100.0%` |
 
 ***
 
@@ -71,6 +71,8 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 
 **Day 11:** _Only SNU organizations are left, and they all have the same icon. Tomorrow will be the last day of this project._
 
+**Day 12:** _I deleted the last 80 organizations today, which were all SNU organizations. During the last 22 entries, GitHub was deleting organizations by the time I got back to my profile from going back 3 pages, normally, I would have to reload the page first. The project is now complete, and I am contemplating what to do next to try and get my account back. The organization list would be empty if `seanpm2001-all` and `seanwallawalla-forks` would have gone away, but they have persisted for 7 days now._
+
 **Additional log:**
 
 The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
@@ -78,6 +80,8 @@ The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 20
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
 I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawalla/)) on 2022 August 9th, removing the reference to `seanwallawalla-software` and changing the location to match my main account.
+
+I began getting screenshots of the rendered markdown table on 2022, August 15th.
 
 </details>
 
@@ -89,11 +93,11 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File info**
 
-**Table version:** `11.0, day 11 (2022, Monday, August 15th at 2:56 pm PST)`
+**Table version:** `12.0, day 12 (2022, Tuesday, August 16th at 3:11 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `92`
+**Line count (including blank lines and compiler line):** `96`
 
 </details>
 
@@ -109,9 +113,9 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Monday, August 15th at 3:50 pm PST)`
+**File version:** `8 (2022, Tuesday, August 16th at 3:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `240`
+**Line count (including blank lines and compiler line):** `259`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -231,6 +235,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2022, Tuesday, August 16th at 3:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `progress` section
+- - [x] Updated the `notes` subsection
+- - [x] Updated the table to version 12
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 8
 
 </details>
 
