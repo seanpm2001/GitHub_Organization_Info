@@ -9,6 +9,8 @@ Originally, I became hopeless, as despite having such a huge loss, GitHub denied
 
 Work is being done to ensure they can be recreated exactly. The deletion process started on August 5th, and is now finished, as of 2022, Tuesday, August 16th. I likely won't get my account back on the same day as completion.
 
+An appeal was sent on 2022, August 19th. I am still awaiting a response.
+
 ## Progress
 
 <!-- Table: seanpm2001 organization deletion log 2022 August !-->
@@ -16,7 +18,7 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 
 ***
 
-### Seanpm2001 Organizaion deletion log 2022 August
+### Seanpm2001 Organization deletion log 2022 August
 
 ---
 
@@ -42,6 +44,8 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 | **Day 11:** _2022, Monday, August 15th_ | `80` | `920` | `08.0%` | `92.0%` |
 | **Day 12:** _2022, Tuesday, August 16th_ | `80` | `1,000` | `08.0%` | `100.0%` |
 | **Day 13:** _2022, Wednesday, August 17th_ | `0` | `1,000` | `0.0%` | `100.0%` |
+
+[`Table not loading, or want a different view, click/tap here for binary versions of this table`](/Graphics/GOI_Tables/Deletion/)
 
 ***
 
@@ -79,6 +83,12 @@ Work is being done to ensure they can be recreated exactly. The deletion process
 
 **Day 13:** _The project was completed yesterday. No data is available to delete. Although, I now notice that the option to `switch to another account` is gone. `seanpm2001-all` and `seanwallawalla-forks` have still not gone away, they have persisted for 8 days now._
 
+**Day 14:** _No data for today, the `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 9 days now. I worry it might interfere with my appeal._
+
+**Day 15:** _No data for today, the `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 10 days now. I worry it might interfere with my appeal. I sent an appeal tonight._
+
+**Day 16:** _No data for today, although I updated the table to make some enhancements, and fix a spelling error in the title. The `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 11 days now. I worry it might interfere with my appeal that was sent last night._
+
 **Additional log:**
 
 The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
@@ -101,11 +111,11 @@ Despite no data before 2022 August 5th, and after August 16th, I still really fe
 
 **File info**
 
-**Table version:** `13.0, day 13 (2022, Wednesday, August 17th at 2:27 pm PST)`
+**Table version:** `14.0, day 16 (2022, Saturday, August 20th at 4:52 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `104`
+**Line count (including blank lines and compiler line):** `112`
 
 </details>
 
@@ -115,15 +125,16 @@ Despite no data before 2022 August 5th, and after August 16th, I still really fe
 
 <!-- End of table !-->
 
+
 ### File info
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Wednesday, August 17th at 2:36 pm PST)`
+**File version:** `10 (2022, Saturday, August 20th at 5:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `281`
+**Line count (including blank lines and compiler line):** `337`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -147,6 +158,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V1.md)
+
 > Changes:
 
 - [x] Started the file
@@ -155,6 +168,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `progress` section
 - [x] Added the `file info` section
 - [x] Added the `file history` section
+- - [x] Added an entry for version 1
 - [ ] No other changes in version 1
 
 </details>
@@ -163,12 +177,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V2.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
 - - [x] Added the `notes` subsection
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 2
 - [ ] No other changes in version 2
 
 </details>
@@ -177,12 +194,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V3.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
 - - [x] Updated the `notes` subsection
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
 </details>
@@ -191,12 +211,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V4.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
 - - [x] Updated the `notes` subsection
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
 </details>
@@ -205,6 +228,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V5.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
@@ -212,6 +237,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Updated the table to version 9
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
 </details>
@@ -220,6 +246,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V6.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
@@ -227,6 +255,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Updated the table to version 10
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
 </details>
@@ -235,6 +264,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V7.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
@@ -242,6 +273,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Updated the table to version 11
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 7
 - [ ] No other changes in version 7
 
 </details>
@@ -250,6 +282,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V8.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
@@ -257,6 +291,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Updated the table to version 12
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 8
 - [ ] No other changes in version 8
 
 </details>
@@ -265,13 +300,34 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V9.md)
+
 > Changes:
 
 - [x] Updated the `progress` section
 - - [x] Updated the table to version 13
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version 10 (2022, Saturday, August 20th at 5:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this version separately:** [`Click/tap here`](/Deleted_Organizations/!OldVersions/README/English/USA/README_V10.md)
+
+> Changes:
+
+- [x] Updated the `progress` section
+- - [x] Updated the table to version 14
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- - [x] Added sub-entries to all 10 version entries for the `file history` section entry, along with a link to the local version
+- [ ] No other changes in version 10
 
 </details>
 
