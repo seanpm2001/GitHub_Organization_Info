@@ -1,0 +1,12 @@
+
+==Bells and whistles improvements:==
+
+===2020 January 1st-2022 March 20th===
+
+1. A forward link (previous day) and a backward link (next day) on each entry file
+
+2. The day of the week on each entry file
+
+===File info===
+
+<b>File version:</b> <i>1 (2022, Friday, December 16th at 9:16 pm PST)</i>
