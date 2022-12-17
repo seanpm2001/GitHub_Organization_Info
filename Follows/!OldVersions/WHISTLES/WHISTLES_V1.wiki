@@ -1,0 +1,16 @@
+
+==Bells and whistles==
+
+===Whistles===
+
+See [/Follows/BELLS.wiki]
+
+Once a bell is accomplished, it will be listed below as a whistle:
+
+= <b>Slot 1 (Null)</b>
+
+= <b>Slot 2 (Null)</b>
+
+===File info===
+
+<b>File version:</b> <i>1 (2022, Friday, December 16th at 9:28 pm PST)</i>
