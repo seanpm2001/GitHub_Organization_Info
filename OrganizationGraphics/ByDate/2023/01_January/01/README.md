@@ -1,7 +1,7 @@
 
 ***
 
-# 2022, Sunday, January 1st 📅
+# 2023, Sunday, January 1st 📅
 
 ## No data 🚫
 
@@ -243,9 +243,9 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Sunday, January 1st at 3:11 pm PST)`
+**File version:** `2 (2022, Sunday, January 1st at 3:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `304`
+**Line count (including blank lines and compiler line):** `326`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -269,7 +269,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2022/December/31/!OldVersions/README/English/USA/README_V1.md)
+**View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2023/01_Januart/01/!OldVersions/README/English/USA/README_V1.md)
 
 > Changes:
 
@@ -295,6 +295,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Sunday, January 1st at 3:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2023/01_January/01/!OldVersions/README/English/USA/README_V2.md)
+
+> Changes:
+
+- [x] Fixed some critical typos
+- [x] Updated the `file info` section
+- - [x] Updated the file type
+- - [x] Updated the file version
+- - [x] Updated the line count
+- - [x] Updated the language
+- - [x] Updated the encoding
+- - [x] Updated the DST warning
+- - [x] Updated the special rendering note
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
 
 </details>
 
