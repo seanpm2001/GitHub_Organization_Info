@@ -155,7 +155,7 @@ My account was still restored today. - 2022, Saturday, August 27th to 2022, Satu
 
 My account was still restored today in the new year of 2023. - 2023, Sunday, January 1st
 
-My account was still restored today. - 2023, Sunday, January 2nd to 2023, Thgursday, March 9th
+My account was still restored today. - 2023, Sunday, January 2nd to 2023, Saturday, March 11th
 
 - Restored for `197` days (last checked on 2023, Saturday, March 11th [`with this link`](https://duckduckgo.com/?t=ffab&q=Days+since+August+26th+2022&ia=answer)) (note: time zone difference, DuckDuckGo does not use Pacific Daylight Time, it seems to be using the Eastern Time Zone)
 
@@ -215,21 +215,21 @@ This is a start, but it won't help at all for the organization part of things. I
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-**Organizations created today:** `00` [`[View]`](/NewOrgs/2023/03_March/README.md#2023-March-10th)
+**Organizations created today:** `00` [`[View]`](/NewOrgs/2023/03_March/README.md#2023-March-11th)
   
-**Generated photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Generated/)
+**Generated photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Generated/)
 
-**New photos in use from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Used/)
+**New photos in use from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Used/)
 
-> **New photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Used/)
+> **New photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Used/)
 
-> **Re-used photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Used/)
+> **Re-used photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Used/)
 
-**New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Unused/)
+**New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Unused/)
 
-**Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/Project_Files/)
+**Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/Project_Files/)
 
-**Total image files:** `00` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/10/)
+**Total image files:** `00` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2023/03_March/11/)
 
 <!-- TODO
 NTS: If there are no project files for a week, don't remove the counter, just blank it (set it to 0)
@@ -245,9 +245,9 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Saturday, March 11th at 12:59 pm PST)`
+**File version:** `2 (2023, Sunday, March 12th at 5:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `306`
+**Line count (including blank lines and compiler line):** `328`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -297,6 +297,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Sunday, March 12th at 5:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2023/03_March/11/!OldVersions/README/English/USA/README_V2.md)
+
+> **Note** Updates were needed
+
+> Changes:
+
+- ...
+- - [x] Updated the `2022, Friday, August 26th to 2023, Saturday, March 11th` subsection
+- [x] Updated the `statistics` section
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
