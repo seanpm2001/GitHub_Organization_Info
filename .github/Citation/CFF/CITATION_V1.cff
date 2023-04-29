@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "GitHub_Organization_Info"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/GitHub_Organization_Info"
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-29
+url: "https://github.com/seanpm2001/GitHub_Organization_Info"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "Seans (@seanpm2001/@seanwallawalla/@seantrm) personal GitHub organization info database. It is here for reference and documentation purposes. It lists all my organizations, their purpose, info about them, and more. It also offers utilities to enhance the experience. It is used for documentation and reference purposes. Among the things documented includes profile pictures, descriptions, URLs, information about how the orgs are used, their creation date, what they are for, and more."
+  issue: 1
+  volume: 1
+  year: 2021
+# File info
+# File version: 1 (2021, Wednesday, December 29th at 2:54 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
