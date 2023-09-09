@@ -1,7 +1,7 @@
 
 ***
 
-# 2023, Monday, September 3rd
+# 2023, Tuesday, September 4th
 
 ## Deleted organizations
 
@@ -27,9 +27,9 @@ There is no data here. Organizations finished being deleted on 2022, Tuesday, Au
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Friday, September 8th at 06:17 pm PST)`
+**File version:** `2 (2023, Friday, September 8th at 06:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `79`
+**Line count (including blank lines and compiler line):** `73`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -49,7 +49,7 @@ There is no data here. Organizations finished being deleted on 2022, Tuesday, Au
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-<details><summary><p lang="en"><b>Version 1 (2023, Friday, September 8th at 06:17 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 1 (2023, Friday, September 8th at 06:19 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -72,6 +72,20 @@ There is no data here. Organizations finished being deleted on 2022, Tuesday, Au
 - [ ] No other changes in version 1
 
 </details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Friday, September 8th at 06:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Fixed the title to show the correct date
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
