@@ -1,0 +1,18 @@
+
+***
+
+# GOI
+
+## Former glory
+
+It would be nice to see this project partially resemble its former glory. It won't be able to achieve this on GitHub itself, but it can come close.
+
+It will take a long time. This repository once had 862 forks (at its peak on 2022, August 4th) As of 2023, Sunday, January 8th, it only has 5 forks. It would be nice for it to someday come back to this amount, and also go to 1000 or more forks.
+
+Of course, the original organizations won't be there. I am not asking you to fork it just because, this should come naturally.
+
+***
+
+**File version:** `1 (2023, Sunday, January 8th at 4:15 pm PST)`
+
+***
