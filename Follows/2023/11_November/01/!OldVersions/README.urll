@@ -28,22 +28,25 @@
 //// Note: I plan to follow 16 organizations per day from 2023 October 23rd to
 //// 2023 November 2nd). Today was day 10.
 
-https://github.com/netlify
-https://github.com/dimagi
-https://github.com/dbt-labs
-https://github.com/mulesoft-labs
-https://github.com/AOEpeople
-https://github.com/praekeltfoundation
-https://github.com/hybridgroup
-https://github.com/kodecocodes
-https://github.com/thoughtbot
-https://github.com/algolia
-https://github.com/segment-boneyard
-https://github.com/LLNL
-https://github.com/discourse
-https://github.com/newrelic
-https://github.com/digitalbazaar
-https://github.com/dbpedia
+https://github.com/Esri
+https://github.com/puppetlabs
+https://github.com/googleapis
+https://github.com/pabio
+https://github.com/scala
+https://github.com/facebookarchive
+https://github.com/CompVis
+https://github.com/GPUOpen-LibrariesAndSDKs
+https://github.com/harvard-lil
+https://github.com/leanflutter
+https://github.com/bellingcat
+https://github.com/vmware-archive
+https://github.com/status-im
+https://github.com/calm
+https://github.com/docker
+https://github.com/storybookjs
+
+//// I originally kept the data from yesterday in this file.
+//// I had to make a V2 to add the correct data.
 
 //// Total: 16
 
@@ -435,6 +438,7 @@ https://github.com/goldmansach //// 0r (all repositories made private) (discover
 
 //// File info
 //// File type: URLL v3 source file (*.urll)
-//// File version: 1 (2023, Wednesday, November 1st at 04:52 pm PST)
-//// Line count (including blank lines and compiler line): 441
+//// File version: 2 (2023, Wednesday, November 1st at 06:36 pm PST)
+//// Line count (including blank lines and compiler line): 445
 //// EOF (End of File)
+
