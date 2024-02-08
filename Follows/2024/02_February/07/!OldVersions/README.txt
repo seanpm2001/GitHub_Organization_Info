@@ -23,12 +23,26 @@
 //// my queue too slowly, and it would have taken until late 2025 to get
 //// it done at the previous rate.
 
-//// Follows from today (0)
+//// Follows from today (12)
 //// As of: 2024, Wednesday, February 7th
 
-//// No new organizations were followed today. This is a filler entry.
+https://github.com/sb
+https://github.com/MacRuby
+https://github.com/gobblejs
+https://github.com/DenizenScript
+https://github.com/CitizensDev
+https://github.com/smallbasic
+https://github.com/pixelfed
+https://github.com/kitetail
+https://github.com/PHP-FFMpeg
+https://github.com/Bacon
+https://github.com/protonemedia
+https://github.com/tor2web
 
-//// Total: 0
+//// This file originally had 0 entries listed. I had to fix it in a V2 update
+//// the following day.
+
+//// Total: 12
 
 //// Template
 //// No new organizations were followed today. This is a filler entry.
@@ -565,6 +579,6 @@ https://github.com/goldmansach //// 0r (all repositories made private) (discover
 
 //// File info
 //// File type: URLL v3 source file (*.urll)
-//// File version: 1 (2024, Wednesday, February 7th at 04:47 pm PST)
-//// Line count (including blank lines and compiler line): 571
+//// File version: 2 (2024, Thursday, February 8th at 03:14 pm PST)
+//// Line count (including blank lines and compiler line): 585
 //// EOF (End of File)
