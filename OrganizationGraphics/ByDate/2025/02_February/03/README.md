@@ -10,7 +10,7 @@
 <div align="center">
     <H6 id="Top"><a href="#Top">Top</a></H6>
     <img alt="GOI logo failed to load. Click/tap here to attempt to view it" src="/GitHubOrganizationIcon_Custom1.png" title="GOI logo" width="256" height="256" class="center"/>
-    <H1 id="Title"><a href="#Title">2025, Myrick, February 3rd 📅</a></H1> <!-- TODO: This line should be updated daily !-->
+    <H1 id="Title"><a href="#Title">2025, Monday, February 3rd 📅</a></H1> <!-- TODO: This line should be updated daily !-->
     <H2 id="NoData"><a href="#NoData">No data 🚫</a></H2>
     <H3 id="About"><a href="#About">About ℹ️</a></H3>
 </div>
@@ -652,12 +652,12 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2025, Monday, February 3rd at 07:47 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `798` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,821` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `50,649` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `42,654` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `51,020` <!-- TODO: This line should be updated daily !-->
+- **File version:** `2 (2025, Monday, February 3rd at 07:51 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `821` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,951` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `51,529` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `43,398` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `51,900` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -740,6 +740,29 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 - [ ] No other changes in version 1
 
 </details> <!-- End of file history: version 1 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 2 (2025, Monday, February 3rd at 07:51 pm PST)</b></p></summary> <!-- This section should be updated daily !--> <!-- TODO: This line should be updated daily !-->
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2025/02_February/03/!OldVersions/README/English/USA/README_V2.md)
+
+> **Note** _Fixing a typo. Wasn't paying attention to what I was doing_ <!-- TODO: This line should be updated daily !-->
+
+> **Changes:**
+
+- [x] Fixed rypo
+- [x] Updated the `File info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+</details> <!-- End of file history: version 2 section !-->
+
+---
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
