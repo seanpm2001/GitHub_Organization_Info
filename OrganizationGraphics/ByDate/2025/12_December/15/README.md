@@ -10,7 +10,7 @@
 <div align="center">
     <H6 id="Top"><a href="#Top">Top</a></H6>
     <img alt="GOI logo failed to load. Click/tap here to attempt to view it" src="/GitHubOrganizationIcon_Custom1.png" title="GOI logo" width="256" height="256" class="center"/>
-    <H1 id="Title"><a href="#Title">2025, Tuesday, December 16th 📅</a></H1> <!-- TODO: This line should be updated daily !-->
+    <H1 id="Title"><a href="#Title">2025, Monday, December 15th 📅</a></H1> <!-- TODO: This line should be updated daily !-->
     <H2 id="NoData"><a href="#NoData">No data 🚫</a></H2>
     <H3 id="About"><a href="#About">About ℹ️</a></H3>
 </div>
@@ -21,7 +21,7 @@
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the lead section)</b></p></summary> <!-- This section should be updated daily !-->
 
-_No new organizations were created (or deleted) by me on 2025, Tuesday, December 16th, There is no new data here. It is expected that no more organizations will be created by me (on_ [:octocat: `GitHub`](https://github.com/)) <!-- TODO: This line should be updated daily !-->
+_No new organizations were created (or deleted) by me on 2025, Monday, December 15th, There is no new data here. It is expected that no more organizations will be created by me (on_ [:octocat: `GitHub`](https://github.com/)) <!-- TODO: This line should be updated daily !-->
 
 ---
 
@@ -43,16 +43,16 @@ _No new organizations were created (or deleted) by me on 2025, Tuesday, December
 
 | 🔰️ **Order** 🔰️ | 📋️ **Event** 📋️ | ⏱️ **Days ago** 🗓️ |
 |------------------|------------------|---------------------|
-| #️⃣️ `01` | **(final organizations) Organizations #991 to #1000 created on:** `2022, Sunday, July 15th` | `1,252` days ago (last checked: 2024, Saturday, January 6th with this link: [**DuckDuckGo:** _"Days since July 15th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+july+15th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `02` | **Account flagged on:** `2022, Tuesday, July 19th` | `1,248` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since July 19th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+july+19th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `03` | **Response received on:** `2022, Wednesday, August 3rd` | `1,228` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 3rd 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+3rd+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `04` | **Delete all request denied on:** `2022, Thursday, August 4th` | `1,227` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 4th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+4th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `05` | **Delete all attempt failed on:** `2022, Friday, August 5th` | `1,226` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 5th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+5th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `06` | **Organization deletion started on:** `2022, Friday, August 6th` | `1,225` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 6th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+6th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `07` | **Organizations finished being deleted on:** `2022, Wednesday, August 16th` | `1,215` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 16th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+16th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `01` | **(final organizations) Organizations #991 to #1000 created on:** `2022, Sunday, July 15th` | `1,251` days ago (last checked: 2024, Saturday, January 6th with this link: [**DuckDuckGo:** _"Days since July 15th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+july+15th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `02` | **Account flagged on:** `2022, Tuesday, July 19th` | `1,249` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since July 19th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+july+19th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `03` | **Response received on:** `2022, Wednesday, August 3rd` | `1,227` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 3rd 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+3rd+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `04` | **Delete all request denied on:** `2022, Thursday, August 4th` | `1,226` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 4th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+4th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `05` | **Delete all attempt failed on:** `2022, Friday, August 5th` | `1,225` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 5th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+5th+2022&ia=answer) ) | <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `06` | **Organization deletion started on:** `2022, Friday, August 6th` | `1,224` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 6th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+6th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `07` | **Organizations finished being deleted on:** `2022, Wednesday, August 16th` | `1,214` days ago (last checked: 2023, Wednesday, October 18th with this link: [**DuckDuckGo:** _"Days since August 16th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+16th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
 | #️⃣️ `08` | **Third appeal sent on:** `2022, Saturday, August 19th)` | `1,211` days ago (last checked: 2023, Thursday, October 19th with this link: [**DuckDuckGo:** _"Days since August 19th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+19th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `09` | **Third appeal wait period started on:** `2022, Sunday, August 20th)` | `1,211` days ago (last checked: 2024, Friday, March 1st with this link: [**DuckDuckGo:** _"Days since August 20th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+20th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
-| #️⃣️ `10` | **Account restored on:** `2022, Friday, August 26th` | `1,204` days ago (last checked: 2024, Saturday, January 6th with this link: [**DuckDuckGo:** _"Days since August 26th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+26th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `09` | **Third appeal wait period started on:** `2022, Sunday, August 20th)` | `1,210` days ago (last checked: 2024, Friday, March 1st with this link: [**DuckDuckGo:** _"Days since August 20th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+20th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
+| #️⃣️ `10` | **Account restored on:** `2022, Friday, August 26th` | `1,203` days ago (last checked: 2024, Saturday, January 6th with this link: [**DuckDuckGo:** _"Days since August 26th 2022"_](https://duckduckgo.com/?t=ffab&q=days+since+August+26th+2022&ia=answer) ) |  <!-- TODO: This line should be updated daily !-->
 | 🔰️ **Order** 🔰️ | 📋️ **Event** 📋️ | ⏱️ **Days ago** 🗓️ |
 
 </details> <!-- End: SummaryTimeline.MainTable !-->
@@ -99,7 +99,7 @@ _This document is now mainly a timeline of my account suspension, organization d
 - - [`Second appeal`](#Second-appeal-)
 - - [`2022 August 19th (3rd-appeal)`](#2022-August-19th-3rd-appeal-)
 - - [`2022 August 20th to 2022 August 25th (3rd appeal wait period)`](#August-20th-to-2022-August-25th-3rd-appeal-wait-period-)
-- - [`2022, Friday, August 26th to 2025, Tuesday, December 16th (account restoration period)`](2022-Friday-August-26th-to-2025-Tuesday-December-16th-account-restoration-period-) <!-- TODO: This line should be updated daily !-->
+- - [`2022, Friday, August 26th to 2025, Monday, December 15th (account restoration period)`](2022-Friday-August-26th-to-2025-Monday-December-15th-account-restoration-period-) <!-- TODO: This line should be updated daily !-->
 - [`Life under account suspension`](#Life-under-account-suspension-)
 - [`Post-deletion commentary`](#Post-deletion-commentary-)
 - - [`What is digital irredentism?`](#What-is-digital-irredentism-)
@@ -319,7 +319,7 @@ I am waiting for a response to my 3rd appeal to GitHub. I have not yet received 
 
 </details> <!-- End of timeline part 2: 2022 August 22nd to 25th section !-->
 
-### [2022, Friday, August 26th to 2025, Tuesday, December 16th (account restoration period) 🎊️](#2022-Friday-August-26th-to-2025-Sunday-December-14th--account-restoration-period-) <!-- TODO: This line should be updated daily !-->
+### [2022, Friday, August 26th to 2025, Sunday, December 14th (account restoration period) 🎊️](#2022-Friday-August-26th-to-2025-Sunday-December-14th--account-restoration-period-) <!-- TODO: This line should be updated daily !-->
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
 
@@ -384,11 +384,11 @@ I am waiting for a response to my 3rd appeal to GitHub. I have not yet received 
 - [2025, September] My account was still restored today. - 2025, Monday, September 1st to 2025, Tuesday, September 30th
 - [2025, October] My account was still restored today. - 2025, Wednesday, October 1st to 2025, Friday, October 31st
 - [2025, November] My account was still restored today. - 2025, Saturday, November 1st to 2025, Sunday, November 30th
-- [2025, December] My account was still restored today. - 2025, Monday, December 1st to 2025, Tuesday, December 16th
+- [2025, December] My account was still restored today. - 2025, Monday, December 1st to 2025, Monday, December 15th
 
 <!-- - [2025, May, continued again once more] My account was still restored today. - 2025, Tuesday, May 6th to 2025, Wednesday, May 14th !-->
 
-- More entries coming soon - 2025, Monday, December 1st to 2025, Tuesday, December 16th
+- More entries coming soon - 2025, Monday, December 1st to 2025, Monday, December 15th
 
 <!-- Next milestones
 2023, August 16th - All organizations deleted (1 year ago)
@@ -419,7 +419,7 @@ I am waiting for a response to my 3rd appeal to GitHub. I have not yet received 
 
 <!-- END: TODO !-->
 
-- Restored for `1,204` days (last checked on: 2024, Monday, March 25th, [`with this link`](https://duckduckgo.com/?t=ffab&q=Days+since+August+26th+2022&ia=answer)) (note: time zone difference, DuckDuckGo does not use Pacific Daylight Time, it seems to be using the Eastern Time Zone) (the link no longer works, DuckDuckGo seemed to remove this instant answer response) <!-- TODO: This line should be updated daily !-->
+- Restored for `1,203` days (last checked on: 2024, Monday, March 25th, [`with this link`](https://duckduckgo.com/?t=ffab&q=Days+since+August+26th+2022&ia=answer)) (note: time zone difference, DuckDuckGo does not use Pacific Daylight Time, it seems to be using the Eastern Time Zone) (the link no longer works, DuckDuckGo seemed to remove this instant answer response) <!-- TODO: This line should be updated daily !-->
 
 **Why this detailed log message is still here:** _This message goes over an important part of my history on GitHub, and goes over the major organization issue I had. It is kept for historical significance, and as a reference. Plus, nothing else new is coming to this file._
 
@@ -642,14 +642,14 @@ _End of section_
   <tr>
     <td>
     
-- **Organizations created today:** `00` [`[View]`](/NewOrgs/2025/12_December/README.md#2025-December-16th) <!-- TODO: This line should be updated daily !-->
-- **Generated photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Generated/) <!-- TODO: This line should be updated daily !-->
-- **New photos in use from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Used/) <!-- TODO: This line should be updated daily !-->
-- - **New photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Used/) <!-- TODO: This line should be updated daily !-->
-- - **Re-used photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Used/) <!-- TODO: This line should be updated daily !-->
-- **New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Unused/) <!-- TODO: This line should be updated daily !-->
-- **Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/Project_Files/) <!-- TODO: This line should be updated daily !-->
-- **Total image files:** `00` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/16/) <!-- TODO: This line should be updated daily !-->
+- **Organizations created today:** `00` [`[View]`](/NewOrgs/2025/12_December/README.md#2025-December-15th) <!-- TODO: This line should be updated daily !-->
+- **Generated photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Generated/) <!-- TODO: This line should be updated daily !-->
+- **New photos in use from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Used/) <!-- TODO: This line should be updated daily !-->
+- - **New photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Used/) <!-- TODO: This line should be updated daily !-->
+- - **Re-used photos from today:** `00` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Used/) <!-- TODO: This line should be updated daily !-->
+- **New photos out of use from today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Unused/) <!-- TODO: This line should be updated daily !-->
+- **Project files for today:** `0` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/Project_Files/) <!-- TODO: This line should be updated daily !-->
+- **Total image files:** `00` + `0 project files` [`[View]`](/OrganizationGraphics/ByDate/2025/12_December/15/) <!-- TODO: This line should be updated daily !-->
 
     </td>
   </tr>
@@ -674,10 +674,10 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2025, Tuesday, December 16th at 07:18 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **File version:** `1 (2025, Monday, December 15th at 08:19 pm PST)` <!-- TODO: This line should be updated daily !-->
 - **Line count (including blank lines and compiler line):** `820` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,448` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `53,602` <!-- TODO: This line should be updated daily !-->
+- **Word count:** `08,447` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `53,588` <!-- TODO: This line should be updated daily !-->
 - **Character count (excluding spaces):** `??,???` <!-- TODO: This line should be updated daily !-->
 - **Size (in bytes):** `,,?,,,` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
@@ -706,12 +706,12 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 
 ---
 
-<details><summary><p lang="en"><b>Version 1 (2025, Tuesday, December 16th at 07:18 pm PST)</b></p></summary> <!-- This section should be updated daily !--> <!-- TODO: This line should be updated daily !-->
+<details><summary><p lang="en"><b>Version 1 (2025, Monday, December 15th at 08:19 pm PST)</b></p></summary> <!-- This section should be updated daily !--> <!-- TODO: This line should be updated daily !-->
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
-- **View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2025/12_December/16/!OldVersions/README/English/USA/README_V1.md) <!-- TODO: This line should be updated daily !-->
+- **View this version separately:** [`Click/tap here`](/OrganizationGraphics/ByDate/2025/12_December/15/!OldVersions/README/English/USA/README_V1.md) <!-- TODO: This line should be updated daily !-->
 
-> **Note** _Continuing for a 2nd consecutive day_
+> **Note** _Continuing for 1 consecutive day_
 
 > **Changes:**
 
@@ -735,7 +735,7 @@ NTS: If there are no project files for a week, don't remove the counter, just bl
 - - [x] Added the `2023, Wednesday, August 16th` subsection
 - - [x] Added the `2023, Thursday, August 17th to 2023, Friday, August 25th` subsection
 - - [x] Added the `2023, Saturday, August 26th` subsection
-- - [x] Added the `2023, Sunday, August 27th to 2025, Tuesday, December 16th` subsection <!-- TODO: This line should be updated daily !-->
+- - [x] Added the `2023, Sunday, August 27th to 2025, Monday, December 15th` subsection <!-- TODO: This line should be updated daily !-->
 - - [x] Added a footnote  on the significance of the organization issue
 - [x] Added the `Life under account suspension` section
 - [x] Added the `Post-deletion commentary` section
